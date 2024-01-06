@@ -1,0 +1,10000 @@
+Andorra la Vella;3.3
+Hiroshima;-3.4
+Austin;23.5
+Fianarantsoa;22.1
+Assab;31.7
+Durban;25.9
+Port Vila;12.6
+El Paso;11.6
+Addis Ababa;31.1
+Vilnius;1.5
+Ashgabat;16.5
+Ouagadougou;33.6
+San Diego;14.9
+Honiara;5.7
+Valletta;10.4
+Garissa;36.7
+Adelaide;28.9
+Toliara;23.6
+Dublin;25.8
+Bosaso;42.1
+Alexandra;16.4
+Tegucigalpa;17.9
+Jakarta;26.1
+Vienna;2.4
+New Orleans;32.7
+Jayapura;42.3
+Ashgabat;22.2
+Bata;21.8
+Tbilisi;3.1
+Vientiane;22.1
+Port-Gentil;34.1
+Ouarzazate;9.0
+Sacramento;9.6
+Wau;47.9
+Kuopio;8.8
+Launceston;25.7
+Lusaka;26.2
+Cairo;17.4
+Bujumbura;7.7
+Almaty;-8.5
+Ifrane;2.0
+Zanzibar City;39.7
+Palm Springs;24.0
+Dar es Salaam;25.4
+Xi'an;33.0
+Khartoum;15.6
+Sokoto;34.1
+Baltimore;2.6
+Wichita;32.4
+Mexicali;20.4
+Novosibirsk;-14.9
+Hargeisa;25.8
+Hat Yai;24.5
+Kabul;-14.8
+Belgrade;8.2
+Napier;14.9
+Aden;15.4
+Dolisie;25.3
+Novosibirsk;16.9
+Bilbao;6.3
+Ngaoundéré;29.0
+Gjoa Haven;1.4
+Odienné;37.3
+Wrocław;-0.1
+Almaty;-8.4
+Bissau;30.5
+Hanga Roa;14.5
+Ouagadougou;12.6
+Mexicali;30.0
+Philadelphia;6.9
+San Francisco;14.4
+Xi'an;25.5
+Stockholm;14.0
+Bridgetown;15.8
+Las Palmas de Gran Canaria;29.6
+Fresno;21.7
+Stockholm;14.9
+New Orleans;8.3
+Podgorica;21.8
+Phnom Penh;39.2
+Dallas;17.1
+Dili;7.2
+Mexico City;7.4
+Tunis;4.2
+Hamburg;-2.9
+Lodwar;24.8
+Tijuana;21.4
+Kuala Lumpur;24.5
+Valencia;38.1
+Kolkata;38.2
+Saint Petersburg;2.2
+Panama City;30.0
+Dampier;41.8
+Tampa;29.5
+Oulu;-15.9
+Douala;18.3
+Monterrey;30.0
+Harbin;24.4
+Livingstone;20.0
+Asmara;25.5
+Jos;30.2
+Podgorica;24.1
+Erzurum;19.0
+Singapore;42.5
+Sapporo;4.2
+Pointe-Noire;30.8
+Murmansk;9.5
+Suwałki;13.6
+Porto;7.7
+New Orleans;35.3
+Timbuktu;10.5
+Bata;23.9
+Portland (OR);27.0
+Veracruz;17.9
+Jakarta;28.5
+Copenhagen;12.5
+Chittagong;17.7
+Lodwar;18.1
+Entebbe;33.2
+Louisville;19.5
+Jerusalem;2.1
+Erzurum;2.1
+Dhaka;14.0
+Seoul;21.8
+Heraklion;22.3
+Malé;39.2
+Taipei;44.6
+Murmansk;-2.1
+Mzuzu;14.1
+Phnom Penh;40.1
+Saint Petersburg;20.9
+Pontianak;24.2
+Karonga;23.2
+Anadyr;-6.2
+Palembang;22.5
+Napoli;25.8
+Erbil;20.5
+Asmara;46.8
+Kabul;10.1
+Detroit;23.1
+Port Sudan;46.2
+Paris;19.2
+Tromsø;0.3
+Bangkok;19.3
+Flores,  Petén;33.0
+Valencia;30.3
+Tromsø;6.3
+Cape Town;12.8
+Vladivostok;-2.8
+Birao;52.5
+Chicago;7.1
+Yerevan;24.0
+Palm Springs;24.8
+Tallinn;19.0
+Da Nang;21.7
+Kumasi;24.5
+Yinchuan;12.1
+Istanbul;23.2
+Boise;29.7
+Oklahoma City;9.3
+Palembang;34.8
+Thiès;6.8
+Erzurum;-7.9
+Sana'a;17.9
+Memphis;6.3
+Xi'an;34.0
+Palmerston North;-5.5
+Dublin;11.7
+Bangkok;25.4
+Harbin;-1.8
+Portland (OR);13.9
+Dodoma;15.8
+Charlotte;19.6
+Singapore;36.6
+Mango;17.5
+Muscat;12.5
+Tallinn;19.1
+Nuuk;5.9
+Havana;24.3
+George Town;30.9
+Reykjavík;4.9
+Tel Aviv;20.9
+Batumi;12.6
+Ghanzi;40.9
+Assab;19.7
+Philadelphia;28.1
+Guatemala City;18.8
+Libreville;24.2
+Chongqing;17.7
+Portland (OR);16.7
+Brussels;8.8
+Houston;22.3
+Toamasina;31.8
+Roseau;19.8
+Ngaoundéré;12.9
+Managua;10.3
+Panama City;15.9
+Tallinn;10.8
+Lisbon;26.5
+Asmara;10.5
+St. John's;-17.7
+Mandalay;21.5
+Belgrade;28.0
+Naha;18.3
+Lake Tekapo;3.1
+Dubai;33.3
+Gangtok;8.5
+Bangkok;37.0
+Anadyr;-5.1
+Baguio;3.9
+Lhasa;8.5
+Dolisie;36.5
+Rangpur;24.5
+Birao;30.0
+Chihuahua;16.4
+San Diego;12.9
+Thiès;20.1
+Addis Ababa;-3.2
+Dolisie;27.8
+Ulaanbaatar;9.7
+Helsinki;7.9
+Surabaya;40.3
+Oranjestad;19.5
+Palermo;25.2
+Budapest;29.5
+Lusaka;9.4
+Port Sudan;41.3
+Canberra;4.1
+Tashkent;-1.4
+Ghanzi;15.4
+Baghdad;2.5
+Libreville;29.0
+Abidjan;29.7
+Lake Tekapo;30.2
+Kunming;11.6
+Ndola;19.9
+Lake Havasu City;17.2
+Niamey;28.2
+Philadelphia;6.2
+Assab;37.4
+Garoua;51.1
+Tunis;23.9
+Edinburgh;15.2
+Harbin;-0.6
+Valencia;-1.6
+Hamburg;16.0
+Toamasina;25.8
+London;20.2
+Brazzaville;20.5
+Sarajevo;22.4
+Dampier;24.3
+Houston;24.6
+Nairobi;3.7
+Hargeisa;35.2
+Kankan;37.8
+Mandalay;22.3
+Albuquerque;-5.0
+Ouahigouya;9.7
+Vancouver;4.0
+Pittsburgh;1.5
+Yaoundé;44.0
+Tel Aviv;13.4
+Gagnoa;32.6
+Flores,  Petén;22.7
+Albuquerque;13.0
+Timbuktu;28.0
+Bujumbura;11.2
+Ho Chi Minh City;36.3
+Bissau;26.8
+Aden;27.1
+Ouahigouya;27.0
+Gagnoa;26.5
+Durban;10.7
+Boise;17.8
+Burnie;19.0
+Boston;5.9
+Ljubljana;15.9
+Gabès;30.3
+Cabo San Lucas;11.2
+Budapest;7.8
+Baku;5.3
+Shanghai;7.7
+Bujumbura;33.8
+Bridgetown;32.7
+Yaoundé;26.8
+Las Vegas;15.2
+Vladivostok;4.6
+Singapore;27.0
+Juba;29.1
+Kolkata;32.2
+Hanga Roa;11.0
+Oulu;-11.4
+Jacksonville;9.0
+Houston;22.6
+Bridgetown;24.0
+Tamanrasset;22.5
+Mzuzu;31.1
+Murmansk;-13.6
+Kyiv;0.7
+Cabo San Lucas;30.0
+Darwin;39.7
+Mexico City;23.8
+Kolkata;40.6
+Cabo San Lucas;14.1
+Dushanbe;-9.6
+Lahore;-3.7
+Palm Springs;3.5
+Portland (OR);28.3
+Vientiane;28.9
+Mango;36.4
+Bangkok;22.8
+Bergen;-11.4
+Santo Domingo;12.6
+Douala;30.5
+Ho Chi Minh City;9.0
+Dar es Salaam;32.9
+Tunis;9.6
+El Paso;15.7
+Villahermosa;25.6
+Mumbai;14.2
+Chiang Mai;45.3
+Port Vila;37.3
+Santo Domingo;17.0
+Toluca;18.1
+Bucharest;14.9
+Tunis;22.9
+Fresno;20.2
+Dhaka;22.3
+La Ceiba;46.0
+Bishkek;3.2
+Ifrane;3.0
+Lhasa;5.4
+Tampa;25.0
+Toamasina;29.6
+Suva;19.8
+Nouadhibou;9.5
+Chongqing;6.8
+Manama;33.1
+Boston;2.0
+Valencia;24.4
+Havana;26.7
+Baltimore;19.0
+Denpasar;17.1
+Palm Springs;19.4
+Yerevan;21.8
+Managua;38.3
+New Delhi;33.4
+Oslo;-8.7
+El Paso;27.3
+Kuala Lumpur;29.8
+La Ceiba;16.7
+Kansas City;14.3
+Wichita;7.8
+Toliara;29.5
+Rangpur;8.3
+Vancouver;15.3
+Petropavlovsk-Kamchatsky;7.0
+Jacksonville;41.6
+Tunis;10.2
+Aden;38.4
+Ghanzi;20.7
+Nouadhibou;24.8
+Dodoma;25.5
+Palembang;30.2
+Moscow;9.9
+Batumi;19.4
+Lhasa;4.7
+Xi'an;-3.7
+Gangtok;24.2
+Jakarta;21.9
+Rome;-2.1
+Philadelphia;26.7
+Karonga;10.9
+Prague;24.3
+Niigata;15.8
+Manila;11.1
+Miami;12.7
+Rangpur;26.2
+Oklahoma City;1.5
+Salt Lake City;9.6
+Port Vila;19.6
+Lagos;41.7
+Monterrey;20.6
+Wrocław;12.2
+Palm Springs;33.9
+Saskatoon;10.8
+Chicago;0.0
+St. John's;3.4
+Gabès;14.4
+Amsterdam;12.6
+Lusaka;12.6
+Mandalay;13.7
+Shanghai;18.3
+Kano;12.5
+Bordeaux;31.4
+Yellowknife;2.3
+Ouagadougou;54.3
+Da Lat;17.6
+Nuuk;11.6
+Hiroshima;-1.3
+Kathmandu;37.3
+Toliara;23.0
+Kabul;19.7
+Auckland;17.1
+Stockholm;-5.0
+Tromsø;7.0
+Kandi;21.6
+Edinburgh;1.4
+Ouarzazate;14.8
+Heraklion;8.4
+Tirana;16.9
+Sacramento;23.8
+Belize City;22.9
+Niamey;40.5
+Hanoi;24.5
+Kyoto;16.6
+Busan;15.9
+Nakhon Ratchasima;16.2
+Monaco;18.7
+Arkhangelsk;7.1
+Da Nang;19.8
+Taipei;26.4
+Albuquerque;19.5
+Dar es Salaam;17.9
+Sana'a;25.2
+Batumi;25.0
+Bulawayo;35.2
+Melbourne;25.4
+Nuuk;-7.1
+Chiang Mai;37.2
+Kolkata;38.2
+New Delhi;20.7
+Dubai;32.7
+Baku;5.2
+Gagnoa;24.2
+Hobart;7.4
+Dublin;18.8
+Hanga Roa;23.1
+Jacksonville;22.6
+Douala;21.4
+Tamanrasset;35.4
+Zanzibar City;45.4
+Hobart;24.4
+Winnipeg;-14.1
+Jerusalem;34.0
+Bangui;22.0
+Copenhagen;10.2
+Tijuana;22.1
+Dallas;32.8
+Cairo;18.8
+Nakhon Ratchasima;31.5
+Bouaké;18.5
+Sarajevo;2.3
+Xi'an;10.8
+Chittagong;42.9
+Bissau;10.1
+Baku;17.6
+Karachi;22.9
+Nairobi;5.1
+Calgary;38.1
+Denver;14.8
+Athens;21.9
+Addis Ababa;11.2
+Dubai;17.0
+Harare;23.7
+Cape Town;1.0
+Alice Springs;36.2
+Palmerston North;-0.7
+Ashgabat;7.6
+Yerevan;-15.0
+Launceston;23.5
+Nashville;16.5
+Abidjan;28.1
+Christchurch;12.4
+Kabul;-0.9
+Veracruz;35.8
+Ouarzazate;15.9
+Garoua;29.9
+Athens;9.6
+Havana;25.3
+Bujumbura;26.5
+Sokoto;43.0
+Ouahigouya;31.4
+Dhaka;27.5
+Zagreb;-2.7
+Malé;32.8
+Monterrey;3.7
+Mogadishu;22.6
+Wrocław;5.5
+Ashgabat;-5.3
+Guangzhou;23.3
+Minneapolis;13.8
+Albuquerque;5.7
+Baguio;25.4
+Nassau;27.0
+Alexandria;30.4
+Tashkent;24.0
+Dushanbe;9.7
+Sydney;12.3
+Podgorica;-1.8
+Tallinn;-18.3
+Ségou;14.3
+Tauranga;3.9
+Kathmandu;26.9
+Karachi;18.9
+Marseille;24.2
+Parakou;40.6
+Muscat;22.6
+Zagreb;5.7
+Perth;14.5
+Sarajevo;-13.4
+Thessaloniki;7.6
+Seoul;17.6
+Monterrey;2.9
+Panama City;15.8
+Dodoma;31.6
+Tromsø;-1.9
+Gjoa Haven;-7.8
+Manila;32.0
+Saint Petersburg;14.2
+Napier;5.8
+Anadyr;-20.7
+Lusaka;25.3
+Alice Springs;21.7
+Guadalajara;37.6
+Madrid;19.3
+Winnipeg;-0.6
+Toronto;10.2
+Chittagong;19.6
+Lake Tekapo;25.1
+Lahore;14.4
+Phoenix;32.0
+Petropavlovsk-Kamchatsky;-10.4
+Ouagadougou;40.6
+Khartoum;29.0
+Astana;1.0
+Prague;24.8
+Ngaoundéré;32.7
+Cairns;21.0
+Tripoli;36.0
+Dampier;35.7
+Prague;5.1
+San Jose;3.0
+Sochi;14.0
+Edinburgh;-16.4
+Batumi;-4.4
+Moncton;-3.7
+Taipei;28.4
+Kinshasa;9.7
+Bouaké;51.1
+Naha;27.4
+Belize City;22.3
+Honolulu;13.6
+Sydney;18.0
+Cabo San Lucas;12.7
+Tabriz;-8.6
+Hat Yai;23.2
+Rostov-on-Don;9.7
+Ndola;9.3
+Seattle;9.9
+Honiara;14.8
+Iqaluit;-6.7
+Johannesburg;23.0
+New Delhi;32.3
+Niigata;4.6
+Cotonou;28.9
+Anadyr;-5.3
+Wau;28.8
+Xi'an;-1.9
+La Ceiba;30.6
+Mahajanga;28.7
+Batumi;14.9
+Sofia;14.7
+Benghazi;14.4
+Tehran;6.3
+Lagos;40.7
+Sochi;7.0
+Columbus;14.0
+Marrakesh;35.0
+Harbin;-3.1
+Bangui;34.4
+Dikson;-24.6
+Harare;19.8
+Niamey;36.4
+Edmonton;6.4
+Ségou;12.8
+Lake Tekapo;13.7
+Napier;17.7
+Belgrade;14.0
+Rangpur;30.0
+Beijing;9.7
+Houston;13.9
+Ulaanbaatar;-3.8
+Ouagadougou;39.9
+Oklahoma City;7.3
+Belgrade;6.2
+Rabat;12.7
+Podgorica;28.7
+Kolkata;22.2
+Bissau;26.3
+Oklahoma City;25.9
+Chihuahua;36.2
+Jayapura;22.9
+Tegucigalpa;38.7
+Nashville;29.0
+Montreal;-7.8
+Saint-Pierre;4.2
+Yaoundé;29.0
+Marrakesh;17.1
+Willemstad;18.1
+Managua;33.0
+Edmonton;4.5
+New Delhi;8.2
+Tromsø;4.1
+La Paz;31.1
+Praia;16.9
+Irkutsk;0.0
+Yaoundé;17.6
+Ségou;16.5
+Wau;23.6
+Ndola;6.7
+Jacksonville;25.2
+Skopje;7.5
+Sarajevo;5.3
+Ifrane;4.9
+Sofia;27.1
+Barcelona;20.2
+Brussels;-3.2
+Odienné;16.4
+Gjoa Haven;-5.8
+Dhaka;48.6
+Sydney;7.5
+Bouaké;29.3
+Upington;5.3
+Lodwar;35.5
+Garissa;18.9
+Ghanzi;20.7
+Benghazi;2.8
+Kabul;12.8
+Rostov-on-Don;23.8
+Arkhangelsk;6.7
+Beijing;5.6
+Yangon;14.9
+Milwaukee;9.7
+Ouagadougou;51.4
+Kathmandu;32.4
+Christchurch;15.3
+London;38.2
+Christchurch;9.4
+Napoli;4.9
+Dunedin;25.0
+Ahvaz;12.3
+San Jose;2.9
+Wellington;25.6
+Dolisie;13.9
+Suwałki;-1.9
+Gabès;13.5
+Reykjavík;-1.0
+Tripoli;1.3
+Bujumbura;4.3
+Nassau;12.2
+Harare;42.8
+Makurdi;14.4
+Kunming;23.3
+Khartoum;26.1
+Santo Domingo;8.3
+San Jose;-2.8
+Bosaso;32.9
+Bamako;36.9
+Busan;19.1
+Madrid;21.9
+Colombo;44.4
+Tijuana;8.8
+San Salvador;13.4
+Kuwait City;40.8
+Tirana;18.3
+Canberra;-6.1
+Belize City;30.8
+Djibouti;15.6
+Launceston;-2.1
+Zagreb;5.2
+Hanoi;26.8
+Kunming;23.7
+Skopje;12.7
+Parakou;31.9
+Kuwait City;29.5
+Burnie;16.6
+Pyongyang;12.1
+Bordeaux;20.4
+Sarajevo;-8.9
+Hanoi;13.1
+Malé;17.3
+New Orleans;10.0
+Kumasi;38.8
+Prague;6.2
+Bouaké;29.6
+Hiroshima;24.8
+Tashkent;10.3
+Addis Ababa;31.0
+Mandalay;33.5
+Porto;-1.2
+Singapore;33.1
+Karonga;30.3
+Lviv;12.9
+Vaduz;9.1
+Garissa;19.8
+Vientiane;22.8
+Jayapura;37.2
+Bouaké;32.8
+Toluca;20.0
+Djibouti;16.6
+Brussels;18.7
+London;-9.5
+Chihuahua;47.6
+Canberra;13.5
+Baltimore;18.8
+Istanbul;5.1
+Taipei;11.8
+Sacramento;18.5
+Kuwait City;41.5
+Mexicali;22.8
+Minneapolis;19.5
+New York City;17.6
+Santo Domingo;14.0
+Wau;27.2
+Antsiranana;24.0
+Seville;18.6
+Zanzibar City;22.2
+Pyongyang;9.5
+Manila;29.0
+Burnie;27.0
+Bouaké;26.7
+Tallinn;33.9
+Albuquerque;24.8
+Valencia;4.5
+Nassau;19.0
+New Delhi;27.2
+Tromsø;-2.0
+Hanga Roa;17.6
+Baltimore;12.1
+Ségou;17.6
+Istanbul;20.9
+Saint-Pierre;22.3
+Asmara;-1.1
+Tbilisi;15.9
+Seattle;29.4
+Pointe-Noire;28.6
+Anchorage;2.3
+Prague;4.1
+Kathmandu;14.5
+Oranjestad;37.4
+Ankara;36.0
+Busan;6.6
+Bishkek;0.6
+Ouagadougou;57.5
+Erbil;8.8
+Vienna;19.8
+Ho Chi Minh City;26.0
+Ouahigouya;12.4
+London;13.7
+Yakutsk;-15.8
+Napier;26.1
+George Town;25.7
+Mumbai;25.7
+Bishkek;9.4
+Livingstone;21.8
+Beijing;19.5
+Maun;11.2
+Wichita;-2.4
+Salt Lake City;5.6
+Edinburgh;20.1
+Dolisie;28.8
+Ouahigouya;26.7
+Split;-0.4
+Bloemfontein;4.1
+Thiès;5.5
+Hanoi;21.2
+Djibouti;44.1
+Panama City;34.2
+Reykjavík;15.3
+Toluca;12.3
+Sochi;4.5
+Honolulu;15.8
+Cabo San Lucas;30.1
+Tripoli;27.3
+Helsinki;-1.7
+Riyadh;23.4
+Minneapolis;11.4
+Seoul;22.2
+Palm Springs;18.9
+Kandi;27.8
+Bamako;13.3
+Gjoa Haven;-26.0
+Wrocław;16.7
+Bergen;14.7
+Palm Springs;25.5
+Hat Yai;17.1
+Seville;8.1
+Surabaya;18.9
+Rostov-on-Don;-1.2
+Bordeaux;25.2
+Saint-Pierre;-3.3
+Douala;34.1
+Anadyr;1.1
+Xi'an;-1.4
+Dikson;-23.8
+Cairo;31.4
+Cabo San Lucas;25.0
+Yellowknife;-9.4
+Baghdad;31.6
+Ho Chi Minh City;11.0
+Columbus;15.6
+Saint-Pierre;13.5
+Oklahoma City;15.4
+Pittsburgh;0.7
+Dhaka;17.5
+Marrakesh;14.3
+Alexandria;11.0
+Xi'an;19.3
+Guadalajara;23.4
+Damascus;12.4
+City of San Marino;17.0
+Ghanzi;8.0
+Petropavlovsk-Kamchatsky;-4.1
+Wrocław;1.7
+Port Moresby;15.1
+Erbil;10.9
+Parakou;22.2
+Beijing;8.2
+Tbilisi;24.3
+Heraklion;25.4
+Flores,  Petén;20.6
+Djibouti;31.2
+Houston;32.7
+Blantyre;41.0
+Phnom Penh;10.4
+Rangpur;27.2
+Reykjavík;0.8
+Beirut;25.1
+Gabès;34.1
+Split;25.3
+Benghazi;29.4
+Brussels;6.8
+Malé;31.7
+Lusaka;24.8
+Tripoli;5.5
+San Jose;2.1
+Abidjan;18.2
+Kansas City;14.4
+Tamanrasset;27.6
+Budapest;0.1
+Edinburgh;-4.8
+Yinchuan;8.7
+Shanghai;36.2
+Bucharest;21.8
+Almaty;10.8
+Bratislava;11.8
+Lubumbashi;11.9
+Copenhagen;2.9
+Thiès;8.1
+Antananarivo;9.2
+Tashkent;5.3
+Zagreb;-7.8
+Naha;19.0
+Yakutsk;3.0
+Kathmandu;9.9
+Fairbanks;-21.9
+Toluca;22.0
+Anchorage;16.8
+Andorra la Vella;-6.4
+Halifax;11.1
+Cairns;44.3
+Garoua;29.9
+Bucharest;13.3
+Ségou;39.1
+Algiers;19.3
+Tamanrasset;4.5
+Omaha;5.8
+Valletta;15.0
+Panama City;27.5
+Cotonou;38.2
+Benghazi;2.0
+Vancouver;11.4
+Phnom Penh;36.9
+La Paz;6.0
+Monterrey;18.5
+Damascus;27.8
+Las Vegas;17.6
+Philadelphia;10.9
+Beijing;-5.2
+Gaborone;3.5
+Ouahigouya;31.4
+Dili;19.5
+Moscow;15.9
+Palembang;31.9
+Kano;23.5
+Baltimore;19.6
+Edmonton;3.6
+Hanoi;1.6
+Muscat;35.3
+Tijuana;25.0
+Riga;10.4
+Pretoria;19.8
+Mombasa;6.6
+Anadyr;-11.6
+Dublin;5.9
+Manila;25.5
+Addis Ababa;2.7
+Baltimore;4.6
+Mogadishu;28.6
+Iqaluit;-0.9
+Manila;49.7
+Baguio;15.2
+Tamanrasset;17.5
+New Delhi;15.2
+Dushanbe;7.4
+Sochi;19.6
+Rostov-on-Don;4.4
+Mahajanga;30.1
+Anadyr;4.6
+Benghazi;31.2
+Sochi;29.0
+Salt Lake City;14.6
+Beijing;11.2
+Kathmandu;23.5
+Los Angeles;14.2
+Chiang Mai;16.3
+Niamey;29.4
+Phoenix;21.9
+Riyadh;33.4
+Garissa;10.9
+Christchurch;16.0
+Nuuk;-4.6
+Alexandra;4.6
+Managua;28.7
+Hargeisa;19.8
+Malé;31.7
+Erbil;6.7
+Copenhagen;6.5
+İzmir;33.6
+Thiès;18.8
+Shanghai;-9.3
+Lviv;4.0
+Douala;30.5
+Cairo;20.7
+San José;0.4
+Suwałki;0.6
+Atlanta;22.2
+Garissa;31.3
+Dikson;-2.1
+Bangui;26.3
+Dakar;9.7
+Maputo;23.1
+Amsterdam;25.5
+Cabo San Lucas;18.1
+Honiara;38.3
+Ouahigouya;33.6
+Columbus;16.1
+Salt Lake City;4.3
+Mandalay;24.3
+Tamale;26.8
+Mek'ele;28.5
+Mandalay;34.1
+Chiang Mai;32.0
+Chicago;7.7
+Baghdad;38.2
+Aden;49.6
+Kolkata;43.6
+Milwaukee;3.0
+Manila;16.2
+Winnipeg;5.5
+Palermo;30.2
+Shanghai;16.5
+Reggane;33.8
+Seattle;25.8
+Bangui;40.8
+Kuala Lumpur;27.6
+Chittagong;34.9
+Nashville;29.3
+Bordeaux;17.1
+Kankan;31.0
+Porto;10.4
+Fairbanks;18.6
+Lake Tekapo;15.0
+Saint Petersburg;6.4
+Baltimore;12.5
+Seoul;10.2
+Hamburg;-7.2
+Kampala;17.8
+Oranjestad;17.8
+Denpasar;14.2
+Niigata;0.2
+Indianapolis;13.0
+Nuuk;14.5
+Podgorica;3.7
+Andorra la Vella;-5.3
+Kinshasa;45.5
+Johannesburg;15.3
+Port Moresby;17.7
+Wrocław;10.6
+Tel Aviv;22.2
+Kuwait City;32.3
+Split;16.5
+Yangon;14.1
+Cairo;60.5
+Omaha;14.4
+Niamey;21.1
+Amsterdam;17.0
+Rostov-on-Don;4.8
+Lahore;32.7
+Bouaké;35.3
+St. Louis;16.9
+Dunedin;15.4
+Ndola;34.2
+Vaduz;-1.8
+Maun;25.5
+Podgorica;12.1
+Dolisie;2.9
+Iqaluit;-11.1
+Palm Springs;18.9
+Tbilisi;12.2
+St. John's;22.3
+Kinshasa;22.7
+Hong Kong;31.9
+Addis Ababa;-1.1
+Arkhangelsk;8.1
+Flores,  Petén;31.8
+Ottawa;5.3
+Dhaka;24.8
+Virginia Beach;14.7
+Sokoto;40.7
+Budapest;-4.6
+Minsk;17.0
+Kumasi;29.5
+İzmir;10.7
+Dushanbe;34.2
+Split;2.3
+Chihuahua;23.3
+Abéché;30.0
+Gagnoa;32.6
+Mahajanga;16.2
+Toronto;15.7
+New Delhi;30.0
+Napoli;19.6
+Panama City;34.4
+Ngaoundéré;14.6
+Seville;16.6
+Cairns;40.9
+Sacramento;18.5
+Garoua;40.8
+Sana'a;11.7
+Omaha;-7.7
+N'Djamena;12.3
+Bilbao;21.2
+Yaoundé;24.8
+Amsterdam;-6.0
+Taipei;16.0
+Sarajevo;12.0
+Tripoli;11.3
+Minneapolis;29.5
+Bangkok;29.6
+Antsiranana;33.4
+Boston;18.2
+Iqaluit;5.1
+Yinchuan;8.4
+Tashkent;-2.3
+Lake Tekapo;9.6
+Edinburgh;-1.3
+Bujumbura;13.6
+Bloemfontein;6.6
+Hanoi;31.8
+Sokoto;26.1
+Hong Kong;17.6
+Hobart;15.4
+Vilnius;7.1
+Porto;38.3
+Dunedin;12.1
+Nouadhibou;28.5
+N'Djamena;37.0
+Las Vegas;12.4
+Split;26.3
+Las Vegas;11.8
+Boise;9.1
+Kolkata;18.1
+Baguio;15.0
+Milan;19.5
+Colombo;18.3
+Kinshasa;15.5
+Lubumbashi;7.4
+Split;10.8
+Bosaso;49.8
+El Paso;14.8
+Budapest;15.8
+Tripoli;29.0
+Seattle;17.4
+Havana;31.5
+Zürich;-5.9
+Vilnius;5.7
+Pontianak;41.2
+Gaborone;23.4
+Kyiv;4.6
+Monaco;-5.5
+San Salvador;27.0
+Saskatoon;19.6
+Naha;32.3
+Yakutsk;5.2
+Luxembourg City;11.4
+Yellowknife;-9.9
+Fianarantsoa;8.0
+Upington;15.4
+Entebbe;21.9
+Vaduz;21.2
+Toluca;-2.4
+Chiang Mai;25.5
+Veracruz;34.6
+La Ceiba;35.4
+Chiang Mai;25.2
+Tijuana;19.2
+Port Vila;12.3
+Tampa;31.8
+Toamasina;31.9
+Fukuoka;27.7
+Garoua;30.4
+Bloemfontein;17.7
+Cabo San Lucas;7.9
+Zanzibar City;15.4
+Bouaké;39.1
+Surabaya;23.7
+Hamburg;25.0
+Parakou;33.8
+Tamale;25.6
+Surabaya;16.9
+Muscat;35.9
+Panama City;39.3
+Istanbul;13.3
+Atlanta;20.9
+Valencia;30.6
+Pyongyang;0.5
+Podgorica;31.4
+Minsk;0.6
+Dolisie;10.9
+Vientiane;37.9
+Warsaw;-3.3
+Bouaké;27.6
+Sochi;7.1
+Ouagadougou;39.4
+Bordeaux;5.7
+Garissa;37.0
+Kyiv;16.3
+Tallinn;4.9
+Tirana;1.6
+Changsha;13.3
+Halifax;10.3
+Guangzhou;10.6
+Colombo;35.8
+Toronto;-8.4
+St. Louis;15.0
+Omaha;17.6
+Christchurch;10.8
+Hong Kong;31.8
+Bilbao;21.7
+Sydney;27.1
+Sapporo;27.4
+Whitehorse;1.4
+El Paso;12.0
+Johannesburg;4.5
+Makassar;20.9
+Bridgetown;28.7
+Ahvaz;27.1
+Bilbao;27.4
+Tokyo;5.7
+Sacramento;11.8
+Roseau;30.7
+Veracruz;33.9
+Virginia Beach;14.7
+George Town;40.4
+Las Palmas de Gran Canaria;30.1
+Timbuktu;31.4
+Panama City;22.0
+Dushanbe;12.9
+Gjoa Haven;-3.9
+Bissau;16.3
+Birao;32.9
+Erbil;46.9
+Odesa;15.3
+Honiara;35.5
+Ho Chi Minh City;21.0
+Bilbao;14.7
+El Paso;7.3
+Bucharest;16.5
+Porto;9.7
+Dakar;15.7
+Chiang Mai;17.1
+Brisbane;19.3
+Kuopio;6.1
+Upington;16.4
+Kinshasa;27.9
+Adelaide;34.8
+Baghdad;31.6
+Irkutsk;-8.2
+Prague;13.3
+Dampier;12.1
+Virginia Beach;-0.6
+Muscat;30.6
+Bordeaux;17.4
+Lisbon;-7.3
+Lake Havasu City;20.8
+Kinshasa;23.4
+Guangzhou;20.4
+Xi'an;11.3
+Yellowknife;-14.4
+San Francisco;5.1
+Thessaloniki;9.8
+Baltimore;-3.0
+Jakarta;33.6
+Guadalajara;16.6
+Halifax;9.8
+Mumbai;31.9
+Birao;26.8
+Suwałki;8.4
+Wichita;8.9
+Prague;3.5
+Oranjestad;33.0
+Timbuktu;23.3
+Juba;40.0
+Cairo;15.0
+Montreal;28.9
+Milwaukee;17.5
+Montreal;-1.7
+Omaha;1.1
+Louisville;23.1
+Hargeisa;21.3
+San Diego;20.2
+Bratislava;11.0
+Maun;17.5
+Frankfurt;12.2
+Harare;12.1
+New York City;13.1
+Denver;10.8
+Heraklion;19.8
+Salt Lake City;19.7
+Lubumbashi;24.5
+Odienné;30.4
+Oulu;13.3
+Stockholm;7.2
+Austin;20.4
+Pointe-Noire;22.6
+Ouahigouya;37.4
+Kyiv;18.9
+Alexandra;8.5
+Taipei;24.3
+Antsiranana;42.5
+Tabriz;16.1
+Oklahoma City;25.0
+Zanzibar City;2.8
+Mogadishu;20.4
+Khartoum;46.1
+Austin;8.1
+Beirut;11.5
+Vienna;4.5
+Damascus;28.2
+Bloemfontein;-1.2
+Maputo;9.6
+Djibouti;26.4
+Lusaka;20.1
+Taipei;32.2
+Perth;22.6
+Mzuzu;11.7
+Naha;35.8
+Rome;1.6
+Luanda;24.7
+Bamako;19.6
+Astana;-6.2
+Dallas;15.1
+Kunming;15.5
+Palmerston North;-3.7
+Juba;31.1
+N'Djamena;25.9
+Cairo;23.5
+San Juan;16.0
+Guatemala City;14.4
+Zagreb;-2.2
+Nashville;21.9
+New Orleans;13.0
+Dar es Salaam;21.6
+San Juan;24.9
+Brussels;19.9
+Tucson;19.1
+Saint Petersburg;16.4
+Lake Havasu City;31.6
+Suva;19.2
+Gabès;32.9
+Louisville;19.2
+Vilnius;-4.5
+Hong Kong;41.5
+Ouarzazate;1.3
+Astana;4.3
+Flores,  Petén;17.4
+Vladivostok;16.3
+Damascus;35.5
+San José;31.8
+Banjul;31.6
+Murmansk;5.3
+Garissa;43.1
+Brussels;25.2
+Bloemfontein;18.6
+Halifax;10.9
+Chicago;5.7
+Assab;8.8
+Astana;11.0
+Ürümqi;-9.5
+San Francisco;20.5
+Hobart;13.9
+Lyon;11.2
+Riga;8.8
+Hobart;6.4
+Odienné;11.6
+Medan;22.9
+Toamasina;45.6
+Ottawa;22.1
+Tijuana;16.3
+Lyon;24.7
+Tashkent;14.2
+Iqaluit;-18.3
+Bujumbura;20.9
+City of San Marino;17.9
+Cairns;22.6
+Mumbai;29.4
+Dhaka;26.3
+Seattle;-8.7
+Thiès;24.7
+Hanga Roa;20.0
+Milwaukee;15.2
+Malabo;12.7
+Havana;24.0
+Bratislava;15.6
+Surabaya;40.2
+Singapore;19.7
+Sacramento;18.6
+Marseille;17.9
+Batumi;13.0
+Alice Springs;26.2
+Dakar;26.3
+Sochi;20.8
+Milan;4.1
+Halifax;13.0
+Hamilton;18.8
+Oslo;24.7
+Seattle;12.1
+Christchurch;12.4
+Iqaluit;-24.8
+Atlanta;15.5
+Athens;20.0
+Yerevan;5.3
+Memphis;6.2
+Marrakesh;8.7
+Marrakesh;17.9
+Cotonou;34.5
+Kuala Lumpur;35.2
+Baghdad;29.7
+Ljubljana;20.9
+Bangkok;21.6
+Honiara;18.6
+Ngaoundéré;15.2
+Benghazi;19.4
+Abéché;22.2
+Calgary;-9.1
+Yinchuan;4.5
+Chișinău;-7.9
+Minsk;10.7
+Gabès;27.8
+Birao;27.5
+Houston;12.2
+Managua;6.3
+Lake Tekapo;-0.5
+Prague;7.8
+Beirut;19.8
+Sapporo;-8.4
+Beirut;-2.0
+Nairobi;0.4
+Libreville;42.1
+Bilbao;10.0
+Ouarzazate;20.7
+Jos;2.3
+Napoli;-3.7
+Madrid;28.7
+Dunedin;15.8
+Kabul;2.1
+Austin;20.2
+Vaduz;17.1
+Beijing;22.2
+Bosaso;30.6
+Kyiv;23.9
+Belgrade;14.8
+Bucharest;9.3
+Toronto;9.9
+Conakry;23.0
+Hiroshima;16.9
+Hat Yai;35.9
+Belgrade;4.1
+Split;25.7
+Zagreb;3.7
+Bouaké;31.3
+Austin;7.4
+Launceston;13.8
+Detroit;0.2
+Erzurum;-3.2
+Gjoa Haven;-10.8
+Astana;7.0
+San Diego;2.5
+Niigata;25.6
+Dushanbe;10.3
+Nuuk;1.6
+Lviv;12.8
+Palmerston North;12.2
+Las Palmas de Gran Canaria;17.2
+Austin;21.0
+Dunedin;19.1
+Boston;14.2
+Vienna;13.6
+Kampala;17.1
+Guatemala City;25.3
+Kandi;24.0
+Kankan;21.5
+Belize City;20.4
+Garoua;20.7
+Tirana;8.4
+Sofia;18.6
+Suva;33.5
+Kano;27.7
+Houston;19.8
+Dhaka;14.1
+Ségou;17.6
+Bangkok;22.0
+Dodoma;15.9
+Heraklion;2.0
+Omaha;15.3
+Hamilton;20.3
+Bridgetown;32.9
+Hanoi;36.2
+Columbus;8.7
+Panama City;36.7
+Bissau;37.0
+Tabora;11.1
+Karonga;27.4
+Bratislava;5.4
+Garissa;44.3
+Antsiranana;20.3
+Hamburg;-0.4
+St. Louis;16.4
+Saint-Pierre;8.6
+Iqaluit;-5.5
+Kinshasa;30.5
+Belgrade;12.1
+Memphis;12.2
+Toluca;27.1
+Boise;9.8
+Salt Lake City;-7.0
+Winnipeg;11.9
+Philadelphia;0.5
+Calgary;-1.7
+Baguio;39.5
+Sofia;4.4
+Toamasina;32.7
+Kandi;32.9
+Toronto;5.6
+Ngaoundéré;24.3
+Launceston;13.6
+Bergen;-9.3
+Bata;11.9
+City of San Marino;21.8
+Miami;36.5
+Lake Tekapo;-1.0
+Makassar;10.1
+Kabul;-0.5
+Luanda;24.5
+Port Moresby;12.3
+Prague;21.3
+Halifax;7.9
+Hanga Roa;19.5
+Sana'a;34.6
+Ulaanbaatar;-9.6
+Pontianak;50.5
+Sochi;9.0
+Belgrade;13.0
+Virginia Beach;-6.6
+Jos;37.8
+Seoul;0.9
+Port Sudan;40.4
+Abéché;40.2
+Ankara;16.9
+Baguio;14.0
+Kuwait City;30.9
+Suwałki;-3.9
+George Town;24.5
+Mumbai;23.6
+Nashville;-1.0
+Beirut;42.2
+Maun;30.5
+Kathmandu;46.1
+Manama;45.4
+St. Louis;13.4
+Charlotte;32.4
+Birao;32.5
+Suva;24.6
+Porto;22.4
+Salt Lake City;2.6
+Pretoria;14.7
+Toliara;44.2
+Ashgabat;6.2
+Whitehorse;0.5
+Ifrane;18.5
+Jakarta;35.5
+Riga;-14.7
+Maputo;23.1
+Yakutsk;-4.9
+Barcelona;23.3
+Cotonou;27.5
+Hamilton;20.3
+Sochi;11.6
+Kingston;32.7
+Assab;52.0
+Sana'a;19.9
+Kolkata;22.0
+Havana;49.2
+Mumbai;29.5
+Saint-Pierre;7.6
+Ürümqi;0.3
+Managua;31.8
+Mango;16.2
+Juba;33.4
+Napoli;10.6
+Mek'ele;23.8
+Canberra;17.2
+Brisbane;22.2
+Rome;28.6
+Halifax;11.3
+Riyadh;24.9
+Monaco;26.8
+Phoenix;19.7
+Lake Tekapo;10.6
+Bangui;22.2
+Livingstone;36.7
+Las Palmas de Gran Canaria;24.0
+Louisville;18.3
+Lomé;7.4
+Palm Springs;13.7
+Hamburg;13.2
+Guangzhou;36.9
+Dikson;-16.8
+Tallinn;-12.1
+New Orleans;29.1
+Dili;25.8
+Niamey;31.0
+Lviv;28.3
+Halifax;9.5
+Mombasa;33.3
+Upington;32.7
+Odesa;16.8
+Cabo San Lucas;36.1
+N'Djamena;17.3
+Denpasar;23.4
+Mexicali;33.0
+Monterrey;14.3
+Tamanrasset;20.0
+Murmansk;-1.4
+Jos;36.3
+Toluca;20.3
+Reykjavík;-4.7
+Seoul;17.3
+Hong Kong;27.5
+Wellington;-2.1
+Gagnoa;17.8
+Mandalay;31.9
+Beijing;6.6
+Denpasar;14.5
+Madrid;8.8
+Cairns;33.7
+Rangpur;20.2
+Chiang Mai;23.6
+Kinshasa;26.5
+Tamale;12.5
+Saint Petersburg;-4.8
+Wichita;16.8
+Jerusalem;29.8
+Oulu;0.6
+Erzurum;-1.5
+Willemstad;13.6
+Anchorage;29.7
+Tokyo;25.8
+Gabès;18.6
+Bucharest;1.2
+Parakou;24.8
+Bishkek;5.6
+Los Angeles;27.6
+Saint Petersburg;3.1
+Sochi;26.7
+Fianarantsoa;18.8
+Toliara;22.2
+Durban;33.5
+Lomé;29.6
+Mumbai;28.6
+Toronto;21.6
+Cabo San Lucas;36.3
+Whitehorse;0.4
+Upington;20.0
+Bucharest;5.5
+Mandalay;22.9
+Tbilisi;23.6
+Kumasi;38.8
+Washington, D.C.;23.9
+Lviv;-12.8
+Tel Aviv;23.6
+Amsterdam;23.2
+Ahvaz;14.6
+Barcelona;9.6
+Murmansk;10.4
+Jerusalem;9.1
+Virginia Beach;21.7
+Launceston;27.2
+Kansas City;24.3
+Phnom Penh;29.8
+Yellowknife;-10.7
+Karonga;37.0
+Pointe-Noire;16.9
+Mombasa;12.6
+Birao;35.4
+Athens;17.7
+Beijing;10.6
+Gabès;19.8
+Chicago;10.7
+Oranjestad;55.0
+Luanda;24.4
+Ouagadougou;26.3
+Yellowknife;-6.8
+Mogadishu;22.5
+N'Djamena;37.0
+Dunedin;18.7
+Nairobi;6.0
+Antsiranana;21.2
+Abha;13.8
+Banjul;22.1
+Ségou;16.0
+Indianapolis;27.2
+Las Palmas de Gran Canaria;10.5
+Luxembourg City;37.9
+Blantyre;16.4
+Sarajevo;0.3
+Ndola;18.0
+St. John's;-0.7
+Kano;38.7
+Hanoi;8.2
+Boston;19.4
+Perth;16.4
+Thessaloniki;7.5
+Madrid;19.9
+Ouarzazate;10.2
+Mombasa;41.0
+Guadalajara;27.5
+Batumi;21.1
+Honolulu;30.1
+Palembang;33.7
+Adelaide;11.9
+Prague;-17.0
+Aden;38.9
+Livingstone;28.1
+Addis Ababa;7.5
+Addis Ababa;40.6
+Houston;27.5
+Rostov-on-Don;27.5
+Medan;8.2
+Havana;39.1
+Praia;23.4
+Darwin;36.9
+Anadyr;8.5
+Makassar;18.1
+Kuala Lumpur;38.2
+Ghanzi;25.6
+Kansas City;21.1
+Napier;6.2
+Dushanbe;19.4
+Riyadh;38.2
+Tel Aviv;14.2
+Denver;17.1
+Douala;35.3
+Tbilisi;11.5
+Cotonou;35.1
+Kuopio;8.4
+Harare;11.3
+La Ceiba;25.5
+Detroit;4.5
+Madrid;28.1
+Ashgabat;24.9
+Monterrey;21.5
+Shanghai;6.5
+Honiara;22.5
+San Jose;9.4
+Tamale;24.5
+Baltimore;17.3
+Vaduz;10.7
+Zanzibar City;43.4
+Irkutsk;-2.6
+Odesa;18.7
+Wellington;5.3
+Assab;50.3
+Damascus;10.1
+Sydney;6.8
+Fukuoka;18.7
+Reykjavík;0.4
+Arkhangelsk;4.9
+Napier;17.7
+Saint Petersburg;3.7
+Melbourne;12.2
+Sokoto;44.0
+Fairbanks;-1.4
+Upington;24.0
+Fukuoka;24.2
+Salt Lake City;5.9
+Marrakesh;17.5
+Sacramento;27.4
+Charlotte;31.1
+St. John's;-4.4
+Ouagadougou;28.1
+Odesa;-6.9
+Mahajanga;34.9
+Jerusalem;20.3
+Kankan;29.4
+Thessaloniki;-2.9
+Roseau;38.0
+Sapporo;19.8
+Lviv;16.6
+Havana;31.3
+Mandalay;46.7
+Minsk;6.9
+Split;13.2
+Heraklion;9.2
+Vancouver;5.9
+Malé;35.1
+Port Moresby;28.0
+Chișinău;28.2
+Nashville;22.3
+Heraklion;18.1
+Sarajevo;19.3
+Rangpur;27.9
+Bloemfontein;21.8
+Indianapolis;24.7
+Taipei;15.1
+Halifax;-0.6
+Miami;29.2
+Livingstone;14.5
+Sydney;8.4
+Ngaoundéré;21.7
+Minneapolis;-5.2
+Erzurum;3.2
+Mek'ele;24.2
+Brazzaville;21.3
+Winnipeg;18.8
+Lake Havasu City;5.1
+Erzurum;19.8
+Suva;27.0
+Tegucigalpa;23.3
+Rangpur;5.5
+Toamasina;28.0
+Libreville;24.7
+Zagreb;9.4
+Edmonton;8.2
+Bordeaux;-0.3
+Anadyr;-12.7
+Gjoa Haven;-13.1
+Juba;31.5
+Gjoa Haven;-17.6
+Kankan;37.7
+Bulawayo;20.4
+Yangon;27.7
+Budapest;-2.6
+Madrid;25.3
+City of San Marino;21.4
+Tijuana;25.9
+Lviv;-6.8
+Entebbe;21.5
+Washington, D.C.;35.4
+Maputo;26.2
+Veracruz;38.2
+Dallas;22.5
+Athens;14.8
+Christchurch;17.6
+Chittagong;40.4
+Jacksonville;22.6
+Niamey;25.6
+Karachi;5.1
+Pittsburgh;3.0
+Gagnoa;26.2
+Burnie;11.5
+Banjul;16.2
+Cape Town;30.8
+Hat Yai;28.5
+Split;11.6
+Irkutsk;-8.7
+Niamey;26.3
+İzmir;8.0
+Lodwar;18.9
+Albuquerque;6.4
+Gangtok;11.8
+Benghazi;10.6
+Kathmandu;26.7
+Pittsburgh;19.2
+Amsterdam;9.3
+Sana'a;17.2
+Palembang;19.9
+Bergen;-3.3
+Houston;11.5
+Sofia;16.2
+Batumi;31.7
+Sapporo;-0.2
+Singapore;19.5
+Kingston;21.3
+Banjul;30.6
+Ouarzazate;16.5
+Kyoto;-6.7
+Winnipeg;7.7
+Prague;-14.4
+Bissau;29.1
+Reykjavík;3.4
+Santo Domingo;19.9
+Toamasina;35.2
+Sacramento;-2.0
+Split;13.5
+Oklahoma City;39.3
+Toliara;34.4
+Kampala;16.2
+Saint Petersburg;15.7
+Harbin;16.0
+Dubai;21.8
+Tamale;28.4
+Livingstone;36.3
+Harare;28.3
+New Orleans;19.2
+Birao;24.6
+Singapore;14.7
+Cairns;13.7
+Charlotte;-0.4
+Reggane;33.9
+Burnie;4.7
+Antsiranana;15.4
+Lahore;26.3
+Nicosia;20.4
+Tamanrasset;22.9
+Ifrane;26.2
+Honiara;25.2
+Kampala;20.9
+Garissa;14.4
+Moscow;-1.8
+Denver;20.7
+Yellowknife;-1.9
+Wellington;-4.4
+Harbin;7.9
+Honiara;27.6
+Pointe-Noire;17.6
+Lhasa;30.4
+Hong Kong;27.1
+Jakarta;27.4
+Oklahoma City;24.7
+Baku;22.9
+Kinshasa;13.0
+Columbus;6.6
+Athens;17.9
+Pointe-Noire;0.1
+Paris;7.8
+Vancouver;-6.9
+Malé;28.5
+Hanoi;23.9
+Jerusalem;16.2
+Port-Gentil;17.7
+Tel Aviv;29.2
+Seville;3.3
+Palmerston North;11.9
+Bangkok;16.4
+Chiang Mai;40.8
+Chișinău;15.2
+Paris;6.7
+Chișinău;20.0
+Antsiranana;32.6
+Assab;42.4
+Tallinn;13.9
+Tabora;19.2
+Wau;26.7
+Cape Town;8.4
+Tallinn;11.4
+San Francisco;8.2
+Las Vegas;-9.0
+Palmerston North;-1.6
+Baku;20.0
+Kandi;27.9
+Vaduz;-2.0
+Gangtok;-7.5
+Changsha;12.7
+Bamako;32.2
+Lhasa;15.2
+Nashville;4.2
+Mogadishu;7.9
+Wellington;20.7
+Pontianak;34.6
+Halifax;8.3
+Mumbai;2.3
+Chittagong;22.2
+Ho Chi Minh City;42.9
+Kyiv;-5.6
+Beirut;17.1
+Oklahoma City;13.6
+Bangui;4.7
+Tabriz;16.7
+Baguio;25.8
+Beijing;25.4
+Jakarta;27.7
+Ouagadougou;35.4
+Tijuana;18.6
+Hong Kong;23.4
+Lubumbashi;7.4
+Birao;38.0
+Palm Springs;17.9
+Fairbanks;6.0
+Chiang Mai;11.6
+Dakar;17.7
+Gabès;22.5
+Asmara;9.4
+Yellowknife;2.4
+Ljubljana;14.5
+Miami;48.4
+Lubumbashi;21.6
+Tokyo;17.2
+Berlin;8.4
+Berlin;7.7
+Vladivostok;13.5
+N'Djamena;20.1
+Vladivostok;0.2
+Mzuzu;16.3
+Launceston;11.7
+Bishkek;-2.7
+Heraklion;25.4
+Auckland;2.3
+Berlin;9.6
+Chihuahua;14.7
+Columbus;11.2
+Pittsburgh;-10.6
+Makassar;16.8
+Baguio;11.6
+Bamako;33.5
+Seattle;22.4
+Novosibirsk;17.8
+Birao;12.3
+Milan;7.7
+Mogadishu;41.7
+Omaha;3.0
+Vientiane;38.3
+Nicosia;17.7
+Yerevan;10.1
+Surabaya;24.5
+Sana'a;32.2
+Boston;-3.6
+Tabriz;16.8
+Bamako;3.0
+Chittagong;42.7
+Palmerston North;20.3
+Bata;19.5
+Bratislava;10.3
+San Jose;16.0
+La Ceiba;32.5
+Omaha;8.9
+Hamilton;28.0
+Denver;10.2
+Entebbe;16.1
+Sacramento;-5.4
+San Juan;26.3
+Kuwait City;27.1
+Cairo;20.2
+Fresno;26.6
+Tampa;31.6
+Dolisie;28.5
+Nashville;1.9
+Montreal;13.5
+Nouadhibou;19.4
+Tampa;26.2
+Rostov-on-Don;8.2
+Upington;19.4
+Chihuahua;12.0
+Budapest;10.4
+La Ceiba;34.8
+Sydney;12.0
+Cracow;26.4
+Ouarzazate;20.4
+San José;26.5
+Antananarivo;46.8
+Ashgabat;-3.5
+Garissa;26.8
+Nuuk;-3.5
+Kuwait City;33.4
+San Salvador;1.9
+Praia;26.4
+Edinburgh;28.2
+Dili;31.1
+Jerusalem;19.9
+Sokoto;26.8
+Singapore;16.4
+Algiers;9.4
+Niamey;41.8
+Jayapura;28.8
+Timbuktu;38.0
+Bouaké;31.4
+Mahajanga;10.4
+Bridgetown;27.1
+Reggane;21.9
+Hiroshima;16.6
+Monaco;12.3
+Garoua;27.9
+Bratislava;5.9
+Lomé;24.5
+Vaduz;5.6
+Guangzhou;17.8
+Medan;40.4
+Seville;15.7
+Malé;31.4
+Ghanzi;26.8
+La Paz;24.6
+Nicosia;21.6
+Medan;28.1
+Marseille;19.9
+Tel Aviv;9.8
+Vladivostok;17.9
+Canberra;25.4
+Luanda;20.7
+Oranjestad;23.1
+Portland (OR);17.3
+Toronto;20.3
+Lisbon;23.0
+Karachi;23.5
+Flores,  Petén;19.9
+St. Louis;20.8
+Santo Domingo;4.2
+Irkutsk;2.7
+Vienna;12.3
+San Juan;16.2
+Baltimore;5.8
+Praia;29.8
+İzmir;19.9
+Kandi;37.2
+Manila;35.5
+Damascus;-2.2
+Beirut;14.8
+Assab;32.5
+Fianarantsoa;32.6
+Entebbe;18.1
+Anchorage;24.2
+Reggane;35.8
+Skopje;-3.6
+Napier;18.3
+Port-Gentil;26.0
+Yerevan;23.2
+Algiers;12.7
+Luxembourg City;2.0
+Chișinău;2.5
+Napoli;21.3
+Dampier;14.4
+Hat Yai;23.8
+Port Vila;47.0
+Zürich;4.6
+Marseille;4.0
+San Salvador;12.5
+Thiès;18.1
+Tucson;30.4
+Kolkata;19.0
+San Antonio;25.7
+Suva;19.6
+Pretoria;12.2
+Porto;14.7
+Hargeisa;20.6
+Wau;43.8
+Porto;27.5
+Banjul;25.7
+Dushanbe;-2.0
+Wrocław;22.2
+La Paz;27.0
+Almaty;-2.2
+Perth;21.4
+Nicosia;23.0
+Upington;26.6
+Chicago;22.4
+Garissa;13.2
+Rangpur;42.0
+San Antonio;20.0
+Colombo;23.0
+Muscat;47.1
+Sydney;21.3
+Mango;37.4
+Vladivostok;5.5
+Jerusalem;12.5
+Palembang;36.8
+Hong Kong;38.2
+Tromsø;10.7
+Nuuk;-15.5
+Port Moresby;33.0
+Baguio;23.0
+Halifax;14.4
+Yaoundé;19.6
+Valletta;23.2
+San Francisco;13.9
+Chișinău;-1.3
+Hamburg;9.6
+Tunis;20.0
+Yerevan;5.1
+Brazzaville;30.8
+Chongqing;13.8
+Tabora;28.6
+Albuquerque;7.4
+Antsiranana;37.6
+Lake Tekapo;5.3
+Gaborone;27.5
+Launceston;16.1
+Vientiane;32.9
+Lhasa;-8.6
+Alexandria;32.9
+Lagos;42.2
+Bangui;51.8
+Tamanrasset;12.2
+Wau;19.0
+Saint-Pierre;11.9
+Makassar;33.0
+Brazzaville;15.8
+Dili;5.8
+Napoli;19.4
+Lake Havasu City;18.3
+Durban;21.9
+Calgary;8.5
+Conakry;27.6
+Omaha;5.6
+Karachi;28.3
+Prague;6.5
+Entebbe;21.7
+Hobart;32.8
+Virginia Beach;17.4
+Yinchuan;17.9
+Vancouver;2.7
+Aden;50.9
+Hamburg;-18.6
+Memphis;23.9
+Conakry;28.3
+Kolkata;28.8
+Johannesburg;23.6
+Cotonou;7.6
+Livingstone;22.9
+Tashkent;13.5
+Maun;26.2
+Bergen;14.6
+Halifax;-8.2
+Ngaoundéré;24.7
+Valencia;29.8
+Charlotte;9.5
+Bouaké;19.0
+Kuopio;-13.8
+Managua;39.0
+Prague;17.7
+Naha;18.6
+Benghazi;7.7
+Palermo;32.4
+Milan;10.7
+Anadyr;-5.6
+Guatemala City;22.9
+Lake Tekapo;16.4
+Toliara;24.7
+Makurdi;23.1
+Saint-Pierre;18.6
+Bosaso;25.7
+Hanga Roa;51.8
+Darwin;13.6
+Fianarantsoa;14.9
+Brazzaville;47.8
+Tabriz;1.7
+Seville;21.5
+Tehran;26.3
+Sokoto;34.4
+New Delhi;24.6
+Erbil;32.1
+Lahore;38.1
+Philadelphia;-2.6
+Anchorage;6.3
+Fianarantsoa;12.8
+Perth;10.9
+Harbin;6.0
+Gjoa Haven;-12.0
+Reggane;37.5
+Mahajanga;36.1
+Edmonton;8.0
+Guadalajara;34.8
+Dili;51.4
+Nashville;29.7
+Sochi;19.1
+Kunming;13.5
+Asmara;19.6
+Copenhagen;4.7
+Adelaide;8.0
+Palm Springs;40.8
+Kabul;26.4
+Istanbul;21.2
+Sydney;16.9
+Belize City;41.8
+Tallinn;1.4
+Vilnius;11.4
+San Diego;11.6
+Niigata;9.7
+Oranjestad;34.0
+Mek'ele;12.3
+Heraklion;3.6
+Lviv;18.0
+Lodwar;30.8
+Suva;39.6
+Fianarantsoa;33.2
+Parakou;41.5
+Port Sudan;11.0
+Tehran;27.7
+Oslo;-8.9
+Paris;20.6
+Tunis;25.1
+Nicosia;33.0
+Phnom Penh;26.5
+Benghazi;21.0
+Madrid;17.7
+Douala;53.1
+El Paso;17.5
+Yellowknife;-8.1
+Ürümqi;1.4
+Kathmandu;45.0
+Toluca;25.5
+Bangui;33.3
+Palmerston North;12.2
+Benghazi;38.4
+Almaty;22.6
+Zürich;9.7
+Wichita;17.3
+Niamey;30.3
+Phoenix;13.6
+Warsaw;8.6
+Pretoria;10.2
+Sana'a;30.4
+Budapest;24.6
+Palermo;14.5
+Canberra;-2.7
+Pyongyang;10.5
+Johannesburg;19.8
+Ouagadougou;30.7
+Kabul;7.2
+Ahvaz;29.4
+Maun;28.5
+Ljubljana;15.3
+Phoenix;22.9
+Sokoto;41.4
+Lubumbashi;15.4
+Cracow;8.6
+Las Vegas;31.6
+Ngaoundéré;24.4
+Milwaukee;3.1
+Ulaanbaatar;11.5
+Mexicali;17.1
+Tirana;16.8
+Conakry;2.3
+Atlanta;16.8
+Dublin;25.9
+Bloemfontein;22.9
+Cairo;44.8
+Reggane;22.0
+Columbus;15.9
+Fresno;13.7
+Johannesburg;12.7
+Indianapolis;-0.2
+Nicosia;24.6
+Boise;25.8
+Mek'ele;7.6
+Riyadh;31.8
+Valencia;4.2
+Portland (OR);8.6
+Port-Gentil;10.7
+Seville;6.8
+Niigata;23.4
+Bosaso;12.6
+Boise;23.3
+Cape Town;8.9
+Oranjestad;21.4
+Johannesburg;29.2
+Valletta;23.6
+Port Sudan;24.9
+Medan;16.1
+Dubai;8.6
+Burnie;-4.6
+Santo Domingo;27.6
+Bratislava;3.5
+Luxembourg City;16.5
+Hanga Roa;13.0
+Harare;9.2
+Abha;15.7
+Lhasa;15.6
+Jerusalem;0.7
+Monaco;0.5
+Astana;-4.7
+Kuopio;-5.3
+İzmir;26.0
+Brisbane;1.9
+Alexandra;29.0
+Gangtok;4.3
+Lodwar;40.7
+Muscat;22.5
+Muscat;31.0
+Honiara;29.8
+Tabora;16.3
+Charlotte;28.4
+Moscow;4.0
+Sochi;20.3
+Bulawayo;21.4
+Bujumbura;-6.3
+Houston;17.0
+Lahore;11.0
+Brussels;2.0
+Vladivostok;30.1
+Dili;20.5
+La Paz;19.8
+Minsk;10.6
+Rostov-on-Don;-1.9
+Ürümqi;10.4
+Gagnoa;16.3
+Luanda;15.4
+San Juan;31.8
+Anadyr;-17.2
+Willemstad;29.5
+Split;16.3
+Sofia;23.2
+Oslo;8.9
+Ürümqi;19.7
+Tromsø;16.2
+Oklahoma City;15.3
+Helsinki;-4.9
+Ouarzazate;17.5
+New Orleans;12.4
+Surabaya;24.5
+Nouadhibou;7.4
+Austin;30.3
+Nassau;30.5
+Xi'an;27.0
+Johannesburg;28.1
+Dhaka;20.9
+Napier;6.5
+Lake Tekapo;6.1
+Rangpur;23.7
+Oulu;10.6
+Kyoto;8.6
+Detroit;-2.0
+Bishkek;23.2
+Damascus;25.1
+Guangzhou;24.6
+Arkhangelsk;-1.2
+Bouaké;6.9
+Seoul;10.9
+Ségou;61.1
+Albuquerque;4.8
+Kandi;25.7
+Bulawayo;10.6
+Maun;11.0
+Benghazi;11.2
+Irkutsk;-5.1
+Birao;45.6
+Maputo;8.9
+Valletta;12.1
+Bilbao;17.4
+Minsk;0.0
+Kandi;46.4
+Nairobi;11.1
+Maputo;33.8
+Prague;-15.3
+Saint Petersburg;24.4
+Da Nang;37.0
+Banjul;17.0
+Seoul;16.2
+Bata;29.7
+Kumasi;24.2
+Hanoi;-0.8
+Tunis;20.3
+Bulawayo;29.7
+Parakou;18.4
+San Juan;31.6
+Erzurum;1.6
+Murmansk;3.6
+Minsk;-5.2
+Baguio;12.2
+Copenhagen;18.8
+Thessaloniki;17.0
+Malabo;19.7
+Bilbao;19.1
+Mogadishu;37.4
+Sofia;0.9
+Gagnoa;29.3
+Nicosia;16.3
+Ankara;3.1
+Hobart;16.6
+Nouadhibou;16.3
+Almaty;2.6
+Jayapura;41.1
+Tauranga;9.0
+Villahermosa;41.4
+Mek'ele;28.5
+Reggane;16.9
+Rome;15.0
+New Delhi;40.4
+Toronto;0.8
+Addis Ababa;6.3
+Lyon;8.4
+Antsiranana;17.2
+Dakar;51.8
+Boise;-1.7
+Vienna;35.3
+Banjul;16.1
+Villahermosa;5.1
+Dampier;29.3
+Ashgabat;6.1
+Tamale;19.8
+Djibouti;42.6
+Vladivostok;-9.3
+Mexicali;23.6
+Panama City;37.9
+Kunming;8.7
+Baltimore;1.3
+Barcelona;23.9
+Milan;11.5
+San Jose;16.4
+Dakar;23.7
+Darwin;28.8
+Cotonou;30.8
+Nouakchott;22.2
+Damascus;9.0
+Tauranga;27.6
+Bergen;20.5
+Pittsburgh;18.8
+Hobart;2.6
+Bangui;22.2
+Seoul;16.8
+Suva;12.9
+Tel Aviv;17.7
+Manama;15.8
+Yakutsk;0.7
+Auckland;-0.4
+Calgary;0.1
+Irkutsk;-9.6
+Manama;30.3
+Abéché;30.6
+San Antonio;17.9
+Maun;27.5
+Boise;9.0
+Cracow;4.9
+Honolulu;52.3
+Canberra;23.6
+Parakou;22.6
+San Antonio;34.8
+Odienné;24.7
+Managua;26.9
+Cracow;12.6
+Alexandra;-9.4
+Abidjan;37.0
+Jakarta;33.4
+Lake Tekapo;16.2
+Louisville;10.1
+Vientiane;17.4
+Amsterdam;1.6
+Chittagong;45.0
+Pontianak;35.8
+Jacksonville;43.1
+George Town;30.5
+Bissau;11.1
+Saint Petersburg;-3.6
+Seoul;16.2
+Adelaide;31.9
+Amsterdam;15.3
+Vilnius;2.3
+Cracow;17.2
+Harbin;9.6
+Flores,  Petén;25.5
+Tamale;20.4
+Nuuk;-7.1
+Jerusalem;20.0
+Atlanta;15.2
+Kano;20.6
+Ashgabat;22.0
+Dhaka;24.1
+Tijuana;0.7
+Seattle;-3.0
+Hamburg;6.0
+Fukuoka;-5.7
+Ankara;7.7
+Reykjavík;16.1
+Bissau;18.5
+Damascus;24.8
+Palembang;19.9
+Kuwait City;16.4
+Tamanrasset;25.2
+Palm Springs;15.3
+Bosaso;31.0
+Naha;21.8
+Anadyr;-15.8
+Baghdad;22.1
+Alice Springs;19.6
+Brussels;10.6
+El Paso;28.6
+Yakutsk;-6.7
+Reykjavík;-5.0
+Bulawayo;27.4
+Dubai;29.9
+Saskatoon;-1.8
+Los Angeles;13.8
+Maputo;21.7
+Fairbanks;-6.6
+Milwaukee;11.6
+Barcelona;11.7
+Anadyr;-0.2
+Virginia Beach;16.7
+Kunming;11.1
+Lodwar;24.1
+Chihuahua;11.9
+Valletta;29.1
+Toluca;-4.7
+Changsha;18.1
+Seattle;17.1
+Fresno;3.2
+Napier;9.2
+Port Moresby;17.8
+Bordeaux;19.7
+Podgorica;23.1
+Baguio;8.8
+Durban;24.1
+Medan;14.6
+Kingston;17.5
+Saint-Pierre;-3.0
+Fukuoka;15.9
+Palmerston North;14.5
+Dodoma;41.7
+Suva;26.5
+Pittsburgh;30.3
+Beijing;6.3
+Bouaké;10.0
+Saint-Pierre;7.4
+Astana;2.3
+Riga;17.1
+San Jose;18.0
+Ghanzi;16.4
+Napoli;1.5
+Accra;27.4
+Houston;13.0
+Lisbon;40.2
+Monaco;11.9
+Durban;31.6
+Lisbon;7.0
+Malé;22.9
+Tijuana;21.8
+Bilbao;11.0
+Kyiv;-6.7
+Heraklion;17.5
+Johannesburg;-2.0
+Brazzaville;21.2
+San Francisco;-8.5
+Launceston;29.4
+Anchorage;-8.8
+Athens;15.4
+Bridgetown;27.8
+Hanoi;23.8
+Pyongyang;11.4
+Split;12.1
+Virginia Beach;19.0
+Garoua;30.8
+Toliara;28.3
+Baghdad;34.5
+Tunis;24.8
+Parakou;32.6
+Oulu;10.5
+Gabès;18.8
+Praia;16.2
+Karachi;34.5
+Sacramento;22.8
+Yakutsk;-17.2
+Kuwait City;21.0
+Cairns;12.8
+Makassar;24.4
+Lyon;17.4
+Skopje;5.2
+Harare;18.2
+Bata;31.4
+Birao;9.1
+Vienna;17.1
+San Jose;6.8
+Johannesburg;38.8
+Bata;21.3
+Wichita;8.0
+Birao;22.1
+Kandi;22.5
+Abha;14.7
+Garoua;27.3
+Saint-Pierre;6.7
+Denpasar;26.1
+Ghanzi;23.1
+Bata;13.3
+Iqaluit;-22.0
+Amsterdam;-1.3
+Tallinn;-17.2
+Lahore;18.4
+Entebbe;37.5
+Austin;22.5
+Brisbane;30.0
+Bangkok;24.0
+Muscat;18.3
+Washington, D.C.;30.5
+Kuala Lumpur;11.4
+Atlanta;19.2
+Hanoi;12.8
+San José;25.0
+Bata;23.6
+Malé;20.2
+Kuwait City;15.3
+Sokoto;26.8
+Cracow;11.0
+Thiès;26.6
+Praia;11.9
+San Juan;39.7
+Baku;30.6
+Belize City;26.4
+Ngaoundéré;14.0
+Palermo;14.9
+Addis Ababa;38.4
+Tauranga;45.9
+Wrocław;4.2
+Kolkata;14.2
+Whitehorse;-10.7
+Hamilton;35.3
+Kolkata;22.4
+Chiang Mai;24.4
+Montreal;15.9
+Tabriz;18.7
+Dunedin;10.8
+Kumasi;37.2
+Porto;5.0
+Paris;-0.9
+Bosaso;24.7
+Gjoa Haven;-37.6
+Kuwait City;8.1
+Austin;35.8
+Las Vegas;42.0
+Milan;2.8
+Flores,  Petén;35.7
+Milan;7.8
+Yellowknife;-0.5
+Kinshasa;15.3
+Santo Domingo;6.6
+Sarajevo;11.4
+Baghdad;12.1
+Bata;37.3
+Praia;22.8
+Las Palmas de Gran Canaria;25.6
+Saint Petersburg;4.5
+Mombasa;50.2
+Chongqing;27.0
+Bucharest;1.5
+Port Moresby;22.0
+Phoenix;26.6
+Anchorage;7.7
+Las Palmas de Gran Canaria;25.2
+Odesa;29.2
+Toamasina;34.3
+Albuquerque;20.4
+Livingstone;24.9
+Brussels;-10.6
+Madrid;28.1
+Milwaukee;27.1
+San Antonio;28.3
+Lyon;-9.2
+Port Sudan;30.4
+Ifrane;1.3
+Wellington;6.5
+Baltimore;21.5
+Pretoria;11.5
+Antananarivo;25.2
+Louisville;13.3
+Sochi;10.0
+Ljubljana;2.3
+Conakry;27.1
+Damascus;0.3
+Cracow;11.7
+Zagreb;-9.9
+Cabo San Lucas;10.6
+Sokoto;4.1
+Ho Chi Minh City;24.4
+Moscow;-2.8
+Bouaké;28.0
+Vancouver;19.1
+Cracow;9.7
+Rangpur;26.8
+Niamey;10.7
+Denver;12.8
+Yangon;5.4
+Palmerston North;24.2
+Dikson;-11.8
+Ahvaz;27.5
+Entebbe;17.4
+Guadalajara;30.7
+Baghdad;12.7
+Ottawa;13.8
+Nuuk;-1.0
+Oulu;2.6
+Sacramento;18.2
+Ljubljana;16.4
+Bergen;24.1
+Lviv;20.1
+Taipei;26.5
+Changsha;32.6
+Philadelphia;16.5
+Yerevan;16.8
+Bosaso;44.8
+Skopje;-10.1
+Tamanrasset;31.0
+Novosibirsk;3.6
+Pointe-Noire;27.7
+Bulawayo;31.5
+Split;39.1
+Zanzibar City;28.2
+Kunming;11.7
+Baltimore;-0.4
+Yaoundé;24.9
+Tashkent;-2.4
+Yellowknife;-13.9
+Tunis;21.3
+Split;24.8
+Luxembourg City;10.2
+Cairns;26.1
+Colombo;23.7
+Kolkata;30.6
+Hong Kong;49.6
+Niigata;16.3
+Bissau;25.5
+Ankara;30.6
+Canberra;12.9
+Hamburg;27.4
+Port Moresby;14.5
+Abha;16.7
+Barcelona;19.8
+Perth;14.6
+Chiang Mai;34.9
+Saint-Pierre;27.6
+Lyon;12.7
+Skopje;15.5
+Vladivostok;-10.9
+Ouarzazate;21.0
+Podgorica;12.0
+Arkhangelsk;-7.7
+Charlotte;23.7
+Baltimore;7.4
+Odesa;18.9
+Cracow;34.4
+Tunis;12.5
+George Town;33.7
+Burnie;2.1
+Dikson;-8.7
+Veracruz;18.9
+Hat Yai;25.4
+St. Louis;9.1
+Ségou;13.2
+Baghdad;10.5
+Beijing;16.5
+Baguio;9.3
+Kano;26.8
+Istanbul;20.7
+Whitehorse;-2.2
+Tirana;3.2
+Chihuahua;37.8
+Accra;44.5
+Tucson;5.7
+Mango;28.4
+Sydney;22.3
+Dakar;19.0
+Marseille;17.3
+Port Vila;17.6
+Dar es Salaam;37.2
+Kuala Lumpur;21.4
+San Juan;28.5
+Tampa;14.2
+Frankfurt;6.1
+Fukuoka;13.5
+Ankara;-1.9
+Hanoi;37.2
+Minneapolis;-2.7
+Birao;32.1
+Iqaluit;-9.7
+Wau;37.7
+Athens;15.1
+San Salvador;10.6
+Ho Chi Minh City;35.8
+Abidjan;17.0
+La Ceiba;25.4
+Tashkent;16.2
+Gagnoa;41.5
+Berlin;14.8
+Havana;27.2
+Wichita;5.5
+Marseille;10.5
+Sapporo;17.2
+Baku;18.4
+Zürich;10.3
+Minneapolis;17.4
+Sacramento;17.0
+Erbil;24.9
+Launceston;4.4
+Veracruz;26.9
+Lake Tekapo;24.5
+Columbus;18.8
+Mzuzu;20.0
+Praia;40.9
+Jos;15.8
+Benghazi;17.7
+Lake Tekapo;6.4
+Ifrane;14.1
+Bangui;27.6
+Sokoto;27.9
+Odienné;9.8
+Port Vila;16.9
+Bouaké;32.3
+Tashkent;27.2
+Tamale;29.9
+Seoul;16.7
+Praia;6.4
+San Jose;25.1
+Blantyre;27.4
+Brussels;8.4
+Winnipeg;6.9
+Ottawa;0.7
+Frankfurt;21.3
+Bordeaux;12.6
+Kumasi;20.5
+Flores,  Petén;32.2
+Miami;12.8
+Dampier;22.7
+Alexandra;18.1
+Alexandra;24.2
+Veracruz;16.3
+Gangtok;15.3
+Napoli;21.3
+Bosaso;37.6
+Lviv;11.3
+Paris;17.7
+Mek'ele;24.1
+Dallas;10.0
+Mango;33.8
+Panama City;17.5
+Gaborone;11.5
+Jerusalem;17.7
+Bamako;31.8
+Erbil;28.0
+Pretoria;0.1
+Minsk;-3.1
+Nakhon Ratchasima;22.4
+Lusaka;19.4
+Dallas;15.0
+Philadelphia;9.0
+Honolulu;39.4
+Brussels;-4.2
+Blantyre;27.4
+Montreal;17.5
+Reggane;46.7
+Port Vila;8.2
+Phoenix;41.9
+Mogadishu;38.2
+Addis Ababa;27.4
+Prague;12.3
+Andorra la Vella;21.2
+Livingstone;34.3
+Copenhagen;22.8
+Vienna;5.7
+Jayapura;30.4
+Toronto;14.4
+Toronto;4.0
+Santo Domingo;20.8
+Lubumbashi;13.5
+Wellington;-6.0
+Suwałki;3.6
+Antsiranana;25.2
+Zanzibar City;13.4
+Makurdi;37.4
+Palermo;17.5
+Kumasi;23.1
+Kuwait City;19.5
+Virginia Beach;21.3
+Port Vila;23.3
+Banjul;16.9
+George Town;27.5
+Suva;6.6
+Nairobi;13.7
+New Delhi;37.1
+San Diego;25.7
+Lake Havasu City;29.1
+Podgorica;14.2
+Oslo;17.4
+Dhaka;22.5
+Nairobi;16.5
+Da Nang;33.7
+Port Sudan;39.8
+Niigata;19.7
+Memphis;25.3
+Nouakchott;34.1
+Maputo;13.4
+Abha;6.5
+Cairo;17.8
+Singapore;21.3
+Monaco;16.3
+Mzuzu;24.9
+Dakar;50.9
+Tucson;-0.9
+Kumasi;41.9
+Johannesburg;14.8
+Palembang;25.5
+Toliara;19.2
+Cairo;2.9
+Madrid;18.0
+Karonga;14.3
+Iqaluit;-21.0
+Manama;24.0
+Kingston;23.0
+Durban;24.9
+Algiers;16.4
+Moncton;10.5
+Vaduz;27.4
+Fresno;34.6
+Reykjavík;-4.8
+Ghanzi;20.5
+Irkutsk;-3.3
+Ghanzi;27.8
+Port-Gentil;30.1
+Rostov-on-Don;5.6
+Gabès;28.5
+Hargeisa;30.5
+Bangui;32.5
+Bucharest;23.4
+Palm Springs;16.9
+Ankara;15.9
+Lisbon;3.8
+Willemstad;30.0
+New Orleans;19.1
+Cairo;12.7
+Monterrey;1.4
+Warsaw;16.4
+San Salvador;23.4
+Ghanzi;30.6
+Guadalajara;13.6
+Palmerston North;27.8
+Santo Domingo;4.6
+Erbil;20.3
+Amsterdam;29.8
+Vientiane;18.5
+Napier;18.4
+Tabora;40.5
+Port Moresby;43.3
+Skopje;29.8
+Napoli;12.4
+Atlanta;18.4
+Tel Aviv;20.7
+Saskatoon;-12.0
+Ndola;23.9
+Melbourne;-0.7
+Napoli;12.1
+Shanghai;2.8
+San Diego;31.8
+New Orleans;42.3
+Da Lat;20.4
+St. John's;-2.3
+N'Djamena;34.0
+Ankara;21.7
+Port-Gentil;24.6
+Addis Ababa;23.0
+Entebbe;4.7
+Kuwait City;24.6
+Barcelona;24.5
+Fukuoka;24.4
+Suwałki;18.2
+Pyongyang;-0.9
+Antananarivo;24.1
+Ngaoundéré;20.8
+Accra;29.2
+New Orleans;30.7
+Moncton;2.4
+La Ceiba;13.6
+Bulawayo;19.7
+Iqaluit;-2.8
+Toliara;29.0
+Upington;7.2
+Atlanta;15.1
+Changsha;23.9
+New York City;7.3
+Santo Domingo;34.0
+Nuuk;3.9
+Garoua;10.3
+Toliara;17.8
+Perth;19.9
+Astana;-1.8
+Brussels;-6.9
+Libreville;13.2
+Monaco;16.8
+Kingston;33.7
+Makassar;19.6
+Baltimore;19.0
+Baltimore;5.7
+Minneapolis;11.8
+Denpasar;37.6
+Burnie;1.7
+Hargeisa;28.3
+Singapore;25.6
+Khartoum;22.2
+Tripoli;11.5
+Port Sudan;21.1
+Dakar;37.5
+Tallinn;-8.0
+Kumasi;28.7
+Honiara;34.5
+Palembang;30.9
+Bosaso;31.6
+Naha;26.6
+Gaborone;10.0
+Halifax;-11.7
+Alexandra;6.3
+Tegucigalpa;22.4
+Ürümqi;10.9
+Kansas City;9.2
+Nashville;9.5
+Alice Springs;11.4
+Kampala;5.8
+Oslo;8.7
+Nairobi;20.2
+Nassau;37.7
+Monaco;20.7
+Pyongyang;-3.5
+Ouahigouya;11.3
+Riyadh;7.8
+Havana;20.5
+George Town;32.9
+Nakhon Ratchasima;17.0
+Kuwait City;24.9
+Stockholm;-0.1
+Darwin;28.6
+Dushanbe;34.4
+Sacramento;26.2
+Podgorica;10.2
+Odienné;35.5
+Port Moresby;12.9
+Berlin;2.6
+Fresno;41.8
+Rabat;27.0
+Makurdi;22.6
+Medan;12.0
+Santo Domingo;12.5
+Oslo;-9.9
+Tamale;37.0
+Odesa;11.8
+Albuquerque;-8.2
+Kano;27.9
+Fianarantsoa;15.9
+Wau;33.0
+Luxembourg City;16.2
+Abha;33.3
+Murmansk;-17.5
+Beijing;3.0
+Atlanta;5.6
+Tbilisi;-1.2
+Gjoa Haven;-23.2
+Brisbane;16.4
+Ouagadougou;26.8
+Kabul;18.8
+Mzuzu;10.0
+Frankfurt;8.9
+Mango;32.4
+Washington, D.C.;9.4
+Sokoto;21.7
+Yinchuan;30.2
+Oslo;16.1
+Berlin;-5.1
+Vilnius;-0.2
+Khartoum;42.4
+Nakhon Ratchasima;21.8
+Vientiane;33.5
+Wau;22.0
+Chișinău;18.3
+Oklahoma City;19.9
+Ljubljana;7.1
+Pontianak;8.2
+San Antonio;25.5
+Nassau;32.8
+Anchorage;4.7
+Abha;23.3
+Antananarivo;24.1
+Kuala Lumpur;25.9
+Lubumbashi;17.7
+San Diego;3.7
+Maputo;18.5
+Cabo San Lucas;5.1
+Almaty;20.4
+Kabul;24.7
+Kabul;17.3
+Louisville;21.3
+Juba;34.9
+Havana;36.4
+Thessaloniki;21.0
+Da Nang;20.5
+Canberra;13.5
+Nouakchott;18.5
+Atlanta;-2.8
+Honolulu;15.4
+Luxembourg City;-0.3
+Minsk;12.7
+Sapporo;-3.5
+Bucharest;2.9
+New Orleans;28.9
+Praia;11.9
+Lviv;-9.8
+Ndola;32.7
+Oulu;10.5
+Irkutsk;-7.0
+Yellowknife;-8.3
+Kolkata;13.6
+Brisbane;17.7
+San Juan;37.0
+Belize City;18.9
+Atlanta;23.9
+Hamilton;24.7
+Hong Kong;18.2
+Dodoma;7.5
+New Orleans;22.5
+Novosibirsk;-9.6
+San Antonio;19.6
+Columbus;1.9
+Dodoma;27.5
+New Delhi;9.0
+Beirut;14.2
+Austin;27.1
+Brazzaville;35.8
+Garoua;12.3
+Dili;42.0
+Marrakesh;29.4
+Budapest;0.4
+Albuquerque;9.3
+Guangzhou;19.5
+Luanda;4.6
+Bouaké;27.4
+St. John's;2.1
+Lake Havasu City;10.3
+La Ceiba;12.3
+Brussels;23.9
+Honiara;36.2
+Blantyre;23.4
+Panama City;37.9
+Bata;44.6
+Thiès;13.7
+Abidjan;36.7
+Bissau;36.3
+Dili;13.7
+Montreal;15.7
+Dar es Salaam;19.4
+Brazzaville;13.0
+Mango;4.8
+Chișinău;24.5
+Moscow;7.2
+Halifax;1.7
+Andorra la Vella;12.3
+Abha;36.1
+Tripoli;11.1
+Sapporo;10.6
+Pretoria;4.5
+Aden;10.6
+Kuwait City;-1.0
+Santo Domingo;23.0
+Pretoria;18.5
+Bangui;28.2
+Auckland;22.0
+Astana;16.7
+San Antonio;25.3
+Kolkata;15.8
+Cracow;6.5
+Kansas City;25.2
+Belgrade;10.9
+Auckland;21.0
+Hiroshima;1.9
+Hamburg;4.3
+Jakarta;13.1
+Melbourne;15.9
+Pittsburgh;-7.6
+Sokoto;23.0
+Vancouver;8.5
+Gabès;26.5
+Milan;9.1
+Baghdad;21.2
+Odienné;25.7
+Miami;29.7
+Mandalay;22.1
+Ghanzi;5.0
+Tashkent;19.0
+Dunedin;12.3
+Kuala Lumpur;37.7
+Erbil;32.4
+Zürich;14.3
+Kuala Lumpur;34.8
+Niigata;23.2
+Irkutsk;3.9
+Frankfurt;8.8
+Nairobi;2.0
+Praia;40.5
+Suwałki;9.6
+Dolisie;28.5
+Honiara;30.3
+Santo Domingo;14.8
+Chittagong;28.1
+Brisbane;14.7
+Sydney;19.9
+Frankfurt;-0.4
+Sacramento;8.5
+Vilnius;8.2
+Yaoundé;39.1
+Guatemala City;6.7
+Mahajanga;29.7
+Bujumbura;44.3
+Hat Yai;12.1
+Tirana;6.4
+Johannesburg;16.6
+Istanbul;9.0
+Tamale;37.0
+Chiang Mai;35.6
+Mek'ele;27.7
+Novosibirsk;-15.7
+Whitehorse;13.8
+Toliara;33.0
+Almaty;27.1
+Sarajevo;15.7
+Nairobi;17.3
+Mango;24.2
+Xi'an;18.6
+Brussels;14.7
+Yerevan;13.4
+Praia;33.7
+Malé;28.5
+Almaty;12.2
+Fukuoka;2.8
+Kyoto;20.6
+Dolisie;13.7
+Johannesburg;18.9
+Chicago;7.8
+Mogadishu;29.9
+Istanbul;33.5
+Guadalajara;-0.3
+Luxembourg City;14.6
+Perth;7.0
+Palm Springs;24.1
+Havana;32.4
+Monaco;24.9
+Upington;17.1
+Abidjan;18.4
+Ngaoundéré;20.6
+Havana;35.1
+Sana'a;31.3
+Da Lat;23.8
+Durban;23.7
+Djibouti;-5.2
+Philadelphia;-4.7
+Harare;9.6
+Dodoma;20.8
+Saskatoon;6.0
+Belize City;33.8
+Bissau;3.5
+Napoli;20.0
+Toronto;7.6
+Milan;25.7
+Saint-Pierre;-11.2
+Garissa;35.4
+Niigata;17.9
+San Salvador;22.6
+Ahvaz;34.1
+Warsaw;8.7
+Port Sudan;41.6
+Muscat;37.4
+Sydney;25.6
+Cairns;29.0
+Luanda;26.1
+Riyadh;32.0
+Dublin;26.4
+Tamale;35.8
+Saskatoon;-8.1
+Erbil;20.6
+Astana;12.4
+Istanbul;11.1
+Mandalay;27.9
+Calgary;0.4
+Sofia;13.3
+Yangon;38.4
+Lake Tekapo;14.6
+Lhasa;6.8
+Accra;5.5
+Edinburgh;24.5
+Kolkata;40.0
+Portland (OR);6.4
+Jakarta;13.7
+Wau;27.7
+Lisbon;12.6
+Arkhangelsk;1.2
+Omaha;26.6
+Kabul;7.4
+Heraklion;34.7
+Cape Town;20.5
+Skopje;-0.3
+Ouahigouya;28.7
+Washington, D.C.;17.5
+Dar es Salaam;27.4
+Lodwar;24.1
+Lubumbashi;26.9
+Skopje;24.9
+Tel Aviv;15.1
+Lake Havasu City;3.8
+Santo Domingo;19.6
+Douala;28.6
+Dodoma;19.5
+Gjoa Haven;-19.6
+Seattle;7.9
+Gangtok;15.6
+Lake Havasu City;12.3
+Timbuktu;27.3
+Erzurum;10.4
+San Jose;15.2
+Baku;21.0
+Rangpur;30.7
+Kyiv;10.6
+St. Louis;18.7
+Tauranga;2.5
+Ndola;26.2
+Chișinău;13.5
+Benghazi;25.8
+Dolisie;26.0
+Bujumbura;12.0
+Reykjavík;14.9
+Khartoum;25.2
+Pittsburgh;4.0
+Jakarta;19.0
+Da Lat;22.6
+El Paso;19.7
+Stockholm;6.5
+Launceston;21.8
+Vancouver;6.5
+Adelaide;12.8
+Sokoto;30.3
+Lake Havasu City;28.5
+Bangkok;28.2
+Makassar;17.3
+Suwałki;13.6
+Cotonou;14.1
+Bulawayo;22.6
+Sokoto;41.6
+Johannesburg;12.4
+Winnipeg;2.9
+Sarajevo;11.1
+San Salvador;40.4
+Niigata;17.2
+Mombasa;22.6
+Hat Yai;28.6
+Nouadhibou;9.1
+Tabora;27.1
+Zagreb;8.1
+Garissa;42.2
+Alexandria;4.3
+Tabora;24.1
+Adelaide;16.0
+Sokoto;41.1
+Riyadh;19.8
+Fresno;19.7
+Bergen;-6.3
+Bridgetown;21.5
+Riyadh;31.9
+Gabès;31.0
+Las Vegas;17.1
+Chittagong;32.1
+Banjul;26.7
+Maun;26.2
+Makassar;49.2
+Guangzhou;30.8
+Baltimore;23.0
+Odesa;14.2
+San José;27.7
+İzmir;31.8
+San Salvador;12.6
+Bishkek;16.0
+Thiès;21.8
+Tamale;14.8
+Auckland;-4.0
+Iqaluit;-13.6
+Kunming;11.6
+Christchurch;5.9
+Brussels;21.7
+San Francisco;-7.3
+Benghazi;28.9
+Astana;23.8
+Minsk;1.0
+Madrid;18.9
+Bata;25.4
+Tromsø;4.0
+Dikson;-6.2
+Cracow;-10.4
+Port Sudan;8.8
+Colombo;36.8
+Dili;18.0
+Hong Kong;25.0
+Nouakchott;32.0
+Berlin;29.4
+Ljubljana;12.1
+Vladivostok;13.9
+Maputo;25.5
+Palermo;8.3
+Denver;-10.3
+Pittsburgh;7.9
+Gagnoa;15.8
+Vilnius;14.3
+Honolulu;23.4
+N'Djamena;31.5
+City of San Marino;8.3
+Mzuzu;7.6
+Erzurum;-2.1
+Birao;20.5
+Ndola;16.8
+Ljubljana;18.2
+Astana;25.0
+Saint Petersburg;-2.7
+Anadyr;-7.6
+Port Moresby;22.5
+Vientiane;14.0
+Karachi;24.0
+Sydney;9.8
+Toliara;36.9
+Chittagong;26.5
+Harbin;5.1
+La Ceiba;11.6
+Havana;37.3
+Ankara;15.6
+Saint-Pierre;12.0
+Praia;32.2
+Medan;12.5
+Paris;8.5
+Seoul;2.7
+San José;26.8
+Belgrade;26.1
+Colombo;34.5
+Wrocław;3.6
+New York City;10.0
+Karonga;30.5
+Moncton;14.4
+Jos;11.3
+Kansas City;19.3
+Baltimore;23.1
+Ouagadougou;39.7
+Wellington;29.9
+Palembang;39.2
+Bergen;16.9
+Fairbanks;-21.8
+Ndola;15.7
+Bouaké;35.9
+Djibouti;35.8
+Kandi;32.3
+Suva;21.2
+Mexicali;45.4
+Ahvaz;33.7
+Sofia;9.3
+Dallas;23.7
+Saskatoon;-3.9
+Ashgabat;25.6
+Ottawa;-12.5
+Chongqing;29.5
+Split;-2.1
+Copenhagen;12.2
+Ouahigouya;26.1
+Bergen;6.2
+Tauranga;11.5
+Assab;15.7
+Dikson;-7.9
+Mexico City;25.4
+Canberra;23.0
+Chiang Mai;28.9
+Cotonou;20.6
+Christchurch;14.1
+Timbuktu;32.1
+La Paz;26.2
+Nashville;24.2
+Changsha;11.3
+Ngaoundéré;4.3
+Ho Chi Minh City;37.3
+Whitehorse;-8.3
+La Ceiba;1.7
+Edinburgh;-4.2
+Split;21.8
+Muscat;18.8
+New Orleans;7.1
+Panama City;40.8
+Memphis;12.7
+Thessaloniki;26.2
+Bouaké;19.3
+Vladivostok;-8.6
+Monterrey;17.2
+Praia;21.8
+Libreville;20.9
+Pontianak;38.9
+Fukuoka;13.6
+Lviv;11.5
+Alexandra;15.1
+Kunming;4.7
+Baku;5.7
+Detroit;31.6
+Nashville;14.8
+Maun;37.7
+Oulu;-4.8
+Bosaso;17.6
+Toamasina;23.1
+Vancouver;7.2
+Darwin;33.4
+Palm Springs;7.1
+Wellington;25.4
+Miami;22.6
+Ottawa;2.8
+San Salvador;24.6
+Willemstad;32.1
+Managua;24.3
+Fresno;28.0
+Chișinău;5.0
+Managua;19.0
+Monaco;12.4
+Dikson;3.7
+Stockholm;3.9
+Guadalajara;33.7
+Tbilisi;6.4
+Cairns;17.3
+Port-Gentil;-4.1
+Murmansk;-2.0
+Suwałki;7.7
+Tel Aviv;9.9
+Bata;27.0
+Garissa;17.5
+Suwałki;-9.1
+Sokoto;38.7
+Ashgabat;15.2
+Algiers;21.5
+Valletta;33.3
+Philadelphia;11.1
+Odesa;5.6
+Villahermosa;32.9
+Khartoum;29.6
+Pointe-Noire;20.5
+Ürümqi;-0.9
+Bordeaux;5.8
+Port-Gentil;-6.0
+Santo Domingo;39.8
+Fairbanks;-12.4
+Bangui;42.6
+Columbus;28.5
+Gaborone;18.6
+Banjul;29.0
+Hamilton;2.8
+Edmonton;11.8
+Tripoli;11.6
+Tokyo;24.6
+Alice Springs;21.6
+Nicosia;21.3
+Manila;25.4
+Atlanta;31.7
+Abha;35.3
+St. John's;18.5
+Harare;0.7
+Beijing;18.2
+Denver;6.6
+Columbus;8.1
+Toliara;19.0
+Hargeisa;18.9
+Washington, D.C.;13.9
+Villahermosa;29.4
+Gaborone;26.7
+Abha;12.6
+City of San Marino;26.2
+Seoul;17.4
+Belgrade;29.1
+Hanoi;20.2
+San Francisco;0.6
+Bulawayo;24.6
+Thessaloniki;26.1
+St. Louis;18.9
+Santo Domingo;29.2
+Dodoma;33.1
+Arkhangelsk;-13.6
+Niigata;13.6
+Taipei;34.5
+Durban;29.5
+Praia;18.4
+Djibouti;30.1
+Suva;42.5
+Alexandra;15.2
+Bangui;52.0
+Port Sudan;23.6
+Jos;11.8
+City of San Marino;15.5
+Ankara;17.4
+Christchurch;32.5
+Milwaukee;-5.7
+Dushanbe;24.5
+Sana'a;19.9
+Milwaukee;8.5
+Suva;34.4
+Algiers;20.8
+Erbil;1.7
+Ljubljana;22.1
+Dili;17.8
+Tashkent;22.4
+Kinshasa;37.8
+Managua;9.7
+Denpasar;14.3
+Portland (OR);5.0
+Toliara;37.7
+Mzuzu;12.5
+Damascus;7.5
+Malabo;18.6
+Hamburg;3.1
+Saint-Pierre;0.2
+Virginia Beach;22.6
+Zagreb;17.8
+Tabriz;19.7
+Baku;19.3
+Kuala Lumpur;20.2
+İzmir;-1.2
+Phoenix;23.0
+El Paso;6.2
+Manila;18.0
+Chișinău;4.1
+Antsiranana;26.9
+Yinchuan;-2.6
+Detroit;15.7
+Toliara;17.9
+Houston;20.7
+Yakutsk;-4.9
+Cairns;28.2
+Dushanbe;7.9
+Lahore;43.2
+Monaco;6.7
+Juba;32.9
+Managua;36.2
+Entebbe;13.9
+Toliara;24.5
+Ashgabat;28.8
+Pyongyang;-1.7
+Suwałki;-5.9
+Mogadishu;19.3
+Entebbe;12.6
+Melbourne;16.6
+Skopje;19.8
+Tunis;20.5
+Conakry;18.1
+Astana;15.3
+Hamburg;5.7
+Memphis;13.5
+Harare;10.2
+Halifax;1.2
+Da Lat;25.4
+Cotonou;20.6
+Valletta;21.5
+Erbil;27.3
+Ségou;40.8
+Jerusalem;11.9
+Tamale;23.8
+Libreville;51.2
+Fresno;30.3
+Lviv;5.1
+Bujumbura;28.8
+Yellowknife;-8.7
+Edinburgh;3.7
+Addis Ababa;3.2
+Kankan;49.5
+Birao;17.0
+Johannesburg;-8.5
+Bosaso;33.3
+Ngaoundéré;25.0
+Oranjestad;25.9
+Saint-Pierre;-1.2
+Monterrey;11.0
+Ouarzazate;22.5
+Vancouver;15.5
+Blantyre;26.0
+Philadelphia;5.2
+Lagos;41.1
+Marseille;35.8
+Vilnius;21.6
+Petropavlovsk-Kamchatsky;-15.2
+Mogadishu;16.9
+Chicago;21.7
+Ouahigouya;0.6
+Hiroshima;24.6
+Alexandria;15.1
+Yinchuan;16.1
+La Ceiba;20.3
+Helsinki;-6.2
+Portland (OR);20.6
+Baku;16.3
+Hamilton;13.6
+Antsiranana;18.5
+Abéché;23.6
+Rabat;11.9
+Suwałki;19.0
+Mandalay;24.0
+Philadelphia;21.8
+Adelaide;23.8
+Tripoli;12.0
+Cairo;27.1
+Dili;11.6
+Luanda;18.3
+Kuala Lumpur;24.6
+Vientiane;14.5
+Ljubljana;20.0
+Baku;7.6
+Tehran;36.1
+Zagreb;14.4
+Toamasina;1.1
+Mexico City;20.6
+Abha;15.6
+Makurdi;28.8
+Medan;15.5
+Antsiranana;4.6
+Baguio;14.9
+Seoul;13.6
+Changsha;17.7
+Marrakesh;21.6
+Maputo;19.6
+Upington;46.4
+Kandi;17.5
+Willemstad;19.3
+Cape Town;13.4
+Fresno;6.7
+Rangpur;27.4
+Auckland;4.6
+La Ceiba;21.5
+Manama;32.8
+Anadyr;7.3
+Irkutsk;-1.0
+Hobart;10.4
+Shanghai;27.8
+Surabaya;14.2
+Lahore;15.2
+Dolisie;14.1
+Ashgabat;10.2
+Chongqing;23.2
+Ségou;34.7
+Melbourne;19.7
+Bucharest;3.4
+Palermo;13.8
+Montreal;14.4
+Surabaya;13.4
+Livingstone;29.9
+Toamasina;19.2
+Odesa;4.8
+Mahajanga;20.1
+Arkhangelsk;4.4
+Milan;5.0
+Louisville;18.6
+Cracow;17.5
+Karachi;9.1
+Luxembourg City;13.4
+Rangpur;8.9
+Edinburgh;13.6
+Lake Tekapo;0.8
+Odesa;17.1
+Conakry;11.6
+Columbus;-11.4
+Canberra;19.1
+New Delhi;24.7
+Portland (OR);-13.6
+Iqaluit;-1.2
+Suwałki;4.9
+San Antonio;31.7
+Port-Gentil;18.1
+Lagos;32.5
+Yerevan;14.5
+Upington;10.0
+Charlotte;11.3
+Ahvaz;16.2
+London;1.8
+Lake Tekapo;5.7
+New York City;34.3
+Istanbul;5.8
+Sydney;12.7
+Bucharest;15.4
+New York City;12.2
+Palm Springs;22.1
+Maun;2.0
+Roseau;27.5
+Alexandria;24.7
+Detroit;-9.8
+Lomé;23.1
+Zürich;13.4
+Praia;33.2
+Irkutsk;1.0
+Yinchuan;12.1
+Kankan;30.0
+Tromsø;-15.6
+Tabriz;-2.3
+Sacramento;23.0
+Port Moresby;15.3
+Boise;12.5
+Suwałki;14.0
+Winnipeg;-5.8
+Las Vegas;21.2
+Bata;43.6
+Phoenix;34.1
+Asmara;22.2
+Sana'a;7.6
+Colombo;29.0
+Lhasa;-9.3
+Alexandria;20.7
+Port-Gentil;32.2
+Yellowknife;5.2
+Heraklion;34.6
+Guadalajara;26.0
+Mango;30.3
+Ségou;28.5
+Nouakchott;21.7
+Parakou;33.2
+London;3.9
+Columbus;19.5
+Cabo San Lucas;24.6
+Virginia Beach;11.1
+Garoua;32.2
+Anadyr;-6.7
+Tamanrasset;35.4
+Cabo San Lucas;20.4
+Panama City;26.6
+Dodoma;29.3
+Mumbai;19.5
+Barcelona;12.9
+Cabo San Lucas;36.4
+Zanzibar City;30.9
+Kuopio;1.8
+Kampala;2.5
+Halifax;9.0
+Santo Domingo;13.0
+Moscow;14.4
+Chișinău;10.7
+Ashgabat;13.0
+Dhaka;12.4
+Birao;23.9
+Chișinău;21.3
+Pyongyang;15.9
+Ifrane;2.6
+Bujumbura;28.4
+Hobart;5.1
+Livingstone;30.6
+Port-Gentil;7.4
+Split;21.8
+Conakry;26.8
+Helsinki;1.0
+Sacramento;10.4
+Pittsburgh;6.3
+Yaoundé;27.3
+Nashville;10.5
+Stockholm;5.0
+Pyongyang;-2.0
+Dolisie;14.8
+Moscow;-0.5
+Valletta;13.3
+Guangzhou;6.5
+Nouakchott;35.8
+Ahvaz;29.9
+Livingstone;25.3
+Tromsø;10.0
+Lomé;29.4
+Edmonton;8.5
+Virginia Beach;16.1
+Irkutsk;-3.5
+Jerusalem;21.4
+Novosibirsk;-6.2
+Ashgabat;18.3
+Harare;21.4
+Muscat;23.0
+Melbourne;11.2
+Astana;18.9
+La Paz;28.9
+Ouagadougou;28.5
+Kyoto;10.3
+Karonga;11.1
+Budapest;23.4
+Dublin;5.3
+Phoenix;13.5
+Timbuktu;7.7
+Antananarivo;17.2
+Kumasi;31.7
+Vilnius;13.4
+George Town;44.0
+Kuala Lumpur;25.6
+Birao;7.0
+Vienna;20.7
+Port Moresby;24.6
+Kolkata;30.7
+Bujumbura;18.8
+Wichita;17.8
+Houston;17.4
+Erbil;24.7
+Hanoi;15.4
+Murmansk;-20.4
+Hanga Roa;36.8
+Malabo;14.3
+Iqaluit;-18.6
+Tucson;23.0
+Hamilton;24.3
+Oklahoma City;7.0
+Los Angeles;23.7
+Willemstad;36.3
+Sarajevo;-3.8
+Tallinn;18.5
+Atlanta;-0.1
+San Jose;22.3
+Tampa;15.6
+Napier;20.6
+Seoul;15.2
+Luxembourg City;29.0
+Dubai;36.9
+Bloemfontein;21.0
+Gjoa Haven;-16.9
+Erzurum;-6.6
+Dublin;3.7
+Napier;5.2
+Toliara;24.8
+Bangui;19.0
+Athens;8.3
+Nairobi;17.3
+Vaduz;10.6
+Durban;3.7
+Warsaw;-4.5
+İzmir;11.2
+Las Vegas;22.6
+Nakhon Ratchasima;20.7
+Abha;25.0
+Vientiane;23.7
+San Salvador;31.3
+Pointe-Noire;34.9
+Dikson;-16.6
+Luanda;12.6
+Taipei;15.3
+Juba;25.9
+Cairns;19.4
+Omaha;1.2
+Murmansk;5.9
+Timbuktu;20.9
+Philadelphia;8.3
+Oranjestad;50.6
+Kunming;25.4
+İzmir;25.6
+Surabaya;24.2
+Ghanzi;34.7
+Detroit;14.9
+Pittsburgh;-10.4
+Khartoum;34.7
+Palmerston North;3.6
+Budapest;19.4
+Nashville;9.6
+Copenhagen;-3.7
+Bata;12.6
+Denver;8.3
+Addis Ababa;7.9
+Boise;6.9
+Batumi;21.6
+Tabriz;14.9
+Pyongyang;-4.8
+Bissau;37.5
+Durban;28.3
+Antananarivo;31.1
+Baguio;19.4
+Lake Tekapo;14.8
+Frankfurt;15.7
+Tromsø;18.8
+Houston;8.8
+Sofia;11.4
+Bordeaux;5.5
+Parakou;21.1
+Sacramento;37.0
+Stockholm;0.5
+Berlin;32.4
+Perth;49.7
+Douala;31.7
+Nouakchott;19.0
+New Orleans;15.9
+Nouakchott;28.6
+Ankara;7.1
+Calgary;-6.9
+Tromsø;-10.5
+Bilbao;8.5
+Dushanbe;26.0
+Sana'a;27.6
+Karonga;18.6
+Conakry;33.5
+Halifax;-5.1
+Cracow;3.1
+Paris;11.2
+Seattle;-7.0
+Banjul;35.5
+Kingston;1.2
+Kuopio;2.0
+Brisbane;32.6
+Louisville;11.7
+Saint Petersburg;26.0
+Surabaya;40.3
+Ashgabat;22.6
+Bujumbura;21.7
+Frankfurt;24.0
+Stockholm;10.9
+Gjoa Haven;8.1
+Porto;35.3
+Murmansk;7.1
+Veracruz;27.2
+Mogadishu;32.1
+Warsaw;24.4
+Alice Springs;19.5
+Amsterdam;10.7
+Palembang;29.1
+İzmir;31.7
+Harare;31.1
+Warsaw;23.9
+Launceston;14.9
+Batumi;18.1
+Ouagadougou;29.1
+Garissa;30.2
+Cape Town;21.8
+Lahore;45.2
+Lusaka;22.1
+Christchurch;14.8
+Parakou;38.8
+Bissau;40.0
+Tbilisi;-6.2
+Managua;29.4
+Kyoto;24.0
+Yellowknife;-4.4
+Dar es Salaam;34.3
+San Juan;38.4
+Cotonou;38.5
+Whitehorse;0.0
+Hamilton;26.5
+Ségou;35.7
+Bissau;39.9
+Astana;12.7
+Hobart;26.4
+Kankan;38.7
+Nassau;23.8
+Washington, D.C.;11.2
+Perth;25.2
+Moncton;11.2
+Erzurum;1.8
+Astana;12.1
+Tripoli;25.6
+Naha;15.7
+Atlanta;31.3
+Lake Tekapo;18.6
+Baku;39.9
+Budapest;17.5
+City of San Marino;12.1
+Changsha;31.5
+Dakar;35.0
+Ségou;28.7
+Palm Springs;45.5
+Toronto;20.9
+Boise;-1.8
+Kankan;28.1
+Lake Havasu City;25.0
+Bratislava;12.3
+Accra;11.0
+Zürich;7.9
+Mango;21.0
+Odesa;11.0
+Baghdad;18.7
+Kabul;7.0
+Birao;23.8
+Riga;18.4
+Thiès;23.9
+Aden;29.5
+Gangtok;-14.2
+Riga;15.2
+Tokyo;17.8
+Bulawayo;12.8
+Anadyr;-4.7
+Las Vegas;19.8
+Lahore;24.8
+Tirana;30.5
+Blantyre;25.2
+Perth;23.8
+Los Angeles;27.9
+Banjul;21.7
+Baguio;20.8
+Lodwar;29.6
+Baguio;18.9
+Charlotte;15.7
+N'Djamena;45.0
+Canberra;16.7
+City of San Marino;-3.7
+Novosibirsk;12.1
+Pretoria;34.3
+Halifax;5.1
+Astana;-2.5
+Aden;41.7
+Bangui;42.4
+Denver;10.3
+Ifrane;18.0
+Sapporo;12.3
+Heraklion;20.3
+Oulu;-2.2
+Athens;25.6
+Split;-5.0
+Zagreb;15.8
+Yakutsk;17.4
+Yinchuan;14.8
+Wau;29.2
+Milan;-1.8
+Tauranga;33.1
+Khartoum;45.2
+Zagreb;3.3
+Lusaka;28.7
+Virginia Beach;16.4
+Naha;32.5
+Yinchuan;10.0
+Garissa;37.3
+Atlanta;23.6
+Valencia;10.1
+Yerevan;18.2
+Kyiv;-5.7
+Ljubljana;20.9
+Upington;14.6
+Kansas City;10.8
+Sydney;32.6
+Dakar;29.7
+Chișinău;8.8
+Ottawa;0.3
+Baltimore;12.2
+Malé;6.7
+Launceston;0.0
+Murmansk;18.8
+Mzuzu;20.8
+Sapporo;-4.2
+St. John's;5.1
+Lusaka;-2.6
+Toamasina;21.6
+Tamale;19.1
+Ngaoundéré;12.7
+Atlanta;33.5
+Denpasar;39.3
+Athens;21.0
+Kyoto;23.4
+Zagreb;7.6
+Sacramento;10.7
+Hobart;5.0
+Oranjestad;23.7
+Sana'a;14.8
+Ouahigouya;24.2
+Baghdad;15.6
+Veracruz;27.3
+Hanga Roa;21.4
+Luxembourg City;22.4
+Lodwar;22.6
+Wau;36.0
+Port Sudan;25.1
+Houston;5.1
+Port Sudan;9.6
+Tirana;-4.8
+Muscat;31.2
+Monaco;3.8
+Willemstad;22.9
+Abidjan;25.0
+Lake Havasu City;20.1
+Albuquerque;8.4
+Baltimore;21.1
+Rabat;20.8
+Oklahoma City;28.6
+Maputo;28.2
+Jos;28.0
+Valencia;11.3
+Zanzibar City;14.3
+Parakou;23.3
+Yaoundé;24.8
+Zürich;3.0
+Ouagadougou;21.8
+Wrocław;23.5
+Marrakesh;24.0
+Vaduz;19.8
+Dushanbe;18.5
+Seattle;28.3
+Napier;20.8
+Dodoma;24.7
+Christchurch;15.9
+Singapore;12.9
+Austin;34.7
+Addis Ababa;25.3
+Malabo;35.6
+Vladivostok;12.2
+Birao;33.9
+Tromsø;9.0
+Moscow;3.6
+Tampa;35.5
+Oranjestad;34.0
+Iqaluit;-13.9
+Boston;-8.0
+Jacksonville;23.7
+Almaty;1.9
+Dushanbe;20.9
+Warsaw;13.7
+Bangkok;44.1
+Kampala;24.9
+Saint Petersburg;3.6
+Harbin;-1.4
+Hamilton;22.3
+Tamanrasset;5.3
+Tunis;28.8
+Veracruz;-1.0
+Jacksonville;20.9
+Djibouti;26.4
+Conakry;16.5
+Kunming;3.6
+Riga;-4.2
+Naha;43.0
+Flores,  Petén;22.6
+Sacramento;32.0
+Yellowknife;-24.6
+Kingston;14.5
+Chongqing;13.5
+Hong Kong;26.0
+Beijing;9.1
+Fresno;21.9
+Bucharest;9.3
+Tromsø;13.4
+Lisbon;10.1
+Manama;12.7
+Kyoto;26.4
+Kunming;7.4
+Nicosia;2.9
+Chihuahua;7.6
+Zanzibar City;24.8
+Adelaide;9.6
+Bujumbura;22.2
+Yinchuan;16.5
+Las Vegas;-4.5
+Yellowknife;-9.5
+Tallinn;15.8
+Philadelphia;22.6
+Reykjavík;-10.3
+Cabo San Lucas;25.2
+Saint Petersburg;7.1
+Ngaoundéré;20.2
+Surabaya;28.6
+Santo Domingo;34.0
+Blantyre;27.3
+Bata;11.0
+Nakhon Ratchasima;32.6
+Marrakesh;12.4
+Lubumbashi;24.9
+Lviv;19.8
+Blantyre;-0.1
+Marseille;17.9
+Port Vila;17.7
+Tamale;42.8
+Ghanzi;11.5
+Da Lat;29.7
+Da Nang;36.2
+Kampala;24.0
+Guatemala City;18.1
+Launceston;9.1
+Gabès;19.9
+Lake Tekapo;11.6
+Luxembourg City;9.3
+Entebbe;23.2
+Sana'a;20.9
+Zürich;32.5
+Tucson;3.5
+Chittagong;5.9
+Skopje;11.7
+Tokyo;1.2
+Budapest;8.8
+Rostov-on-Don;8.6
+Virginia Beach;13.4
+San Antonio;18.8
+Vienna;7.3
+Taipei;10.6
+Chittagong;23.9
+Omaha;16.8
+Odienné;19.0
+Mzuzu;19.5
+Malabo;41.1
+Garissa;36.3
+Garoua;32.3
+Nairobi;35.8
+Bishkek;12.0
+Cotonou;41.5
+Istanbul;-3.7
+Vladivostok;-16.3
+Muscat;11.1
+Gangtok;21.2
+Chicago;-0.1
+Auckland;11.8
+Hiroshima;11.2
+Port Sudan;16.4
+Birao;27.3
+Tokyo;15.3
+Dakar;12.1
+Colombo;29.9
+Vladivostok;14.7
+Abéché;18.1
+Alexandra;-5.0
+Tabora;25.7
+Seville;3.5
+Chicago;24.1
+Tamanrasset;32.4
+Nuuk;5.6
+Hiroshima;6.1
+Rome;11.2
+Anadyr;-20.6
+Montreal;-1.1
+Stockholm;4.9
+Denver;12.3
+Seattle;17.8
+Kinshasa;14.0
+Palermo;21.8
+Zürich;5.9
+Saint Petersburg;25.0
+Louisville;21.2
+Chiang Mai;23.7
+Boston;-12.2
+Abéché;17.0
+Bosaso;37.8
+Djibouti;37.5
+Whitehorse;-5.4
+Charlotte;3.3
+Houston;37.9
+Memphis;35.2
+Juba;29.7
+Karachi;18.2
+Pittsburgh;0.9
+Rabat;23.8
+Luxembourg City;-3.4
+Bangui;28.6
+Skopje;15.6
+Bouaké;32.0
+Baghdad;6.7
+Timbuktu;26.2
+Chișinău;12.8
+Nairobi;13.8
+Ljubljana;7.1
+Almaty;-0.2
+Denpasar;33.5
+Porto;11.2
+Vienna;23.8
+Riyadh;31.9
+Valencia;11.7
+La Ceiba;43.0
+Wellington;27.0
+Seville;11.1
+Heraklion;23.0
+Cabo San Lucas;15.6
+Pretoria;33.6
+Khartoum;52.3
+Zagreb;19.1
+Montreal;9.5
+Nouakchott;24.2
+Kumasi;32.9
+Iqaluit;-13.3
+Roseau;17.7
+Kunming;20.0
+Dushanbe;27.5
+Aden;18.8
+Milan;20.7
+Parakou;32.7
+Hamilton;14.5
+Shanghai;19.7
+Mahajanga;21.4
+San Juan;30.0
+Belize City;9.7
+Guadalajara;13.7
+Libreville;44.6
+San Antonio;35.1
+Las Vegas;15.0
+Fairbanks;-21.5
+San Jose;13.7
+Winnipeg;-14.7
+Hargeisa;42.7
+San Jose;26.2
+Napier;28.7
+London;14.4
+Ouahigouya;36.8
+Abha;22.7
+Omaha;12.4
+Tromsø;-23.3
+Brazzaville;28.8
+Nouadhibou;28.1
+Shanghai;17.1
+Accra;9.9
+Tamale;31.4
+Philadelphia;13.8
+Lake Tekapo;20.6
+Lubumbashi;15.4
+Vilnius;-3.9
+Halifax;-13.0
+Bucharest;-0.4
+Washington, D.C.;32.0
+Kumasi;18.3
+Bridgetown;27.9
+Manila;28.2
+Shanghai;22.3
+Garissa;29.8
+Port Sudan;34.1
+Belize City;40.9
+Changsha;24.9
+Tbilisi;14.2
+Montreal;-8.9
+Johannesburg;36.4
+Moscow;9.0
+Blantyre;29.1
+Toluca;31.2
+Entebbe;20.6
+New York City;22.5
+Athens;20.5
+Porto;5.2
+Beijing;19.9
+Perth;23.3
+Seville;17.6
+Winnipeg;9.0
+Oulu;-1.1
+Baltimore;12.4
+Panama City;6.5
+Nicosia;26.1
+Antananarivo;27.5
+Managua;47.8
+Philadelphia;20.8
+Algiers;12.6
+Stockholm;-16.1
+Cape Town;14.8
+Belize City;39.1
+Beijing;31.7
+Zagreb;22.8
+Suva;33.3
+Douala;13.6
+Villahermosa;28.9
+Kankan;14.9
+Makassar;27.6
+Minneapolis;-20.1
+Conakry;30.5
+Anchorage;3.4
+Harare;17.0
+Moncton;-17.2
+Anadyr;14.0
+Toamasina;23.8
+Ashgabat;-3.6
+Tehran;-2.5
+Lake Tekapo;-8.2
+Perth;9.7
+Douala;29.0
+Guadalajara;25.6
+Vilnius;6.1
+Albuquerque;21.3
+Heraklion;11.1
+Adelaide;8.5
+Hamilton;16.2
+Gagnoa;37.5
+Nassau;20.4
+Tegucigalpa;22.4
+Port Moresby;40.4
+Cape Town;6.7
+Gjoa Haven;-17.9
+Tabora;20.8
+Oranjestad;16.8
+Salt Lake City;11.3
+Bulawayo;25.2
+Alice Springs;17.6
+Lhasa;18.8
+Pittsburgh;6.2
+Hobart;7.7
+San Salvador;23.6
+Ouarzazate;18.6
+Fukuoka;18.6
+Lusaka;20.3
+Copenhagen;10.6
+Lisbon;12.9
+Birao;20.6
+San Juan;28.2
+San Antonio;10.7
+Los Angeles;6.4
+Lomé;38.2
+George Town;43.0
+Edinburgh;18.8
+Odienné;22.1
+Boston;9.3
+Hargeisa;17.3
+Accra;34.6
+Kuwait City;15.7
+Marseille;22.0
+Gangtok;8.7
+Banjul;12.2
+Santo Domingo;10.1
+Brazzaville;13.2
+Yerevan;22.3
+Ashgabat;19.6
+El Paso;8.4
+Boise;-1.5
+Gaborone;15.7
+Gaborone;27.5
+Washington, D.C.;10.9
+Hamburg;-12.3
+Pontianak;14.3
+Bamako;28.8
+N'Djamena;25.5
+Montreal;0.4
+Los Angeles;27.5
+Burnie;12.1
+Baltimore;18.0
+Port Vila;23.7
+Oulu;3.2
+Sapporo;14.6
+Malé;37.7
+Ouahigouya;18.1
+Astana;14.5
+Baguio;0.2
+Mogadishu;30.5
+Frankfurt;16.9
+Dubai;31.2
+Zürich;4.9
+Perth;1.4
+Cotonou;28.0
+Indianapolis;8.0
+Napoli;11.1
+Bosaso;19.6
+Kabul;23.3
+Dar es Salaam;39.3
+Hong Kong;8.4
+San Francisco;10.7
+Phoenix;40.2
+Beijing;18.4
+Wichita;8.3
+Palm Springs;17.1
+Budapest;-11.8
+Bosaso;32.3
+Veracruz;17.5
+Fukuoka;17.0
+Upington;0.7
+Winnipeg;16.5
+Tucson;29.4
+City of San Marino;2.0
+Pretoria;-1.2
+Milwaukee;23.0
+Erzurum;9.6
+Charlotte;20.2
+Mombasa;48.6
+Tripoli;28.1
+Sydney;24.4
+Ürümqi;10.5
+Colombo;40.9
+New Orleans;21.3
+New York City;16.0
+Bridgetown;27.1
+Dar es Salaam;38.8
+Madrid;6.3
+Tirana;32.4
+Stockholm;1.9
+Toluca;13.5
+Rangpur;43.8
+Kandi;30.7
+Kingston;33.7
+Karachi;12.5
+Mandalay;34.0
+Toluca;15.3
+Nouakchott;14.2
+Saint-Pierre;-0.7
+Madrid;11.8
+Thiès;16.2
+Cracow;-3.9
+Naha;17.9
+Montreal;-9.9
+Veracruz;13.8
+Ürümqi;18.6
+Vancouver;4.1
+Yangon;33.1
+Entebbe;18.3
+Almaty;19.1
+Alice Springs;7.4
+Bangui;19.5
+Malabo;30.3
+Kampala;11.3
+Conakry;26.2
+Chihuahua;19.0
+Busan;32.0
+Tabriz;5.6
+Garissa;23.1
+Lubumbashi;28.6
+Valencia;4.4
+Seville;9.0
+Saint-Pierre;-11.7
+Colombo;19.4
+Atlanta;13.7
+Bata;34.4
+Kuwait City;14.9
+La Ceiba;45.2
+Tauranga;13.6
+Juba;25.0
+Kyoto;10.4
+Lyon;-1.7
+Dakar;17.5
+Beirut;29.6
+Irkutsk;3.9
+Fukuoka;35.0
+Kathmandu;3.9
+Astana;11.5
+Tunis;11.0
+Rome;17.2
+Auckland;34.3
+Timbuktu;18.3
+Paris;7.9
+Suwałki;16.1
+Helsinki;11.2
+Palm Springs;29.1
+Oulu;8.4
+Arkhangelsk;13.5
+Gabès;15.0
+Lake Tekapo;8.3
+Ouahigouya;1.0
+Reykjavík;-2.7
+Bilbao;21.6
+Athens;-0.3
+Dar es Salaam;17.9
+Roseau;34.9
+Baku;9.9
+Ottawa;9.2
+Tehran;26.5
+Yaoundé;16.3
+Launceston;6.7
+Santo Domingo;9.0
+Kankan;27.4
+Dolisie;20.1
+San Salvador;34.9
+Calgary;15.7
+Accra;35.9
+Flores,  Petén;15.8
+Flores,  Petén;13.8
+Tabriz;19.7
+Chittagong;45.0
+N'Djamena;43.7
+Gagnoa;33.5
+Ashgabat;30.4
+Lisbon;21.8
+Anchorage;10.4
+Yellowknife;-2.2
+San Diego;17.4
+Port Moresby;26.8
+Nairobi;30.3
+New Orleans;10.6
+Gjoa Haven;-8.9
+Kyiv;2.2
+Odesa;11.1
+Gaborone;24.5
+Copenhagen;1.9
+Stockholm;9.8
+Sana'a;30.6
+Bucharest;2.5
+Wrocław;21.4
+Helsinki;-3.6
+Chicago;15.8
+Tirana;-4.1
+Dhaka;17.0
+İzmir;28.4
+Baguio;7.0
+New Delhi;28.7
+Mango;23.9
+Saint-Pierre;8.7
+Oulu;23.7
+Columbus;19.5
+Indianapolis;9.9
+Mexicali;41.1
+Cotonou;39.6
+Malabo;26.5
+Dar es Salaam;30.2
+Luanda;22.3
+Portland (OR);3.6
+Chiang Mai;15.8
+Ulaanbaatar;-6.9
+Hamburg;17.2
+Vilnius;0.4
+Toliara;35.4
+Bamako;37.1
+Addis Ababa;10.0
+Irkutsk;0.8
+Phnom Penh;34.9
+Ahvaz;28.8
+Parakou;25.6
+Ségou;43.1
+Ngaoundéré;23.2
+Lahore;31.5
+Lviv;-7.9
+Dakar;27.2
+Tashkent;15.5
+Veracruz;18.9
+Belize City;28.3
+Pyongyang;-6.0
+Kuala Lumpur;13.9
+Toamasina;8.2
+Juba;16.7
+Vladivostok;15.3
+Karonga;31.1
+Banjul;40.7
+Indianapolis;22.6
+Yakutsk;-11.3
+Harbin;0.4
+Nassau;17.6
+Lake Havasu City;15.8
+Monterrey;26.6
+Sochi;21.9
+Guangzhou;16.1
+Cairo;21.0
+Nicosia;1.9
+Hamilton;2.1
+Ankara;11.7
+Marrakesh;16.3
+Batumi;11.9
+Sacramento;31.8
+Sarajevo;8.4
+Makassar;25.4
+Reykjavík;9.3
+Novosibirsk;4.5
+Hiroshima;17.3
+Tashkent;8.4
+Los Angeles;12.1
+Kuala Lumpur;31.3
+Veracruz;16.8
+Yakutsk;-0.3
+Dikson;-14.7
+Havana;23.3
+Addis Ababa;-3.0
+Oslo;8.8
+Entebbe;5.6
+Bata;13.8
+Rome;4.8
+Bratislava;11.6
+Minsk;0.0
+Shanghai;33.3
+Khartoum;19.6
+Lviv;6.3
+Phnom Penh;29.8
+Saint-Pierre;3.1
+Garissa;33.9
+Oranjestad;2.3
+Monaco;17.0
+Lyon;4.9
+Sacramento;27.8
+Singapore;29.1
+Stockholm;-5.0
+İzmir;19.5
+Harbin;12.0
+Winnipeg;-1.0
+Melbourne;19.5
+Ashgabat;31.5
+Milan;31.9
+Detroit;1.2
+Milan;17.3
+Erzurum;7.5
+Pyongyang;16.8
+Columbus;14.6
+Sofia;2.1
+Phnom Penh;24.6
+Irkutsk;-3.6
+St. Louis;19.1
+Antsiranana;27.0
+Tauranga;7.0
+Mek'ele;16.4
+Sapporo;13.1
+Chiang Mai;25.6
+Cairo;25.3
+Napier;24.2
+Hobart;17.4
+Tegucigalpa;39.9
+Lubumbashi;18.5
+Athens;31.2
+Denpasar;20.4
+Kuopio;6.6
+Marseille;4.5
+Tabora;1.4
+Tallinn;2.5
+Abha;25.4
+San Jose;8.8
+Harare;12.7
+Da Lat;0.4
+Guadalajara;13.0
+Rostov-on-Don;18.9
+Chihuahua;14.4
+Ouarzazate;39.4
+Fukuoka;-0.7
+Rabat;4.3
+Lake Havasu City;8.9
+Pontianak;1.0
+Tirana;16.7
+Addis Ababa;17.9
+Pyongyang;15.4
+Jos;19.3
+Ségou;42.8
+Gabès;13.6
+Ankara;15.6
+Rangpur;26.5
+Chiang Mai;39.0
+Accra;2.1
+Abéché;43.6
+San Salvador;18.3
+Ouahigouya;24.4
+Lisbon;30.3
+Denpasar;14.1
+Accra;18.7
+Mombasa;34.2
+Pittsburgh;28.2
+Melbourne;4.4
+Changsha;19.9
+Niamey;28.1
+Kunming;2.5
+Roseau;30.0
+N'Djamena;31.4
+Tbilisi;21.5
+Dublin;31.5
+Abidjan;17.5
+Djibouti;33.5
+Livingstone;19.0
+Sokoto;44.4
+İzmir;26.2
+Willemstad;31.6
+Memphis;-2.4
+Kunming;13.0
+Stockholm;-4.8
+Milwaukee;-3.3
+Antsiranana;19.7
+New Delhi;15.6
+Heraklion;17.9
+Ouarzazate;34.4
+New Orleans;-8.0
+Tabriz;27.6
+Mahajanga;24.0
+Bishkek;-2.7
+Villahermosa;29.2
+Mogadishu;20.4
+New Delhi;18.4
+Boston;7.3
+Nicosia;12.6
+Ngaoundéré;19.8
+Gabès;14.0
+Seattle;14.7
+Manama;20.3
+Gagnoa;8.5
+Zagreb;2.3
+Willemstad;15.8
+Wichita;-3.0
+Hanoi;21.4
+Ürümqi;-1.3
+Yerevan;-2.5
+Tamale;27.4
+Rabat;14.0
+Ouarzazate;36.0
+Fairbanks;-12.3
+Cairns;27.5
+Sochi;17.0
+Fukuoka;25.3
+Alexandra;-0.8
+Cotonou;27.9
+Bissau;19.9
+Bissau;25.6
+Miami;29.8
+Mexico City;22.7
+Yakutsk;7.2
+Harare;32.8
+Tokyo;17.0
+Odesa;25.6
+Las Palmas de Gran Canaria;45.4
+Kyiv;0.4
+Banjul;41.4
+Seoul;7.3
+İzmir;33.3
+Chișinău;11.4
+Miami;6.7
+Tegucigalpa;36.2
+İzmir;28.5
+Bata;25.4
+Surabaya;19.6
+Surabaya;16.6
+Paris;8.2
+Colombo;21.1
+Port Vila;-0.8
+Assab;22.2
+Bucharest;16.2
+Dolisie;28.2
+Toamasina;37.4
+Garoua;36.0
+Helsinki;-2.2
+Tirana;26.0
+Boston;15.2
+Tashkent;24.5
+Kampala;28.3
+Malabo;23.0
+Sarajevo;-26.9
+Sydney;24.2
+Riyadh;12.4
+Vienna;17.8
+Bergen;4.9
+Virginia Beach;17.6
+Thiès;24.0
+Whitehorse;-14.8
+Khartoum;48.6
+Vancouver;-4.8
+Guadalajara;10.2
+Bamako;24.7
+Moscow;-4.7
+Chittagong;8.9
+Brazzaville;39.7
+Sokoto;33.0
+Nashville;9.4
+Tauranga;22.0
+Jacksonville;10.1
+Makurdi;25.2
+Detroit;-0.3
+Minneapolis;3.4
+Sochi;-3.4
+Wellington;3.7
+Banjul;21.4
+Kabul;21.8
+Irkutsk;23.4
+Odesa;-22.7
+Tamale;13.5
+New York City;2.8
+Oslo;18.4
+Baku;29.0
+Athens;21.2
+Valletta;17.6
+Ouarzazate;15.2
+Minneapolis;17.3
+Maputo;10.4
+Lomé;32.0
+Honolulu;27.8
+Durban;18.9
+Riyadh;7.5
+Gaborone;0.4
+Bridgetown;11.0
+Conakry;18.9
+Winnipeg;1.2
+Bratislava;22.9
+Beijing;15.7
+Hiroshima;13.2
+Dakar;32.7
+Parakou;37.3
+Kinshasa;18.8
+Copenhagen;6.0
+Dili;49.8
+Kingston;22.4
+Palm Springs;36.1
+Yinchuan;16.1
+Taipei;30.5
+Assab;44.8
+Melbourne;3.3
+Hamburg;8.9
+Warsaw;-8.8
+Bishkek;0.9
+Dikson;-7.6
+Athens;24.6
+Baku;23.0
+Ulaanbaatar;-13.4
+Lviv;1.7
+Brazzaville;20.0
+Erbil;19.1
+Antananarivo;13.7
+Phnom Penh;14.6
+Rangpur;24.2
+Tehran;6.4
+Luanda;26.1
+Hat Yai;26.8
+Bilbao;5.0
+Veracruz;39.4
+Hiroshima;23.8
+Tbilisi;8.3
+Seattle;-7.2
+Andorra la Vella;25.1
+San Juan;16.8
+San Francisco;24.0
+Auckland;4.0
+Napier;28.7
+Kampala;-5.4
+Luanda;32.0
+Garoua;28.0
+Tijuana;24.3
+Zanzibar City;36.5
+Fukuoka;17.9
+Winnipeg;19.8
+San Diego;34.7
+Wrocław;18.7
+Ouahigouya;49.0
+Bridgetown;48.8
+Jayapura;23.9
+Phnom Penh;31.5
+Pointe-Noire;19.4
+Ulaanbaatar;-8.3
+Las Palmas de Gran Canaria;26.6
+Mexico City;18.7
+Sokoto;19.4
+Havana;16.4
+Suwałki;26.2
+Ürümqi;-2.5
+Nashville;25.2
+New Delhi;35.5
+Birao;36.3
+Baghdad;22.8
+Charlotte;6.0
+La Ceiba;39.6
+Santo Domingo;28.1
+Melbourne;28.1
+Indianapolis;10.2
+Luxembourg City;29.7
+Anchorage;7.9
+Rabat;27.1
+Kolkata;31.8
+Yaoundé;19.2
+Taipei;23.1
+Yinchuan;4.0
+Accra;32.6
+Memphis;36.3
+Da Nang;9.2
+Heraklion;13.9
+Kankan;27.8
+San Diego;16.8
+Edinburgh;-2.1
+Rome;25.7
+Vancouver;4.2
+Livingstone;26.7
+Columbus;33.8
+Honiara;36.2
+Lhasa;2.7
+Beijing;20.8
+Phnom Penh;16.9
+Hanga Roa;48.8
+Saint-Pierre;0.0
+Nakhon Ratchasima;35.8
+Honolulu;12.2
+Skopje;21.6
+Pyongyang;17.1
+Birao;21.8
+Beirut;20.3
+Bucharest;22.5
+Reykjavík;-3.4
+Guangzhou;28.2
+Kuala Lumpur;35.8
+Sochi;19.2
+Tamanrasset;36.6
+Reggane;37.6
+Edinburgh;-9.7
+Toluca;17.4
+Panama City;22.6
+Port Vila;41.1
+Havana;27.0
+Cairo;22.5
+Saint-Pierre;16.2
+Rostov-on-Don;5.3
+Kyoto;25.2
+Reggane;5.2
+George Town;24.8
+Hat Yai;0.5
+Santo Domingo;29.5
+Hobart;13.0
+Bulawayo;2.7
+Parakou;24.6
+Yakutsk;-8.9
+Gjoa Haven;-20.5
+Tamale;18.9
+Boise;3.0
+Wrocław;1.9
+El Paso;8.4
+Accra;32.7
+Fresno;35.4
+El Paso;31.7
+Sydney;-4.8
+Boise;24.5
+Lubumbashi;31.7
+Muscat;22.8
+Willemstad;17.7
+Gaborone;26.5
+Chittagong;28.5
+Barcelona;29.9
+Wau;20.0
+Alexandria;8.9
+Colombo;34.3
+Odienné;21.6
+Marrakesh;16.1
+Yaoundé;28.1
+Addis Ababa;11.5
+Panama City;37.5
+Kumasi;23.1
+Tripoli;14.2
+Veracruz;33.0
+Dhaka;36.9
+Odesa;20.9
+Nakhon Ratchasima;8.1
+Bangui;25.0
+Kathmandu;25.4
+Parakou;24.5
+Changsha;16.1
+Yellowknife;2.8
+Chihuahua;12.8
+Dublin;7.2
+Palembang;27.4
+Anadyr;-11.6
+Baku;2.0
+Mombasa;27.4
+Beijing;12.8
+Nouadhibou;27.0
+Frankfurt;0.7
+Hamburg;7.4
+Denver;4.4
+Napoli;32.4
+Wellington;18.5
+San Juan;12.7
+Nassau;43.9
+Bishkek;18.4
+Yellowknife;-1.3
+Pyongyang;11.0
+Kabul;12.2
+Miami;29.6
+Praia;23.2
+Algiers;19.2
+Yerevan;4.9
+Libreville;34.0
+Phoenix;23.9
+Hobart;-1.2
+Vladivostok;1.2
+Miami;51.8
+Managua;21.2
+Toronto;4.9
+Palermo;4.8
+Sacramento;24.1
+Honolulu;32.8
+Wellington;10.6
+Winnipeg;23.2
+Kampala;10.0
+Gagnoa;13.4
+Valencia;20.3
+Hobart;1.8
+Dakar;1.5
+Suwałki;3.3
+Lyon;1.6
+Birao;19.1
+Launceston;21.5
+Belgrade;39.6
+Palmerston North;21.2
+Detroit;13.7
+Ségou;16.4
+Salt Lake City;12.5
+Erbil;3.0
+Perth;25.4
+Tripoli;28.2
+Kabul;2.5
+Douala;10.0
+Asmara;24.2
+Seville;-15.6
+Port Vila;30.9
+Stockholm;-6.6
+Port Moresby;17.0
+Chongqing;40.2
+Port Sudan;24.0
+Vientiane;19.4
+Tabriz;11.4
+Harare;27.1
+Villahermosa;34.1
+Istanbul;17.1
+Almaty;-0.5
+Bangui;18.7
+Erbil;-2.4
+Tbilisi;13.2
+Naha;29.0
+Amsterdam;23.2
+Roseau;25.6
+Valencia;12.6
+Denpasar;15.7
+Ségou;24.1
+Guadalajara;14.0
+Las Palmas de Gran Canaria;17.5
+Vientiane;33.1
+Hanoi;26.0
+Reykjavík;12.7
+Ürümqi;31.7
+Wellington;10.7
+Lake Havasu City;22.6
+New Delhi;40.2
+Valencia;24.7
+Yinchuan;-1.7
+Antsiranana;22.6
+Rostov-on-Don;8.3
+Gjoa Haven;-31.8
+Nuuk;-6.2
+Wau;36.8
+Villahermosa;26.5
+Vientiane;21.5
+Ashgabat;19.3
+Roseau;33.3
+Honolulu;29.1
+Louisville;19.9
+Oklahoma City;19.0
+Chicago;4.8
+Halifax;8.0
+London;11.4
+Lake Havasu City;17.8
+Monterrey;19.3
+Bucharest;25.8
+Toronto;19.7
+Lake Tekapo;4.6
+Antananarivo;40.2
+Ifrane;24.0
+Seoul;10.6
+Kingston;24.1
+Tauranga;13.3
+Edinburgh;13.4
+Da Lat;29.0
+Palm Springs;7.8
+Phnom Penh;24.7
+Bosaso;22.9
+Nicosia;32.4
+Zagreb;9.3
+Guatemala City;13.5
+Suva;39.3
+El Paso;13.5
+Vienna;21.6
+Upington;14.7
+Las Vegas;22.2
+Auckland;11.5
+Abha;25.3
+Cairo;11.7
+Bordeaux;6.0
+Conakry;20.9
+Cairns;6.5
+Baltimore;1.8
+Da Nang;23.4
+Oslo;-5.1
+Dampier;7.9
+Douala;21.0
+Suwałki;27.5
+Milan;19.8
+Juba;17.1
+Karachi;30.0
+Phnom Penh;6.8
+Pyongyang;20.9
+Niamey;28.2
+Mexicali;26.8
+Ulaanbaatar;2.1
+Manama;27.5
+Nuuk;-8.0
+Winnipeg;-8.1
+Kansas City;14.4
+Ouagadougou;60.0
+Singapore;30.8
+Arkhangelsk;12.3
+Athens;16.8
+Phnom Penh;12.6
+Minneapolis;6.7
+Tunis;2.3
+Baku;11.1
+Memphis;1.7
+Seoul;18.9
+Changsha;16.9
+Cotonou;35.3
+San Jose;7.4
+Moscow;27.0
+Vienna;11.7
+Hanga Roa;30.8
+Villahermosa;42.2
+London;-3.8
+Batumi;-0.1
+Seattle;8.1
+Napier;12.7
+Kuwait City;23.4
+Bergen;44.0
+Makassar;25.7
+Benghazi;24.4
+Brisbane;24.2
+Sochi;22.3
+Suva;28.8
+Entebbe;17.4
+Alice Springs;17.6
+Dhaka;28.0
+Baltimore;19.3
+Andorra la Vella;9.3
+Valencia;23.1
+Rome;22.1
+Changsha;1.2
+Split;20.1
+Anadyr;5.9
+Ulaanbaatar;-3.6
+Managua;20.4
+Pointe-Noire;7.5
+Tbilisi;16.8
+Wrocław;0.8
+Taipei;17.0
+Port-Gentil;24.1
+El Paso;17.6
+Managua;15.9
+Lyon;18.3
+Algiers;11.4
+Muscat;15.0
+San Salvador;24.3
+Jakarta;25.7
+Kathmandu;23.3
+Athens;21.4
+Hat Yai;43.1
+Port-Gentil;37.5
+Riga;5.0
+Tripoli;20.9
+Oslo;-2.5
+Palembang;23.3
+Batumi;6.6
+Hiroshima;29.7
+Washington, D.C.;22.7
+Ségou;26.2
+Ljubljana;12.3
+Hanga Roa;4.9
+Rangpur;11.6
+Denpasar;31.1
+Colombo;35.3
+Omaha;5.6
+Cape Town;27.2
+Mandalay;25.7
+Napoli;27.8
+Harare;19.9
+Kuwait City;34.0
+Burnie;11.1
+Bridgetown;22.8
+Maputo;20.5
+Murmansk;5.1
+Vienna;2.5
+Xi'an;20.0
+Edmonton;19.4
+Cairns;5.3
+Mahajanga;33.6
+Honolulu;9.9
+Minneapolis;7.7
+Canberra;17.4
+Jos;15.9
+Maun;33.6
+Port Vila;25.5
+Changsha;28.5
+Ngaoundéré;-2.9
+Willemstad;20.1
+Bucharest;-0.6
+Brussels;12.6
+Irkutsk;-3.9
+Andorra la Vella;2.0
+Oulu;-1.8
+Wrocław;14.0
+Santo Domingo;23.9
+Bratislava;12.1
+Honiara;27.1
+Maputo;40.0
+Juba;19.5
+Suwałki;24.6
+Ahvaz;12.6
+Pontianak;31.4
+Mexico City;32.3
+Batumi;-12.9
+Mombasa;20.2
+Austin;31.7
+Baghdad;14.6
+New Delhi;15.1
+Ho Chi Minh City;24.9
+Mandalay;32.3
+Valencia;16.4
+Nassau;33.5
+Willemstad;25.8
+Beirut;14.7
+Athens;35.5
+Ouagadougou;31.0
+Ashgabat;6.3
+Odienné;29.9
+Winnipeg;6.1
+St. John's;17.9
+Willemstad;28.0
+Winnipeg;3.0
+Bratislava;8.6
+Arkhangelsk;2.8
+Kingston;29.0
+Bujumbura;29.3
+Edinburgh;24.1
+Ulaanbaatar;-20.7
+George Town;25.2
+Bishkek;27.5
+Bergen;-10.7
+San Francisco;13.5
+Dodoma;26.3
+Bosaso;27.1
+Guatemala City;8.2
+Tehran;38.6
+Copenhagen;11.4
+Zagreb;-5.7
+Bucharest;12.7
+Lisbon;12.7
+Bucharest;13.4
+Honiara;28.8
+Kinshasa;31.7
+Arkhangelsk;0.8
+Jos;23.8
+Albuquerque;13.4
+Ngaoundéré;31.7
+Lusaka;8.4
+Tel Aviv;-0.6
+Kansas City;25.2
+Nouadhibou;22.4
+Brussels;5.2
+Lisbon;29.1
+Kabul;6.3
+Bilbao;14.4
+Bratislava;22.6
+Nashville;11.7
+Kuwait City;44.6
+Oslo;12.5
+Atlanta;20.9
+Tbilisi;15.1
+Khartoum;40.0
+El Paso;16.4
+Split;13.5
+Ljubljana;12.2
+Lhasa;-5.9
+Murmansk;10.6
+Kandi;26.6
+Chongqing;16.1
+Pittsburgh;17.2
+Monaco;7.6
+Nassau;25.8
+Toluca;22.0
+Fukuoka;2.7
+Pretoria;14.8
+Ouagadougou;37.2
+Bilbao;12.3
+Fresno;13.8
+Wichita;0.0
+Berlin;19.8
+Cairns;12.7
+Banjul;41.1
+Suva;36.3
+Ouagadougou;22.6
+Chihuahua;22.0
+Istanbul;26.3
+Sapporo;12.0
+Astana;13.9
+Ulaanbaatar;12.7
+Denpasar;39.8
+Bangui;37.9
+Harbin;4.3
+Lyon;32.2
+Lusaka;18.2
+San Jose;25.1
+Stockholm;7.1
+Gagnoa;18.9
+Auckland;6.8
+Marrakesh;7.7
+Rostov-on-Don;8.6
+Baltimore;32.2
+Blantyre;19.3
+Bosaso;23.3
+Hanga Roa;12.7
+Sochi;0.1
+Washington, D.C.;4.9
+Yellowknife;-22.0
+Boston;8.8
+Amsterdam;1.6
+Algiers;16.4
+Whitehorse;21.8
+Brussels;11.4
+Chișinău;31.6
+Valletta;8.4
+Bergen;-2.6
+St. John's;13.7
+Tauranga;28.6
+Berlin;14.1
+Ashgabat;18.8
+İzmir;16.7
+Tirana;3.5
+Memphis;1.4
+Washington, D.C.;-1.7
+Sarajevo;-6.4
+Sapporo;7.9
+Tabora;44.1
+Garoua;24.0
+Odienné;13.7
+Bordeaux;28.6
+Lusaka;10.7
+Helsinki;10.6
+Ashgabat;18.4
+Ürümqi;3.3
+Tauranga;8.9
+Dakar;21.6
+Manama;24.0
+Wellington;6.2
+Pointe-Noire;26.3
+Ürümqi;6.2
+Saint-Pierre;8.5
+Cotonou;26.3
+Bloemfontein;16.0
+Frankfurt;12.7
+Charlotte;3.9
+Accra;21.4
+Dushanbe;16.2
+Ho Chi Minh City;26.8
+Taipei;32.5
+Yaoundé;24.3
+Gangtok;9.2
+Chittagong;41.9
+Rangpur;20.8
+Villahermosa;37.9
+Erzurum;15.2
+Birao;11.6
+Hanga Roa;8.6
+Mek'ele;5.1
+Boise;0.2
+Kandi;33.0
+Kolkata;17.0
+Bujumbura;14.0
+Auckland;15.5
+Malabo;29.4
+Anchorage;1.6
+Hong Kong;24.3
+Kinshasa;30.7
+Moncton;5.4
+Chittagong;24.3
+Naha;25.0
+Nicosia;23.8
+Djibouti;18.1
+Nouadhibou;36.3
+Tamale;27.4
+Tauranga;14.1
+Alice Springs;19.8
+Palembang;27.1
+Bangui;40.5
+Perth;28.4
+Makassar;30.0
+Mandalay;30.4
+Edmonton;-2.6
+Dubai;27.0
+Batumi;18.3
+Khartoum;21.8
+Honiara;10.1
+Panama City;35.9
+Addis Ababa;23.0
+Baghdad;0.7
+Mango;32.4
+Seoul;23.7
+Gangtok;23.4
+Dhaka;22.5
+Prague;-9.3
+Alexandra;20.2
+Madrid;15.2
+Karonga;42.2
+Accra;21.9
+Hanoi;13.5
+Xi'an;10.9
+Portland (OR);-5.0
+Vienna;8.8
+Helsinki;7.5
+Ifrane;3.4
+Karachi;33.1
+Lagos;27.0
+Mahajanga;22.1
+Kinshasa;10.4
+Upington;7.0
+Managua;34.1
+Barcelona;25.8
+Porto;-12.3
+Blantyre;27.2
+İzmir;1.6
+Odesa;3.8
+Abidjan;36.5
+Kabul;2.5
+Gjoa Haven;-32.1
+Thiès;13.5
+Ifrane;-1.4
+Hamburg;14.7
+Nairobi;30.9
+Ifrane;0.5
+Kuala Lumpur;32.0
+Berlin;19.3
+Almaty;5.8
+Lubumbashi;28.6
+Willemstad;33.6
+Virginia Beach;29.1
+Mogadishu;23.1
+Amsterdam;-13.4
+Winnipeg;0.5
+Lake Havasu City;40.0
+San José;6.5
+Timbuktu;40.7
+Beijing;9.6
+Ürümqi;-0.7
+Tegucigalpa;19.4
+Taipei;43.7
+Nouadhibou;14.9
+Denpasar;19.0
+Saint Petersburg;-10.8
+Astana;9.1
+Saskatoon;-4.3
+Riyadh;24.8
+Oslo;6.0
+Baku;13.7
+Indianapolis;19.7
+Oslo;10.4
+Busan;25.2
+Rabat;33.0
+Mahajanga;28.8
+Denver;31.7
+London;13.6
+Montreal;9.3
+Tokyo;13.1
+Perth;24.0
+Berlin;16.8
+Christchurch;1.8
+Honiara;29.2
+Milwaukee;-9.4
+Stockholm;16.9
+Arkhangelsk;4.7
+Baku;22.0
+Houston;27.0
+Budapest;7.2
+Wichita;13.4
+Miami;22.6
+Hamburg;15.8
+Podgorica;32.5
+St. Louis;17.7
+Rangpur;3.2
+Douala;16.9
+Dar es Salaam;16.4
+St. John's;14.0
+Podgorica;29.1
+Ouahigouya;27.4
+Vancouver;15.7
+Yinchuan;4.7
+Zürich;11.8
+Mzuzu;13.0
+Havana;28.4
+Valletta;24.1
+Las Vegas;5.4
+Zanzibar City;2.9
+Assab;21.3
+Sacramento;23.0
+Warsaw;-6.4
+Banjul;18.0
+Yakutsk;-1.4
+Kansas City;-4.0
+Dampier;33.4
+Philadelphia;-2.7
+Da Nang;25.6
+Nashville;23.5
+Accra;25.2
+Douala;28.2
+Tunis;7.2
+Kano;25.8
+Thiès;11.4
+Jerusalem;10.6
+Marseille;13.8
+Kuopio;21.1
+Cracow;-10.1
+Conakry;20.6
+Maputo;32.8
+Ho Chi Minh City;43.6
+Djibouti;24.1
+Xi'an;14.5
+Tauranga;2.9
+San Juan;44.0
+Murmansk;1.7
+Vienna;6.6
+Fukuoka;16.8
+Ankara;19.2
+Ottawa;8.7
+Antsiranana;24.2
+Hiroshima;-1.8
+Tijuana;3.3
+Napoli;1.8
+Amsterdam;7.9
+Aden;20.4
+Suva;21.5
+Milan;16.7
+Conakry;29.4
+Luanda;43.1
+Manila;25.6
+Harbin;10.6
+Almaty;10.6
+Bratislava;16.1
+Denver;21.6
+Minneapolis;5.9
+Maun;8.7
+Athens;8.8
+Rostov-on-Don;6.7
+Saint Petersburg;2.5
+Yellowknife;-7.3
+Wellington;7.8
+Port Vila;27.5
+La Paz;22.6
+Baguio;-0.6
+Louisville;21.4
+Nouakchott;30.4
+San Salvador;11.3
+Athens;-1.1
+Helsinki;8.9
+Abha;18.8
+Cairns;10.1
+Yakutsk;-6.4
+Reykjavík;-0.3
+Antsiranana;29.3
+Palembang;29.0
+Niamey;40.7
+Jakarta;37.1
+Tamale;18.6
+Las Vegas;7.5
+Almaty;14.2
+Lomé;35.2
+Zagreb;7.1
+Marseille;16.4
+Tbilisi;11.6
+Vilnius;10.8
+Ouarzazate;25.4
+Kyoto;27.7
+Parakou;43.9
+Tromsø;4.5
+Managua;27.9
+Yangon;28.1
+San Diego;32.1
+Colombo;29.3
+Boston;5.1
+Budapest;10.1
+Cabo San Lucas;15.8
+Willemstad;14.1
+Hamburg;-1.8
+Copenhagen;-4.5
+Damascus;19.8
+Nairobi;8.5
+Bordeaux;3.7
+Lubumbashi;39.1
+Tbilisi;1.1
+Algiers;10.3
+Budapest;8.2
+Reggane;36.5
+Garoua;-1.8
+Kabul;10.6
+Vientiane;34.9
+Winnipeg;12.3
+Sofia;32.7
+İzmir;14.6
+Johannesburg;17.0
+Palmerston North;29.2
+Tabora;40.2
+Guangzhou;17.2
+Kolkata;22.6
+Seattle;17.1
+Livingstone;19.9
+La Paz;27.6
+Douala;40.5
+Vaduz;-0.1
+Almaty;-0.2
+Hamburg;9.9
+Winnipeg;25.4
+Toronto;3.5
+Andorra la Vella;7.1
+Jakarta;31.7
+Yellowknife;5.6
+Honiara;7.8
+Surabaya;29.9
+Assab;34.7
+Baltimore;18.5
+Split;33.4
+New Orleans;29.7
+Tucson;30.7
+Perth;4.3
+Murmansk;-25.1
+Reggane;39.4
+Moncton;9.4
+New Delhi;40.0
+Bata;17.6
+Naha;27.3
+Pittsburgh;4.4
+Wrocław;6.2
+Batumi;-20.0
+Philadelphia;12.9
+Dampier;22.9
+Bergen;19.1
+Juba;32.7
+Mahajanga;34.9
+Parakou;19.0
+Lyon;12.6
+Hamilton;12.5
+Ouagadougou;48.1
+Vladivostok;0.3
+Podgorica;37.4
+Nassau;19.9
+Cotonou;34.0
+Frankfurt;8.7
+Kano;25.0
+Kinshasa;33.0
+Pretoria;21.2
+Tamale;41.9
+Port Sudan;38.8
+Sarajevo;-10.0
+Iqaluit;-16.1
+Maputo;37.0
+Libreville;19.0
+Marrakesh;29.9
+Chongqing;14.5
+San Antonio;28.1
+Valletta;17.5
+San Diego;9.8
+Tamale;1.0
+Toliara;14.9
+Nashville;-19.9
+Odesa;1.6
+Moscow;2.1
+Andorra la Vella;10.8
+St. Louis;7.6
+Dushanbe;13.1
+Bucharest;-11.9
+Nairobi;22.0
+Chongqing;9.3
+Kuala Lumpur;13.0
+San Jose;19.3
+Vientiane;20.2
+Timbuktu;52.1
+Frankfurt;-2.7
+Luanda;21.2
+Skopje;12.0
+Vilnius;12.7
+Juba;21.6
+Honolulu;22.5
+Nakhon Ratchasima;21.3
+Makurdi;39.3
+Phnom Penh;17.1
+Port Vila;16.1
+Yinchuan;9.6
+Kuala Lumpur;31.2
+Gjoa Haven;-16.4
+El Paso;33.1
+Kandi;35.8
+Irkutsk;-10.2
+Palembang;22.6
+Shanghai;-0.5
+Bergen;15.9
+Bangui;17.1
+Yaoundé;15.8
+Hobart;22.6
+Sokoto;19.1
+Toronto;9.3
+Wichita;13.3
+Reykjavík;-8.8
+Hong Kong;24.9
+Nouakchott;28.4
+Erbil;13.9
+Tijuana;30.7
+Fianarantsoa;25.7
+Santo Domingo;15.2
+Brussels;30.9
+Baltimore;13.3
+Djibouti;36.7
+Mumbai;40.8
+Hat Yai;31.5
+Halifax;1.4
+Salt Lake City;9.9
+Burnie;18.0
+Seville;28.2
+Makurdi;45.2
+Tamanrasset;25.0
+Albuquerque;-7.3
+Tel Aviv;13.1
+Algiers;14.6
+Conakry;25.4
+Jayapura;10.1
+Johannesburg;31.9
+Ifrane;10.7
+La Ceiba;13.5
+Abha;21.3
+Ottawa;26.6
+Kuwait City;32.8
+Sydney;25.2
+Abha;24.9
+Kumasi;18.1
+Montreal;7.4
+Helsinki;6.0
+Denver;16.7
+Ottawa;1.1
+Kano;24.6
+Tokyo;16.8
+Parakou;39.0
+Sana'a;21.8
+Djibouti;41.1
+Fianarantsoa;25.1
+Makurdi;32.5
+Hargeisa;34.1
+Ghanzi;3.8
+Helsinki;3.6
+Saskatoon;0.0
+Atlanta;1.8
+Launceston;34.6
+Athens;23.7
+Abha;25.1
+Portland (OR);35.3
+Palembang;27.8
+Kathmandu;21.6
+Minsk;12.1
+Burnie;-5.4
+Managua;18.9
+Banjul;28.0
+Alice Springs;25.5
+Memphis;9.3
+Bloemfontein;8.1
+Kunming;2.3
+Bamako;17.1
+Ankara;14.0
+Thessaloniki;24.4
+Pretoria;10.8
+Nicosia;32.2
+Suwałki;14.6
+Vancouver;18.3
+Oranjestad;29.9
+San Antonio;12.4
+Whitehorse;5.0
+Nouadhibou;14.5
+Launceston;0.3
+Vilnius;2.9
+Tripoli;22.8
+Austin;11.5
+Phoenix;15.8
+Bangkok;24.6
+Dublin;18.6
+Alice Springs;29.9
+Belize City;29.7
+Chihuahua;16.0
+Libreville;16.9
+Kuopio;-20.3
+San Diego;24.6
+Sacramento;24.4
+Beirut;28.2
+Tallinn;10.6
+St. Louis;-15.6
+Lake Tekapo;-12.2
+Honolulu;13.9
+Tokyo;7.0
+Palm Springs;28.8
+Muscat;23.5
+Copenhagen;0.1
+Budapest;2.9
+Erbil;17.0
+Reggane;36.9
+Yinchuan;-8.4
+Hanoi;10.6
+Algiers;25.1
+Jayapura;27.9
+Antsiranana;24.2
+Winnipeg;18.3
+Kinshasa;26.4
+Louisville;18.7
+Seville;28.0
+Bamako;24.2
+Yellowknife;-17.0
+Wau;45.5
+Algiers;14.9
+Garissa;36.7
+Kyiv;-2.3
+Boston;8.5
+Havana;33.5
+Toronto;8.0
+Yakutsk;-1.8
+Flores,  Petén;19.4
+Harare;21.3
+Palermo;-6.3
+Sydney;4.0
+Birao;25.3
+Suwałki;19.4
+Erbil;9.6
+Maun;-5.8
+Willemstad;18.8
+Napier;18.9
+Tijuana;10.5
+Hobart;3.6
+Baltimore;8.2
+Riyadh;25.0
+Sofia;0.6
+Maputo;21.6
+Gagnoa;13.8
+Gagnoa;22.4
+Seville;12.0
+Paris;14.6
+Surabaya;27.3
+Rome;16.0
+Yerevan;18.5
+Reykjavík;-1.7
+St. Louis;14.2
+Singapore;26.5
+Hat Yai;27.0
+Madrid;9.7
+Brisbane;21.8
+Jacksonville;21.0
+Toronto;-7.2
+Alice Springs;25.1
+Riyadh;18.1
+Vancouver;8.8
+Sokoto;14.6
+Havana;16.6
+Almaty;14.1
+Phoenix;19.6
+Tamanrasset;6.5
+Alice Springs;18.1
+Adelaide;23.8
+Zagreb;9.1
+Ifrane;27.7
+Seattle;0.4
+Canberra;17.8
+Porto;10.1
+El Paso;12.3
+Wellington;14.3
+Xi'an;7.4
+Juba;19.0
+Veracruz;27.4
+Kansas City;28.8
+Bergen;15.1
+Dampier;31.0
+Wau;25.3
+Ljubljana;20.1
+Zürich;6.1
+Baltimore;20.7
+Port Sudan;40.6
+Maun;27.1
+Wrocław;-6.6
+Guangzhou;23.2
+Tegucigalpa;11.4
+Alexandra;25.8
+Halifax;4.8
+Tashkent;18.6
+Singapore;27.0
+Vaduz;17.6
+Lake Tekapo;0.0
+Honiara;16.6
+Kingston;33.9
+Odienné;37.9
+Lagos;15.5
+Toliara;24.8
+Dakar;7.7
+Livingstone;37.8
+Gagnoa;32.7
+Gangtok;13.8
+Canberra;17.7
+Napoli;-1.7
+Juba;20.1
+Hamilton;24.4
+Guangzhou;7.1
+Atlanta;6.1
+Ho Chi Minh City;20.0
+Vaduz;30.4
+Los Angeles;29.3
+Karonga;16.8
+Dushanbe;11.6
+Kuwait City;13.6
+Ahvaz;17.9
+Hargeisa;0.7
+Riyadh;38.0
+Petropavlovsk-Kamchatsky;9.4
+Ulaanbaatar;10.1
+Petropavlovsk-Kamchatsky;-0.7
+Toamasina;28.1
+Lomé;17.1
+Sydney;37.6
+Anchorage;-3.0
+Mahajanga;55.2
+Hanoi;8.1
+Dakar;23.6
+Adelaide;15.4
+Dar es Salaam;27.5
+Ouahigouya;45.0
+Tallinn;7.8
+Rabat;30.1
+Lisbon;17.9
+Bratislava;3.1
+Atlanta;34.6
+Dublin;23.2
+Indianapolis;17.0
+Flores,  Petén;28.8
+Kano;43.6
+Da Nang;35.6
+Tabriz;23.3
+Seville;18.0
+Tunis;14.3
+Johannesburg;32.5
+Detroit;27.3
+Lake Tekapo;13.0
+Zanzibar City;19.2
+Khartoum;21.6
+Lomé;20.0
+Melbourne;7.8
+Port Sudan;34.0
+Virginia Beach;29.9
+Dallas;11.3
+Tromsø;6.9
+Toronto;2.2
+Djibouti;46.9
+Villahermosa;28.2
+Alice Springs;38.8
+Mek'ele;23.4
+Bata;16.1
+Nakhon Ratchasima;33.6
+Muscat;34.7
+Gabès;19.7
+Hanga Roa;17.9
+Dakar;42.0
+Upington;29.2
+Suwałki;8.5
+Whitehorse;3.4
+Nashville;-8.4
+Tel Aviv;34.8
+Memphis;14.9
+La Ceiba;23.0
+Christchurch;24.3
+Frankfurt;11.4
+Ürümqi;21.5
+Ségou;27.8
+Djibouti;54.1
+Lviv;18.7
+Brazzaville;-0.9
+Erzurum;3.2
+Medan;35.4
+Saskatoon;2.6
+Ségou;19.5
+Havana;39.2
+Halifax;15.4
+Marrakesh;32.9
+Medan;25.1
+Dunedin;25.1
+Manila;39.3
+Fianarantsoa;18.9
+Palm Springs;15.0
+Anchorage;-20.5
+Andorra la Vella;8.5
+Ouarzazate;29.9
+Toronto;17.6
+Tunis;16.3
+Damascus;33.2
+Brazzaville;12.4
+Nuuk;-1.4
+Cotonou;29.2
+Tunis;15.0
+Kingston;24.4
+Saskatoon;10.0
+Mandalay;14.8
+Brisbane;25.7
+Perth;17.5
+Baghdad;21.4
+Seattle;2.4
+Alice Springs;21.4
+Douala;16.9
+Washington, D.C.;8.5
+Bishkek;21.0
+New Orleans;29.1
+Petropavlovsk-Kamchatsky;13.2
+Nassau;21.4
+Oranjestad;35.2
+Dublin;16.7
+Karachi;33.4
+Porto;10.9
+Yerevan;18.7
+Kankan;7.7
+Makurdi;37.6
+Cape Town;18.8
+Anchorage;5.4
+Bamako;28.2
+Gjoa Haven;-10.3
+Taipei;13.1
+Tripoli;10.6
+Dhaka;35.1
+Bangui;26.6
+Dallas;24.4
+Mek'ele;22.3
+Khartoum;35.8
+Skopje;-1.1
+Cracow;-5.6
+Phnom Penh;12.8
+Luanda;25.8
+Tamanrasset;33.1
+Kuala Lumpur;32.0
+Split;12.0
+Riyadh;32.8
+Kano;15.6
+Palembang;33.9
+Port Vila;31.2
+Livingstone;33.4
+Baghdad;19.9
+Ürümqi;4.9
+Dikson;-3.5
+Detroit;-10.4
+Ljubljana;6.9
+Mzuzu;11.2
+Kumasi;24.6
+Maun;30.1
+Seville;10.8
+Tripoli;1.2
+Suwałki;3.9
+Ahvaz;26.0
+Arkhangelsk;-1.1
+Tripoli;14.1
+Melbourne;32.0
+Chongqing;21.2
+Charlotte;35.1
+Bridgetown;9.7
+Kyiv;3.3
+Porto;23.8
+Napier;13.4
+Darwin;32.8
+Salt Lake City;18.2
+Jakarta;33.8
+Dunedin;15.4
+Chongqing;7.6
+Kumasi;40.7
+Fresno;19.4
+Valletta;21.8
+Palembang;21.7
+Tunis;15.4
+Napier;44.1
+Havana;5.1
+Ho Chi Minh City;20.8
+Singapore;5.8
+Phnom Penh;14.1
+Mexico City;12.6
+Vladivostok;-7.7
+Marrakesh;17.6
+Accra;25.7
+Vancouver;13.2
+Valencia;-0.5
+Pittsburgh;22.7
+Bishkek;29.7
+Kandi;28.7
+Toliara;34.5
+Karachi;22.4
+Novosibirsk;17.9
+Rabat;12.2
+Washington, D.C.;21.7
+Toluca;18.7
+Kankan;34.9
+Kuopio;12.8
+Ahvaz;23.7
+St. John's;18.1
+Ifrane;10.2
+Houston;18.4
+Managua;24.7
+İzmir;25.5
+Guadalajara;12.7
+Nouakchott;32.4
+Douala;21.1
+Philadelphia;9.6
+Khartoum;22.0
+Kingston;35.0
+New Orleans;26.5
+Cabo San Lucas;37.9
+Sana'a;31.9
+Juba;24.9
+Pontianak;32.3
+Bloemfontein;16.4
+Ulaanbaatar;1.4
+El Paso;-2.5
+Kathmandu;11.5
+Kathmandu;23.8
+Port Vila;11.7
+Ottawa;16.3
+Riyadh;31.7
+Lagos;12.5
+Antsiranana;11.0
+Atlanta;17.2
+Lyon;23.0
+Tbilisi;-7.1
+Dikson;-19.1
+Detroit;23.0
+Adelaide;25.9
+Perth;16.8
+Minneapolis;2.4
+Jos;16.9
+Garissa;18.6
+Milwaukee;12.1
+Odesa;18.0
+Seville;7.3
+Reggane;24.4
+Heraklion;3.0
+Dunedin;-1.6
+Sokoto;23.0
+Maun;26.4
+Boston;22.4
+Bloemfontein;21.7
+Istanbul;33.3
+Nouadhibou;18.2
+Dodoma;14.5
+Tampa;26.3
+Nassau;20.0
+Sacramento;24.4
+Minneapolis;16.9
+Tucson;13.2
+Dakar;38.1
+Mumbai;32.7
+Omaha;9.7
+Reykjavík;7.3
+Tucson;20.1
+Abéché;37.5
+Hargeisa;12.5
+Podgorica;23.9
+Bouaké;32.2
+Milan;13.6
+Sydney;18.6
+Pretoria;9.4
+Mahajanga;35.6
+Odesa;17.5
+Pontianak;32.7
+Calgary;7.1
+Fresno;38.6
+Surabaya;31.0
+Guatemala City;26.5
+Asmara;17.4
+Kabul;-13.8
+Antananarivo;14.0
+Bulawayo;10.8
+George Town;30.8
+Garissa;39.6
+Heraklion;2.7
+Houston;20.7
+Ifrane;-10.1
+Erzurum;-3.6
+Riyadh;22.8
+Chittagong;18.5
+Virginia Beach;34.2
+Madrid;15.0
+Mumbai;36.0
+City of San Marino;1.7
+Kinshasa;16.6
+Cabo San Lucas;18.6
+Tirana;5.4
+Seattle;6.5
+Nicosia;20.4
+Memphis;25.0
+Pretoria;14.5
+Kuwait City;23.3
+Sofia;-6.3
+Tabora;36.3
+Damascus;23.3
+Harare;19.6
+Calgary;-8.5
+Ndola;18.4
+Ashgabat;24.6
+Mombasa;0.2
+Dikson;-2.3
+Bata;29.4
+Washington, D.C.;5.9
+Manila;25.5
+Dar es Salaam;27.2
+Dublin;1.4
+London;31.9
+Toliara;26.9
+Sokoto;9.0
+Santo Domingo;27.5
+London;4.2
+Da Nang;39.5
+Cotonou;41.0
+Moscow;9.0
+Erzurum;-8.8
+Yerevan;1.2
+Petropavlovsk-Kamchatsky;4.9
+Fairbanks;4.5
+Colombo;31.2
+Sochi;17.4
+Arkhangelsk;-8.9
+Addis Ababa;16.9
+Rostov-on-Don;0.8
+Erzurum;25.7
+Anchorage;-13.3
+Willemstad;20.0
+Zagreb;14.3
+Kinshasa;22.6
+Chiang Mai;36.0
+Columbus;7.5
+Fianarantsoa;18.6
+Reykjavík;5.8
+Porto;25.8
+Gjoa Haven;0.4
+Beijing;24.7
+Moncton;9.6
+New York City;26.9
+Atlanta;29.6
+Bilbao;26.4
+Marrakesh;15.6
+Palmerston North;16.0
+Split;19.3
+George Town;31.8
+Calgary;-3.8
+Da Nang;22.4
+Helsinki;-0.7
+Portland (OR);11.0
+Kyiv;8.7
+Los Angeles;-10.6
+Assab;30.5
+Vladivostok;6.5
+Oslo;-27.8
+Chicago;19.1
+Kyoto;14.1
+Indianapolis;19.8
+Miami;10.1
+Harare;17.3
+Oulu;8.1
+San Jose;12.8
+Belize City;23.0
+Gangtok;9.1
+Tirana;20.6
+Birao;36.7
+Palermo;2.8
+Palembang;25.9
+Christchurch;7.0
+Lomé;27.8
+Burnie;25.9
+Abéché;28.4
+Luxembourg City;-0.9
+Hobart;16.2
+Dubai;18.9
+Kyoto;1.8
+Abidjan;15.0
+Abéché;25.8
+Suwałki;14.9
+Bridgetown;38.4
+Birao;22.1
+Burnie;6.9
+Guatemala City;34.1
+Almaty;16.3
+Cairo;6.9
+Dhaka;31.0
+Erzurum;-5.8
+Tirana;22.4
+San Salvador;27.2
+Tabora;23.8
+Tashkent;1.6
+Bujumbura;15.8
+Tijuana;15.7
+Seville;23.3
+Fairbanks;-9.0
+Medan;45.1
+Garoua;21.3
+Valletta;19.4
+Palermo;1.2
+Ho Chi Minh City;6.1
+Sochi;26.8
+Prague;-1.6
+Madrid;9.7
+Oklahoma City;16.5
+Cape Town;8.3
+Kingston;26.3
+Sacramento;32.6
+Mumbai;27.1
+Arkhangelsk;8.6
+Iqaluit;5.9
+Seoul;-10.1
+Kuopio;-2.9
+Kumasi;10.5
+Gagnoa;30.6
+Busan;4.8
+Palembang;22.3
+Pretoria;15.5
+Ndola;31.5
+Honiara;32.3
+Muscat;30.8
+Kyoto;35.2
+Makurdi;9.2
+Da Lat;4.9
+Conakry;14.0
+Hamilton;27.1
+Abha;19.2
+Ségou;21.2
+Kinshasa;29.4
+Tamale;24.1
+Chongqing;20.4
+Zagreb;6.8
+Detroit;-2.4
+Denver;11.3
+Livingstone;20.2
+Kyiv;25.1
+Banjul;23.4
+Arkhangelsk;-6.7
+Busan;15.5
+Zagreb;0.6
+Frankfurt;15.1
+Sokoto;23.4
+Algiers;19.2
+Toluca;0.4
+Abha;13.8
+Helsinki;3.4
+Gjoa Haven;-5.7
+Canberra;11.5
+Benghazi;30.1
+Hiroshima;24.9
+Alexandria;26.6
+Whitehorse;9.1
+Rangpur;10.1
+Vancouver;23.1
+Yaoundé;36.5
+Los Angeles;9.6
+Port Vila;36.0
+Paris;22.3
+Napier;20.5
+Mexico City;3.3
+Chihuahua;-0.5
+Vienna;16.2
+Hobart;27.9
+Iqaluit;-27.1
+Kansas City;-6.3
+Chittagong;28.2
+Portland (OR);12.6
+Bangkok;28.9
+Upington;3.7
+Nicosia;18.8
+Guatemala City;23.6
+Garissa;33.5
+Harare;3.4
+Douala;40.6
+Dunedin;4.2
+Novosibirsk;4.9
+Bangkok;26.2
+Ürümqi;2.7
+Toamasina;19.1
+Maputo;53.3
+Vancouver;-2.5
+Vancouver;-1.4
+Toliara;33.6
+Hat Yai;24.1
+Antsiranana;23.7
+Upington;-1.2
+George Town;34.7
+Kyoto;9.9
+Da Lat;29.0
+Tallinn;-6.0
+Sofia;7.0
+Jacksonville;12.0
+San Juan;22.3
+Boise;5.0
+Cairns;16.1
+Odienné;11.3
+Tampa;25.1
+Napier;25.7
+Chongqing;16.1
+Montreal;-10.0
+Naha;20.3
+Benghazi;20.9
+Banjul;20.0
+Moscow;-2.1
+Baltimore;6.1
+Sapporo;21.8
+Dili;36.5
+Christchurch;11.6
+Praia;23.9
+Dolisie;15.5
+Bergen;-8.8
+Ürümqi;16.5
+Cairo;19.6
+Bujumbura;40.8
+Valencia;27.0
+San Francisco;17.2
+Tijuana;9.3
+Milwaukee;-6.1
+Whitehorse;-4.4
+Nairobi;32.1
+Lake Havasu City;14.7
+Milwaukee;8.5
+Port Sudan;17.1
+Lisbon;28.2
+Batumi;5.9
+Hamilton;22.6
+Toliara;31.5
+Saint-Pierre;21.2
+Dublin;-1.4
+Pontianak;26.9
+Santo Domingo;31.7
+George Town;21.1
+Marseille;24.0
+Wichita;12.9
+Ouarzazate;22.4
+Lahore;44.3
+Seoul;28.3
+Port Vila;26.7
+San Jose;3.1
+Tegucigalpa;7.2
+Bishkek;-11.8
+Rabat;32.9
+Pyongyang;-0.3
+Ifrane;28.3
+Mango;19.5
+Montreal;23.4
+New Orleans;17.6
+Tamale;21.2
+Hargeisa;13.9
+Hamilton;12.9
+Lahore;10.4
+Kano;19.4
+Tromsø;-0.9
+Djibouti;33.8
+City of San Marino;2.7
+Da Lat;18.9
+Gaborone;27.3
+Abéché;24.4
+Frankfurt;21.2
+Melbourne;38.7
+Cairo;30.2
+London;16.1
+Minneapolis;-1.8
+Yinchuan;18.0
+Tripoli;16.2
+Tabora;16.4
+Mek'ele;24.6
+Port Vila;8.9
+Chihuahua;16.2
+Ulaanbaatar;6.5
+Kingston;21.0
+Makassar;30.6
+Tucson;28.8
+Lhasa;5.9
+Ashgabat;16.6
+Vientiane;28.1
+Saint Petersburg;5.0
+Wichita;13.3
+Odienné;42.7
+Bordeaux;21.4
+Dolisie;32.2
+Antsiranana;35.6
+Austin;25.3
+Luxembourg City;-3.0
+Saint Petersburg;1.5
+Fairbanks;2.5
+Halifax;6.1
+Bangui;21.9
+Pretoria;4.6
+New Orleans;22.9
+Ljubljana;16.4
+Monaco;5.2
+Oslo;9.3
+Bosaso;20.4
+Cape Town;11.2
+Alexandria;8.1
+Moncton;22.9
+Rangpur;31.9
+Stockholm;13.6
+Khartoum;27.0
+Dubai;24.2
+Ürümqi;5.5
+Cabo San Lucas;30.4
+Iqaluit;-0.5
+Boston;10.4
+Cairns;36.4
+Bucharest;7.2
+Tallinn;2.2
+Lviv;11.5
+Pointe-Noire;7.8
+Mango;20.4
+Dampier;25.0
+Abha;9.5
+New York City;0.5
+Austin;23.4
+Cairns;23.9
+Minsk;21.7
+Beirut;22.3
+San Jose;27.4
+Detroit;25.9
+Tabriz;-0.3
+Halifax;8.8
+Bishkek;13.4
+Lusaka;18.1
+Batumi;18.0
+Managua;26.9
+Phoenix;13.0
+Anadyr;-5.9
+Whitehorse;-15.2
+Belgrade;16.9
+Veracruz;34.7
+Perth;21.7
+Dolisie;19.6
+Palm Springs;19.0
+Toamasina;20.0
+Mahajanga;28.9
+London;9.2
+Batumi;33.7
+Vienna;13.1
+Rostov-on-Don;2.7
+Phoenix;19.3
+Kathmandu;19.3
+Halifax;13.2
+Tunis;47.6
+Harare;10.0
+Bratislava;2.4
+Marseille;24.8
+Ndola;9.0
+Jacksonville;28.5
+Bergen;14.5
+Niigata;7.6
+Makassar;11.9
+Philadelphia;26.9
+Almaty;8.5
+Kinshasa;24.7
+Atlanta;13.3
+Ljubljana;23.6
+Kuala Lumpur;35.9
+Istanbul;21.0
+Nashville;-4.5
+Ürümqi;10.5
+Juba;39.7
+Bulawayo;26.5
+Livingstone;35.3
+St. John's;18.8
+Yangon;25.1
+Batumi;23.0
+Makassar;12.9
+Antsiranana;20.7
+Anchorage;-10.2
+Jayapura;17.2
+Ndola;22.3
+Vladivostok;14.5
+N'Djamena;35.0
+Kinshasa;17.6
+Vladivostok;-8.9
+Rome;17.7
+Kuopio;6.7
+Andorra la Vella;-14.4
+Kampala;6.4
+Parakou;9.6
+Budapest;1.5
+Lake Tekapo;13.3
+Toliara;30.8
+Sarajevo;8.7
+Chongqing;12.1
+Willemstad;27.8
+Milwaukee;3.1
+Maun;13.7
+Barcelona;17.0
+Vientiane;14.9
+Budapest;19.1
+Tauranga;9.3
+Lodwar;32.4
+Tauranga;22.1
+Ottawa;17.3
+Bangkok;38.3
+Niamey;31.0
+Palermo;27.6
+Bridgetown;20.6
+San José;27.9
+Alexandria;26.9
+Thessaloniki;-2.6
+Dili;20.8
+Juba;17.0
+Omaha;1.0
+Ljubljana;31.2
+Bordeaux;12.1
+Riga;4.0
+Tamale;42.7
+Phnom Penh;0.8
+Berlin;7.9
+Abha;23.1
+N'Djamena;28.6
+Cracow;1.5
+St. John's;9.1
+Mango;20.8
+Hanoi;27.4
+Bosaso;30.5
+Belgrade;2.4
+Lomé;22.9
+Tripoli;6.5
+Dublin;13.2
+Beirut;1.0
+Tamanrasset;18.0
+Manila;22.7
+Cairo;34.1
+Mexico City;28.9
+Rostov-on-Don;1.7
+Fresno;29.1
+Kano;28.9
+San Juan;14.2
+Charlotte;30.8
+Surabaya;23.3
+Barcelona;30.4
+Pontianak;33.3
+Chittagong;25.8
+Aden;40.7
+N'Djamena;22.1
+Ségou;35.0
+Melbourne;12.9
+Almaty;10.7
+Athens;24.9
+Kankan;22.7
+Fianarantsoa;28.7
+Port Vila;31.5
+Makassar;38.2
+Cairo;41.4
+La Paz;20.7
+Suwałki;-0.7
+Lubumbashi;29.5
+Heraklion;28.4
+Santo Domingo;33.1
+Abidjan;13.0
+Dubai;28.9
+Chișinău;27.6
+Luxembourg City;21.9
+Edinburgh;14.3
+Ahvaz;30.4
+Fresno;3.3
+Tripoli;34.7
+Skopje;22.9
+Pointe-Noire;15.4
+Andorra la Vella;8.2
+Yakutsk;-6.9
+Moncton;14.5
+Lahore;38.3
+Douala;17.8
+Tehran;5.0
+Manila;35.2
+Murmansk;19.5
+Santo Domingo;11.7
+Thiès;25.8
+Dunedin;26.1
+Blantyre;27.6
+Antananarivo;35.9
+Fresno;5.1
+Ghanzi;36.6
+Mexicali;27.0
+Los Angeles;20.0
+Brazzaville;17.0
+Helsinki;-3.8
+Ifrane;19.8
+Boise;9.3
+Abéché;32.4
+Petropavlovsk-Kamchatsky;1.0
+Surabaya;31.3
+Tokyo;4.1
+Yaoundé;37.0
+Cabo San Lucas;1.4
+Anadyr;-22.1
+Ljubljana;-3.7
+Monaco;11.8
+Mogadishu;19.0
+Bulawayo;26.7
+Kumasi;34.4
+Douala;43.6
+Jerusalem;10.4
+Alexandria;16.9
+San Diego;24.5
+Livingstone;39.9
+Baguio;3.4
+Jakarta;20.3
+Boise;31.8
+Entebbe;25.3
+Wrocław;12.1
+Bulawayo;24.3
+Tel Aviv;25.8
+Austin;17.3
+Upington;21.9
+Dolisie;20.6
+Bilbao;28.6
+Cape Town;15.7
+Maun;15.5
+Durban;30.8
+Niamey;40.5
+Suva;26.5
+Nuuk;1.6
+Lomé;17.6
+Lagos;16.5
+Vancouver;26.1
+Brisbane;37.3
+Petropavlovsk-Kamchatsky;18.6
+Brazzaville;33.5
+Jerusalem;29.7
+Muscat;11.3
+Roseau;29.1
+Bouaké;26.2
+Tamanrasset;-3.3
+Podgorica;-2.8
+Juba;35.4
+Toluca;5.5
+San Juan;22.1
+Chișinău;13.3
+Tabriz;20.0
+Singapore;15.3
+Thessaloniki;21.5
+Bissau;49.5
+Lake Tekapo;-7.0
+Rangpur;14.8
+Alexandria;35.8
+Kandi;28.2
+Iqaluit;-29.3
+Bulawayo;24.2
+Tel Aviv;23.3
+Stockholm;12.8
+Port-Gentil;20.5
+Tijuana;30.3
+Kuala Lumpur;30.1
+Palermo;30.0
+Bucharest;-0.2
+Jacksonville;15.5
+Kandi;-1.6
+Makassar;24.9
+Astana;14.6
+Milan;-4.3
+Winnipeg;-4.4
+Luxembourg City;-9.2
+Niamey;16.2
+Lomé;14.8
+Toluca;2.5
+Canberra;14.7
+Jakarta;46.1
+Houston;28.0
+Guatemala City;16.8
+Bosaso;25.6
+Stockholm;12.8
+Anadyr;-4.1
+San Juan;15.2
+Launceston;-2.8
+Ghanzi;39.5
+Belize City;34.0
+Budapest;5.9
+Jayapura;30.9
+Lyon;31.3
+Copenhagen;12.0
+Lyon;23.4
+Tripoli;17.5
+Chittagong;17.4
+Bucharest;18.5
+Tunis;15.2
+Odesa;15.5
+Belize City;24.1
+San José;22.9
+Pontianak;32.6
+Guangzhou;-0.9
+İzmir;27.6
+Reykjavík;8.2
+Bergen;5.3
+Ouarzazate;8.9
+Abéché;20.5
+Lviv;14.0
+Niamey;32.9
+Dolisie;22.9
+Bangui;11.8
+Valencia;39.1
+Manama;27.3
+Erbil;5.6
+Bata;22.8
+Manila;29.6
+Dar es Salaam;5.8
+Chongqing;24.0
+Pointe-Noire;22.4
+Frankfurt;7.7
+Reykjavík;-11.5
+New Delhi;1.9
+Singapore;23.8
+Mogadishu;15.8
+Barcelona;12.4
+Monaco;17.5
+Tallinn;9.7
+Singapore;20.7
+Palembang;39.0
+Alice Springs;25.8
+Yaoundé;25.5
+Honolulu;25.6
+Hong Kong;13.1
+Bratislava;5.7
+Karonga;16.8
+Alice Springs;21.3
+Rangpur;7.6
+Cotonou;32.8
+Perth;24.9
+Pyongyang;24.4
+St. Louis;10.0
+Ifrane;27.0
+Lagos;19.4
+Karachi;29.6
+Fukuoka;16.0
+Cape Town;12.9
+Mombasa;44.3
+Salt Lake City;13.3
+Ho Chi Minh City;43.0
+Medan;48.9
+Winnipeg;12.6
+Bishkek;7.3
+Athens;18.2
+Seville;2.5
+Detroit;7.3
+Ouarzazate;7.9
+Ulaanbaatar;-7.2
+Bridgetown;18.9
+Dublin;7.8
+Melbourne;-7.0
+Indianapolis;10.9
+Baku;16.2
+Kumasi;30.7
+Madrid;1.1
+Ségou;46.8
+San Diego;28.0
+Edmonton;1.9
+Toluca;8.9
+Auckland;10.7
+Yaoundé;30.8
+Manama;35.2
+Toliara;20.5
+Christchurch;-9.1
+Kumasi;28.6
+Yerevan;7.9
+Vladivostok;-1.2
+New Delhi;38.0
+Montreal;10.0
+Salt Lake City;20.9
+Flores,  Petén;9.4
+Juba;16.2
+Mexicali;16.5
+Dili;32.5
+Napoli;20.7
+Toamasina;16.2
+Havana;30.8
+Tel Aviv;6.7
+Fukuoka;14.7
+Havana;30.5
+Havana;44.7
+Tucson;29.3
+San José;35.9
+Tijuana;7.2
+Denver;-6.2
+Bordeaux;20.8
+Canberra;14.7
+Nuuk;16.9
+Kampala;11.0
+Brussels;13.7
+Garissa;36.7
+Valencia;24.1
+Erbil;27.7
+Wellington;-0.5
+Tbilisi;36.7
+Valletta;2.4
+Reggane;22.1
+Abha;18.3
+Barcelona;20.6
+Lusaka;4.9
+Yaoundé;42.1
+Mahajanga;34.5
+Split;15.5
+Port Moresby;36.9
+Tamanrasset;18.2
+Bloemfontein;22.9
+Kathmandu;33.8
+Memphis;25.4
+Fianarantsoa;23.7
+Kolkata;38.1
+Moscow;-4.0
+New Delhi;24.0
+Pointe-Noire;9.7
+Wellington;6.4
+Tokyo;13.2
+Lisbon;15.5
+Bulawayo;35.8
+Ouagadougou;27.7
+Managua;35.7
+Saint-Pierre;10.2
+Bucharest;20.2
+Willemstad;47.7
+Vienna;18.9
+Cairns;10.6
+Abha;23.1
+Maun;19.5
+Alexandria;13.6
+Saint-Pierre;27.0
+Abha;13.3
+Manila;45.3
+Wrocław;0.1
+Bridgetown;25.4
+Minsk;12.8
+Toluca;27.3
+Istanbul;7.2
+Skopje;17.8
+Bishkek;13.3
+Port Vila;34.8
+Kyiv;2.0
+Mek'ele;17.6
+Gaborone;18.3
+San Diego;14.9
+N'Djamena;20.5
+Pittsburgh;28.8
+Dhaka;40.4
+Seattle;14.2
+San Diego;25.0
+Sana'a;16.6
+Hanoi;33.7
+Toronto;-16.7
+Boston;21.2
+Ürümqi;-0.8
+Iqaluit;-21.0
+Kuala Lumpur;27.9
+Cracow;15.7
+Chongqing;14.1
+Kuwait City;59.8
+Virginia Beach;6.5
+Stockholm;2.2
+Kano;29.1
+Abéché;20.2
+Manila;25.5
+Tallinn;-3.6
+Baku;-12.0
+Reykjavík;-10.1
+Wellington;3.5
+Malabo;31.9
+Minsk;4.3
+Valletta;12.9
+Aden;21.2
+Ljubljana;-3.6
+Da Nang;31.5
+Chicago;21.0
+Ho Chi Minh City;18.5
+Cracow;1.3
+Petropavlovsk-Kamchatsky;-0.1
+Naha;13.0
+San Francisco;34.3
+Kandi;35.9
+Villahermosa;40.1
+Bangui;13.9
+Wellington;1.8
+Mexicali;34.6
+Atlanta;27.3
+Singapore;23.4
+Kunming;9.3
+Colombo;37.7
+Benghazi;15.6
+Rostov-on-Don;17.3
+Makassar;38.2
+Villahermosa;19.3
+Petropavlovsk-Kamchatsky;3.2
+Phnom Penh;31.2
+Valencia;19.9
+Baguio;30.1
+Mumbai;31.9
+Chișinău;1.7
+Sapporo;10.3
+City of San Marino;15.1
+Dushanbe;-6.2
+Ndola;17.6
+Tbilisi;9.1
+Saskatoon;-3.5
+Vilnius;-0.1
+Alexandria;29.0
+Bangkok;29.2
+Karachi;25.4
+Baltimore;14.0
+Vaduz;30.5
+Ségou;26.0
+Luxembourg City;-2.1
+Seville;29.7
+Upington;18.1
+Hargeisa;24.5
+Bata;28.4
+Kansas City;8.7
+Port Vila;29.0
+San Francisco;40.5
+Riyadh;36.1
+Dampier;25.1
+Canberra;-0.1
+Omaha;20.9
+Toamasina;25.8
+Albuquerque;30.6
+Vilnius;-2.7
+Lodwar;18.4
+Vaduz;13.9
+Ndola;14.2
+Batumi;16.8
+Indianapolis;11.1
+Gaborone;33.3
+Amsterdam;-1.3
+Prague;8.0
+Yerevan;-9.7
+Las Palmas de Gran Canaria;24.8
+Kuopio;10.1
+Phnom Penh;37.3
+Cabo San Lucas;28.3
+Tel Aviv;22.6
+Brisbane;18.6
+Wellington;10.0
+Lyon;12.4
+Arkhangelsk;-11.9
+Kyoto;15.9
+Bosaso;46.2
+Malabo;15.5
+Bergen;10.5
+Astana;2.0
+Tbilisi;13.4
+Garissa;47.2
+Ulaanbaatar;-6.1
+Malé;22.1
+Kano;30.0
+Tijuana;22.8
+Washington, D.C.;24.0
+Tamanrasset;24.8
+Manila;23.4
+Asmara;21.6
+Montreal;15.5
+Almaty;25.3
+St. John's;19.6
+Bujumbura;4.0
+Kuwait City;4.9
+Lubumbashi;13.7
+Tabora;30.6
+Dublin;24.6
+Palm Springs;41.2
+Podgorica;28.2
+Khartoum;27.6
+Fukuoka;9.4
+Honiara;36.9
+Portland (OR);21.3
+La Ceiba;20.4
+Phoenix;29.5
+Assab;27.8
+Garoua;18.4
+Alexandria;9.6
+Bamako;33.2
+Split;20.7
+San Antonio;8.2
+Dakar;7.9
+Erzurum;10.5
+Palm Springs;16.2
+Perth;27.6
+Bilbao;23.3
+Birao;41.5
+Nairobi;16.3
+Yellowknife;-3.9
+Dampier;30.9
+Tirana;10.2
+Phoenix;10.3
+Hanga Roa;19.6
+Kano;35.1
+Stockholm;18.1
+Lyon;6.6
+Reggane;14.6
+Mexico City;20.1
+Louisville;6.1
+Tampa;42.1
+Hong Kong;17.7
+N'Djamena;37.7
+Kansas City;6.2
+Memphis;4.1
+Tamanrasset;41.1
+Detroit;3.3
+Auckland;14.8
+Erbil;16.0
+Bulawayo;14.4
+Athens;21.8
+Burnie;14.4
+Brussels;10.7
+Kathmandu;17.2
+Oulu;14.6
+Accra;6.9
+Cotonou;44.7
+Palm Springs;19.0
+Gjoa Haven;-3.1
+Halifax;8.3
+Split;9.5
+Nakhon Ratchasima;34.8
+Niamey;25.1
+Tamanrasset;9.3
+Oranjestad;35.5
+Wau;21.8
+La Ceiba;25.5
+Sofia;13.5
+Tegucigalpa;6.4
+Makassar;39.9
+Saskatoon;-18.4
+Kuwait City;22.3
+Antananarivo;35.6
+Pyongyang;1.6
+Karachi;25.9
+Dallas;13.5
+New Orleans;24.4
+Kyoto;3.3
+Accra;36.7
+Valletta;33.1
+Irkutsk;0.2
+Dhaka;-3.2
+Moscow;10.8
+Prague;5.8
+Napier;24.9
+Tallinn;24.2
+Niamey;32.5
+Kyiv;-6.7
+Bloemfontein;2.2
+Garoua;24.3
+Bamako;42.2
+Montreal;19.6
+Lake Tekapo;-0.9
+Dakar;10.7
+Durban;4.7
+Banjul;39.5
+Ngaoundéré;14.2
+Port Vila;25.8
+Whitehorse;-0.7
+Honolulu;14.6
+Brazzaville;32.9
+Marseille;20.8
+Minsk;17.9
+Salt Lake City;19.7
+Gaborone;23.2
+Prague;4.5
+Louisville;25.4
+Toliara;23.7
+Bouaké;35.5
+Hargeisa;22.0
+Ouahigouya;26.2
+Napier;10.3
+Port Moresby;23.0
+Palermo;20.9
+Luanda;29.6
+Kumasi;18.6
+Budapest;-1.6
+Wrocław;15.8
+Dallas;6.7
+Parakou;12.5
+Napier;17.2
+Rostov-on-Don;-3.3
+Jos;20.6
+Bloemfontein;31.1
+Auckland;12.3
+Dublin;-1.5
+Lagos;16.6
+Manila;37.5
+Copenhagen;-3.0
+Damascus;23.7
+Tucson;29.0
+Muscat;35.0
+Antananarivo;28.3
+Veracruz;32.4
+Havana;7.1
+Pittsburgh;13.2
+Bissau;31.0
+Launceston;2.4
+Lhasa;16.9
+Willemstad;8.3
+New Delhi;8.1
+Barcelona;3.6
+Podgorica;7.6
+Whitehorse;2.7
+Almaty;-4.3
+Changsha;11.7
+Kyiv;12.1
+Athens;17.7
+Sochi;24.3
+Panama City;40.9
+Honiara;23.2
+Santo Domingo;28.2
+Amsterdam;8.4
+Ouarzazate;17.8
+Tbilisi;4.0
+Valencia;29.3
+Riga;19.8
+Brazzaville;22.7
+Shanghai;16.2
+Abéché;26.0
+Zagreb;21.1
+Las Vegas;48.1
+Sydney;28.4
+Darwin;33.0
+Toluca;8.1
+Washington, D.C.;9.7
+Abéché;38.6
+Kabul;30.7
+Anchorage;-15.8
+Edmonton;-1.8
+Mandalay;55.0
+Melbourne;8.7
+Chittagong;3.5
+Toronto;24.7
+Baguio;29.0
+Juba;25.6
+Antsiranana;14.8
+Fukuoka;1.3
+Istanbul;19.3
+Batumi;14.6
+Alexandra;3.1
+Rangpur;22.2
+Livingstone;30.4
+Sacramento;19.2
+Da Lat;11.1
+Bouaké;34.7
+Birao;30.2
+Helsinki;-9.6
+Wrocław;22.8
+Nassau;15.1
+Mek'ele;25.0
+Lagos;41.0
+Sydney;15.0
+Guangzhou;26.3
+Gagnoa;33.9
+Houston;14.6
+Gjoa Haven;-28.1
+Mexico City;19.2
+Ulaanbaatar;-1.7
+Jos;33.6
+Blantyre;18.0
+Nuuk;3.7
+Ifrane;10.0
+Ahvaz;19.6
+Brazzaville;18.3
+Mek'ele;29.9
+Livingstone;20.7
+Chittagong;13.0
+Mango;28.0
+Kabul;0.5
+Belize City;32.8
+Parakou;29.6
+Irkutsk;-2.5
+Algiers;9.3
+Kyiv;7.9
+Lviv;7.4
+Wau;30.0
+Tirana;22.7
+Alexandra;17.7
+Jerusalem;13.3
+Dunedin;-10.2
+Bergen;8.9
+Astana;1.3
+Rangpur;14.2
+Manama;32.3
+Banjul;35.7
+Cairo;30.7
+Dikson;-4.0
+Portland (OR);3.3
+Port Vila;12.8
+Phnom Penh;0.2
+Novosibirsk;14.1
+Hanoi;27.4
+Canberra;18.8
+Seoul;11.3
+Hargeisa;7.4
+Sofia;19.4
+Sacramento;9.4
+Oslo;6.6
+San Francisco;8.1
+Toamasina;10.3
+Dubai;28.4
+Sapporo;28.5
+Toronto;13.3
+Lhasa;11.8
+Wau;2.3
+Manila;20.1
+Ngaoundéré;30.1
+Singapore;30.1
+Hobart;-1.2
+Toronto;-3.9
+Muscat;21.3
+Tabriz;13.7
+Suwałki;-9.1
+Karachi;27.1
+Abidjan;14.1
+Zanzibar City;27.2
+Ho Chi Minh City;32.7
+Niigata;28.1
+Dodoma;28.8
+Abidjan;30.0
+Manama;27.8
+Tegucigalpa;22.4
+Kuala Lumpur;20.2
+Tokyo;11.9
+Ottawa;13.3
+Istanbul;16.6
+Bucharest;16.2
+Hanga Roa;28.3
+Wellington;27.8
+Palm Springs;31.6
+Reykjavík;-0.4
+New Orleans;25.9
+Managua;25.4
+Baku;33.0
+Ahvaz;32.5
+Halifax;3.7
+Panama City;31.8
+Tripoli;16.1
+Seoul;29.4
+Tel Aviv;14.1
+Tamanrasset;16.2
+Wellington;-2.2
+Hong Kong;27.4
+Phnom Penh;32.9
+Albuquerque;1.0
+Napoli;15.2
+Bulawayo;28.9
+Damascus;9.6
+Lodwar;21.7
+Brazzaville;23.4
+Vaduz;9.4
+Tunis;6.4
+Petropavlovsk-Kamchatsky;-1.0
+Baghdad;40.3
+Las Palmas de Gran Canaria;33.0
+Yellowknife;-10.6
+La Paz;23.9
+Anadyr;1.7
+Thessaloniki;16.2
+Tirana;18.3
+San Diego;4.1
+Tehran;17.2
+Port Moresby;21.9
+Erbil;34.8
+Reykjavík;6.2
+Tunis;3.3
+Asmara;35.9
+Naha;18.4
+Shanghai;41.6
+Chihuahua;33.5
+Assab;33.3
+Houston;24.6
+Upington;22.4
+Moncton;11.0
+Kinshasa;40.4
+Maun;0.0
+Malabo;27.5
+Oulu;0.0
+Pointe-Noire;24.9
+Bloemfontein;0.8
+Gjoa Haven;-20.4
+Lagos;22.3
+Lagos;22.5
+Toronto;11.6
+Tirana;18.3
+Toronto;17.8
+Oulu;11.8
+Brussels;11.4
+Indianapolis;26.6
+Alice Springs;23.9
+Hamburg;16.0
+Saint-Pierre;10.4
+Hat Yai;18.5
+Istanbul;6.3
+Maputo;23.1
+Auckland;11.4
+Cotonou;12.3
+Seville;17.6
+Entebbe;41.9
+Blantyre;36.6
+Toamasina;24.2
+Palermo;16.5
+Bujumbura;2.3
+Damascus;12.9
+Bujumbura;21.3
+Lyon;5.4
+Yinchuan;11.0
+Bilbao;5.9
+N'Djamena;35.3
+Monaco;8.7
+Indianapolis;23.6
+Pontianak;35.3
+Parakou;29.1
+Tijuana;26.1
+Salt Lake City;13.0
+Gaborone;28.9
+Moncton;18.1
+Entebbe;4.6
+Mzuzu;10.2
+Alice Springs;25.3
+Kampala;33.9
+Bloemfontein;20.2
+Riga;-6.6
+Monaco;14.0
+Gagnoa;20.2
+Ürümqi;26.9
+Maun;24.0
+Louisville;-3.2
+Lviv;15.7
+Seoul;21.0
+San Diego;41.1
+Ghanzi;14.1
+Edinburgh;17.5
+Dikson;-15.7
+Kingston;19.8
+Guadalajara;26.2
+Edinburgh;-9.2
+Durban;7.0
+Vientiane;5.2
+Addis Ababa;22.3
+Luxembourg City;18.1
+Odesa;16.2
+Albuquerque;37.7
+Karonga;11.5
+Anadyr;-22.1
+Cape Town;34.3
+Washington, D.C.;5.5
+Palmerston North;29.8
+Vilnius;6.5
+Riga;18.0
+Tegucigalpa;19.1
+Cabo San Lucas;24.3
+Pittsburgh;4.9
+Da Nang;19.1
+Bouaké;37.0
+Bishkek;33.5
+Toliara;21.5
+San José;38.7
+Yellowknife;4.2
+Bata;51.4
+Antsiranana;35.6
+Minneapolis;6.7
+Washington, D.C.;16.1
+Ghanzi;30.0
+Hanga Roa;25.1
+Andorra la Vella;30.3
+Yakutsk;-6.2
+Manama;38.3
+Dolisie;12.2
+Lisbon;22.4
+Antananarivo;17.9
+Roseau;21.4
+Bujumbura;35.8
+Baku;-10.6
+Malabo;25.9
+Da Lat;28.1
+Mombasa;31.4
+Nassau;8.4
+Nashville;20.9
+Luanda;40.0
+Ndola;23.5
+Bishkek;10.7
+Albuquerque;-0.9
+Zagreb;27.7
+Bouaké;28.2
+Xi'an;8.5
+Nashville;22.0
+Launceston;18.5
+Mzuzu;22.2
+Baku;3.1
+Pretoria;6.9
+Kuopio;3.7
+Surabaya;20.3
+Brazzaville;33.1
+Hong Kong;13.2
+Pointe-Noire;13.1
+Nuuk;-14.9
+Ottawa;29.0
+Thiès;31.7
+Guatemala City;24.5
+Panama City;35.4
+Winnipeg;4.6
+Kumasi;36.4
+Sacramento;24.9
+Kampala;17.3
+Minsk;6.9
+New Delhi;30.2
+Dunedin;15.5
+Surabaya;16.0
+Tegucigalpa;27.8
+New York City;13.0
+Mombasa;30.9
+Xi'an;17.5
+New Orleans;47.2
+Port Moresby;30.1
+Vladivostok;25.2
+St. John's;2.3
+Lomé;28.4
+Pontianak;44.5
+Lake Havasu City;36.8
+New Orleans;25.8
+Auckland;-4.8
+Surabaya;28.2
+Addis Ababa;23.3
+Busan;16.0
+Oslo;21.2
+Brisbane;29.0
+Batumi;0.7
+Gagnoa;20.3
+Hobart;9.6
+Durban;41.4
+Zanzibar City;16.6
+Palmerston North;10.5
+Lodwar;34.7
+Fresno;32.6
+Gabès;13.7
+Maun;15.1
+Chișinău;3.6
+Dublin;11.8
+Brazzaville;12.4
+Bratislava;20.3
+Amsterdam;-9.3
+Jakarta;28.0
+Bouaké;38.8
+Ljubljana;26.0
+Fairbanks;-14.7
+Bordeaux;26.7
+Riga;-6.9
+Praia;34.0
+Conakry;25.8
+Bloemfontein;7.1
+Hamilton;24.9
+New Orleans;34.2
+Bosaso;14.3
+Anchorage;9.7
+Frankfurt;3.4
+Tabora;25.8
+Athens;29.9
+Rome;16.8
+Heraklion;10.6
+Johannesburg;22.9
+N'Djamena;20.4
+Busan;16.2
+Tamanrasset;9.5
+Ouarzazate;23.4
+New Delhi;22.8
+New Delhi;41.1
+Winnipeg;4.2
+Skopje;10.3
+Hargeisa;42.4
+Podgorica;11.7
+Toluca;-9.9
+Phnom Penh;58.4
+Moncton;-5.6
+Panama City;15.2
+Perth;20.6
+Dushanbe;8.7
+Berlin;31.8
+Bangui;32.7
+Nakhon Ratchasima;20.7
+Nuuk;1.2
+Cotonou;21.8
+Vladivostok;6.6
+Praia;31.3
+Pointe-Noire;19.2
+Mogadishu;30.2
+Nuuk;-9.8
+Thiès;11.5
+Suwałki;16.9
+Suva;11.5
+Alice Springs;28.9
+Suwałki;-3.5
+Pittsburgh;-5.9
+Indianapolis;14.3
+Rostov-on-Don;13.4
+Baghdad;19.3
+Belgrade;21.0
+Tirana;10.9
+Sochi;11.5
+Bucharest;2.4
+Lubumbashi;9.2
+Phoenix;51.7
+Lusaka;19.2
+Asmara;27.8
+Cotonou;28.2
+Ho Chi Minh City;27.7
+Lusaka;18.7
+Oslo;7.8
+Bata;36.1
+Lahore;15.1
+Veracruz;35.8
+Ashgabat;-4.7
+Banjul;43.8
+Antsiranana;17.2
+Entebbe;31.4
+Vaduz;10.8
+Murmansk;2.8
+Nairobi;23.1
+Yaoundé;12.6
+Algiers;11.7
+Mzuzu;30.3
+Canberra;14.6
+Rangpur;20.7
+Whitehorse;-8.6
+Bergen;0.6
+Tauranga;28.2
+San Diego;17.4
+Chicago;31.2
+Bilbao;22.1
+Los Angeles;18.3
+Columbus;6.7
+Cairns;19.8
+Tashkent;21.6
+Brussels;19.6
+Dunedin;13.0
+Lyon;19.8
+Tallinn;-3.5
+Sacramento;9.9
+Sacramento;34.8
+Los Angeles;8.7
+Entebbe;27.4
+Cotonou;19.2
+Columbus;26.3
+Kunming;5.9
+Mandalay;23.1
+Marrakesh;23.3
+Guatemala City;26.4
+Busan;14.8
+Jayapura;13.0
+Abidjan;30.1
+Douala;27.9
+Bridgetown;28.2
+Berlin;24.4
+Irkutsk;-3.5
+Kunming;11.9
+Pointe-Noire;38.0
+Saskatoon;16.8
+Cracow;7.4
+Accra;26.3
+Port Moresby;22.1
+Singapore;33.4
+Jerusalem;17.6
+Dallas;26.4
+Blantyre;13.1
+Odesa;7.4
+San Francisco;-2.6
+Istanbul;14.5
+Frankfurt;27.5
+Brazzaville;14.0
+Baguio;11.4
+Thiès;34.9
+Cotonou;31.0
+Madrid;13.5
+Lusaka;25.6
+Pontianak;31.4
+Dublin;20.7
+Kyiv;7.0
+Harbin;8.2
+Manila;18.7
+Tromsø;5.8
+Reykjavík;12.8
+Palm Springs;38.4
+Jayapura;19.7
+Dar es Salaam;20.9
+Tirana;24.4
+Garissa;14.8
+Riyadh;23.5
+Kuala Lumpur;17.2
+El Paso;32.1
+Mexicali;9.2
+Harbin;13.3
+Monaco;22.5
+Mexicali;18.5
+Birao;30.5
+Karonga;28.3
+Erbil;9.4
+Ghanzi;32.4
+Dublin;15.3
+Copenhagen;7.6
+Denver;17.1
+Amsterdam;27.4
+Veracruz;24.2
+Canberra;23.5
+Bosaso;27.1
+Tirana;19.6
+Tamanrasset;21.6
+Kabul;14.1
+Port-Gentil;43.2
+Cairns;21.3
+Moncton;18.4
+La Paz;27.9
+Ndola;17.2
+Boston;7.4
+Ifrane;2.4
+Port Moresby;15.9
+Kathmandu;12.6
+Chihuahua;4.2
+Baghdad;24.4
+Nakhon Ratchasima;30.1
+Boston;-2.7
+Saint Petersburg;22.5
+Luxembourg City;18.3
+Saint Petersburg;-4.8
+Tallinn;-8.4
+Gaborone;23.5
+Bujumbura;25.6
+New Orleans;18.4
+Dolisie;34.0
+Naha;25.0
+Vientiane;14.6
+Melbourne;22.5
+Ottawa;10.5
+Praia;17.1
+Amsterdam;21.5
+Portland (OR);12.8
+Ouagadougou;34.3
+Busan;5.0
+Hong Kong;6.3
+Kuwait City;30.0
+Valencia;18.5
+Minsk;0.8
+Kuwait City;26.3
+Surabaya;35.9
+Cotonou;30.1
+Oslo;10.7
+Charlotte;17.9
+Belize City;23.9
+Kandi;21.0
+Tirana;17.9
+Havana;40.0
+Hat Yai;28.4
+Harbin;-6.3
+Riga;14.0
+Almaty;3.6
+Lviv;-7.4
+Ouahigouya;26.4
+Honolulu;16.2
+Tunis;2.8
+İzmir;18.2
+Ho Chi Minh City;11.2
+Kathmandu;5.3
+Arkhangelsk;10.0
+Singapore;39.4
+Tbilisi;16.2
+Ljubljana;29.9
+Algiers;18.8
+Baku;20.1
+Fairbanks;-0.6
+Tbilisi;12.9
+Bouaké;30.6
+Bouaké;12.7
+Livingstone;19.2
+San José;4.3
+Reykjavík;12.6
+Changsha;0.4
+Tucson;14.4
+Tashkent;17.1
+Adelaide;0.2
+Flores,  Petén;11.5
+Chihuahua;16.8
+Oranjestad;39.1
+Yerevan;1.0
+Bangkok;35.8
+Gaborone;38.3
+Palmerston North;24.3
+Entebbe;20.4
+New Delhi;27.1
+Bouaké;42.1
+Dunedin;-1.0
+Nouadhibou;14.0
+Blantyre;28.6
+Guadalajara;26.5
+Suva;23.0
+Philadelphia;19.4
+Malé;30.1
+Tegucigalpa;23.2
+Bulawayo;12.2
+Birao;45.2
+Medan;23.7
+Changsha;28.3
+Rabat;15.6
+La Paz;35.3
+Prague;7.2
+Denpasar;35.1
+Batumi;8.8
+Dunedin;-4.7
+Louisville;32.6
+Phoenix;13.9
+Lviv;13.0
+St. John's;6.6
+Xi'an;4.6
+Bangkok;44.2
+Launceston;9.6
+Andorra la Vella;12.8
+Wau;26.0
+Bulawayo;19.3
+Douala;1.5
+Miami;19.9
+Mango;22.9
+Dubai;28.7
+La Paz;15.3
+Nicosia;2.4
+Kuopio;6.4
+Valencia;4.6
+Muscat;47.4
+Durban;2.7
+Kolkata;28.4
+Tripoli;-1.5
+Darwin;31.5
+Kuala Lumpur;30.4
+Alexandria;24.9
+Managua;40.3
+Athens;31.7
+Jakarta;32.5
+Maputo;8.4
+Beirut;18.4
+Da Lat;5.6
+Toluca;2.5
+Dhaka;30.5
+Oulu;6.9
+Helsinki;0.1
+Ahvaz;32.4
+Alexandria;31.5
+Parakou;28.7
+Algiers;15.5
+Conakry;40.6
+Juba;33.0
+Alexandra;14.6
+Budapest;19.2
+Villahermosa;37.1
+Darwin;27.3
+Skopje;16.3
+Milan;3.3
+Khartoum;33.4
+Chongqing;27.2
+Pontianak;46.8
+Andorra la Vella;9.2
+Pointe-Noire;33.5
+Nouadhibou;20.3
+Istanbul;18.3
+Erzurum;15.4
+Boston;-5.1
+Istanbul;23.3
+Bishkek;4.5
+Tromsø;0.0
+Winnipeg;4.9
+Gangtok;28.9
+Ürümqi;-4.6
+Launceston;12.8
+Palembang;40.9
+Pointe-Noire;12.0
+Ulaanbaatar;3.6
+Phnom Penh;37.2
+Bissau;27.8
+San Jose;16.4
+Dili;7.5
+Asmara;30.4
+Riyadh;18.0
+Bulawayo;33.4
+Christchurch;4.7
+Brussels;3.4
+San Francisco;19.1
+George Town;33.0
+Dodoma;24.6
+Stockholm;1.5
+Dolisie;30.5
+Muscat;37.8
+Blantyre;19.7
+Panama City;25.1
+Djibouti;39.6
+Riga;2.6
+Manila;53.0
+Erzurum;13.2
+Pyongyang;20.4
+Rome;6.6
+Napier;-1.5
+Jayapura;19.1
+Bosaso;43.7
+Addis Ababa;24.4
+Skopje;16.6
+Napier;14.5
+Harbin;10.5
+Antananarivo;9.0
+Virginia Beach;13.3
+Yellowknife;-14.7
+Launceston;-11.3
+Rostov-on-Don;3.9
+Reggane;36.5
+Darwin;32.3
+Luxembourg City;2.5
+Detroit;2.9
+Sokoto;29.1
+Astana;8.2
+Dubai;15.4
+Canberra;15.3
+Lodwar;28.1
+Reykjavík;8.0
+Phnom Penh;38.0
+Lake Havasu City;42.4
+Yangon;43.6
+Timbuktu;11.4
+Detroit;-5.2
+Toluca;28.5
+Oklahoma City;17.4
+Dili;39.9
+Tel Aviv;24.2
+Dhaka;7.8
+Lake Tekapo;18.8
+Palm Springs;29.2
+Andorra la Vella;-10.1
+Minsk;10.6
+Brussels;6.3
+Reykjavík;11.9
+Ottawa;-6.5
+Mzuzu;-2.4
+Austin;22.6
+Moscow;-5.8
+Manila;39.3
+Kandi;36.8
+Las Vegas;25.6
+Tehran;18.7
+Mexicali;36.4
+Tel Aviv;36.9
+Kandi;39.0
+Canberra;13.9
+Brazzaville;37.0
+Seoul;20.2
+Mek'ele;25.1
+Toronto;28.4
+London;8.4
+Tripoli;29.2
+Toluca;17.7
+George Town;26.7
+Berlin;10.4
+Suva;24.7
+Warsaw;11.9
+Busan;18.4
+Kunming;21.7
+Erbil;29.7
+Port Sudan;41.2
+Kuopio;-12.2
+Tauranga;13.9
+Kankan;29.3
+İzmir;8.9
+Toamasina;21.9
+Colombo;38.1
+La Paz;32.6
+San Salvador;27.6
+Arkhangelsk;19.2
+Perth;3.4
+Kingston;23.8
+Taipei;17.8
+Xi'an;17.4
+Kandi;30.0
+Arkhangelsk;-2.3
+Hanga Roa;15.1
+Santo Domingo;35.4
+Yakutsk;-6.4
+Kathmandu;29.8
+Dar es Salaam;45.2
+Busan;34.1
+La Ceiba;22.2
+Villahermosa;27.6
+Cracow;16.8
+Nairobi;16.7
+San José;16.0
+St. John's;4.1
+Kyiv;16.0
+Lahore;18.1
+Sokoto;27.7
+Guatemala City;26.6
+Khartoum;35.1
+Chittagong;31.3
+Baltimore;2.6
+City of San Marino;6.2
+Dili;21.6
+Prague;31.8
+Makassar;27.6
+Kunming;28.5
+Nashville;31.6
+Chongqing;38.0
+Douala;21.2
+Beirut;28.5
+Juba;32.6
+Budapest;7.9
+Cracow;11.3
+Lahore;26.8
+Antananarivo;19.1
+Bishkek;-7.5
+Portland (OR);13.5
+Vienna;10.7
+Athens;29.2
+Lyon;15.4
+Cracow;11.0
+Kuopio;-7.1
+Heraklion;12.3
+Cabo San Lucas;30.7
+Bangkok;35.8
+Albuquerque;-4.7
+Parakou;32.1
+El Paso;10.1
+Porto;6.3
+Nassau;18.1
+Tirana;13.3
+Berlin;-4.3
+Chittagong;41.5
+Houston;31.3
+Malabo;17.6
+Bissau;40.9
+Bordeaux;17.3
+Seattle;21.0
+Madrid;22.6
+Bordeaux;7.9
+Brazzaville;40.3
+Bissau;20.9
+Riga;-5.5
+Damascus;-3.0
+Hargeisa;40.1
+Mombasa;14.5
+Villahermosa;54.5
+Miami;23.7
+Mogadishu;26.1
+Bloemfontein;33.6
+Mexico City;17.1
+Hamilton;0.2
+Rome;13.4
+Oulu;12.8
+Dallas;32.0
+Ségou;40.7
+Tijuana;20.6
+Pointe-Noire;42.1
+Saskatoon;6.3
+Busan;20.6
+Lubumbashi;31.6
+Kansas City;21.7
+Philadelphia;13.0
+Bilbao;10.7
+Hong Kong;15.3
+Gaborone;24.6
+Pretoria;30.4
+Busan;24.3
+Pittsburgh;9.8
+Gagnoa;14.8
+Lahore;26.7
+Denpasar;18.7
+Mogadishu;26.1
+San Francisco;37.8
+Kuwait City;24.4
+Valencia;24.7
+Yangon;38.3
+New Delhi;34.7
+Atlanta;11.9
+Kuopio;0.5
+Honiara;23.6
+Reykjavík;0.9
+Dubai;29.0
+Sofia;12.9
+Singapore;33.0
+Washington, D.C.;13.1
+New Orleans;14.4
+Vaduz;-2.3
+Palmerston North;18.4
+Kansas City;16.8
+Copenhagen;-3.5
+Palm Springs;16.6
+Makassar;51.9
+Anadyr;-14.9
+Baguio;15.0
+Seattle;9.8
+Odienné;17.5
+Dunedin;5.6
+Baltimore;21.4
+Damascus;5.5
+Washington, D.C.;21.6
+Ségou;26.5
+Bergen;-8.5
+Lubumbashi;16.4
+Rangpur;22.9
+Bangui;25.8
+Tirana;17.1
+Sochi;29.5
+Ndola;28.3
+Adelaide;32.2
+Vilnius;0.1
+Kathmandu;22.5
+Conakry;31.8
+Dampier;15.6
+Durban;38.0
+Wichita;20.1
+Chiang Mai;31.4
+Garissa;34.9
+Entebbe;29.9
+Johannesburg;7.6
+Bordeaux;15.6
+Nouadhibou;24.5
+Dallas;17.2
+Riga;-3.4
+Karonga;35.6
+Bosaso;39.7
+Seoul;16.9
+Bridgetown;29.0
+Santo Domingo;26.5
+Kuwait City;19.7
+Bosaso;37.1
+Livingstone;39.0
+Lake Tekapo;7.7
+Andorra la Vella;12.7
+İzmir;19.7
+Phoenix;28.8
+Berlin;14.4
+Ouagadougou;34.3
+Guatemala City;22.3
+Heraklion;26.5
+Porto;3.8
+Rostov-on-Don;15.6
+Bata;37.5
+Lviv;-2.7
+Alexandria;16.9
+Colombo;25.7
+Alice Springs;27.7
+Napier;16.2
+Porto;28.4
+Tauranga;8.6
+Ankara;0.2
+Melbourne;8.2
+Oslo;17.2
+Frankfurt;-2.7
+Rostov-on-Don;7.9
+Lyon;15.2
+Cabo San Lucas;2.9
+Bordeaux;26.1
+Managua;31.6
+Ulaanbaatar;-6.5
+Nakhon Ratchasima;22.2
+Honolulu;28.4
+Abéché;50.2
+Port Vila;18.1
+Gangtok;14.9
+Zagreb;1.8
+Abéché;31.2
+Rostov-on-Don;6.2
+Almaty;-1.5
+Tijuana;15.1
+Bata;22.8
+Charlotte;15.2
+Kansas City;25.2
+Aden;47.1
+Kathmandu;22.8
+Honolulu;31.7
+Phoenix;23.9
+Dakar;37.2
+Yangon;36.0
+Chittagong;3.8
+Cairo;39.5
+Kano;21.1
+Cotonou;46.4
+Moncton;-7.9
+Sacramento;13.1
+Maun;13.9
+Almaty;-12.4
+Cairo;19.8
+Yellowknife;-3.6
+New Orleans;16.7
+Antsiranana;16.5
+Detroit;18.0
+Vancouver;20.7
+Dunedin;3.5
+Roseau;31.8
+Kuwait City;33.7
+Copenhagen;7.7
+Luanda;21.9
+Brazzaville;26.2
+Chihuahua;10.5
+Anadyr;-1.1
+Belize City;13.8
+Garissa;5.0
+Pyongyang;10.8
+Gagnoa;32.5
+Las Vegas;31.6
+Ouagadougou;32.5
+Addis Ababa;3.2
+Denpasar;34.3
+Hamburg;17.3
+Port Vila;40.2
+Banjul;30.8
+New York City;24.0
+Gabès;15.6
+Benghazi;17.8
+Shanghai;9.2
+Nairobi;22.9
+Taipei;32.8
+Flores,  Petén;28.4
+Mumbai;33.9
+Jayapura;29.3
+Iqaluit;-21.2
+Tamale;44.9
+Minneapolis;11.7
+Philadelphia;18.4
+Naha;5.1
+Batumi;25.7
+Bordeaux;23.1
+Madrid;14.2
+Tabriz;27.4
+Mexicali;9.3
+Stockholm;8.7
+Zanzibar City;30.4
+Saskatoon;6.8
+New Orleans;38.8
+Maputo;16.0
+Gagnoa;15.9
+Tucson;17.6
+Lisbon;12.4
+Port Moresby;19.9
+Nicosia;9.0
+Da Lat;23.5
+Nassau;37.4
+Oulu;-0.2
+Fukuoka;6.7
+Miami;22.6
+Tallinn;5.7
+Antananarivo;4.3
+Praia;26.9
+Hong Kong;19.7
+Tallinn;5.2
+Indianapolis;9.3
+Zagreb;18.9
+Libreville;21.7
+Mek'ele;31.9
+Almaty;9.8
+Tashkent;-13.8
+Dampier;26.8
+Chittagong;23.1
+Abidjan;14.4
+Las Palmas de Gran Canaria;18.5
+Valencia;8.1
+Mexicali;-2.7
+Athens;17.7
+Dushanbe;21.6
+Medan;43.5
+Chicago;5.0
+Oslo;11.5
+Timbuktu;25.0
+Nashville;16.3
+Accra;20.4
+Moncton;13.0
+Naha;19.2
+Jakarta;21.6
+Tamale;37.4
+Port Sudan;23.2
+Kunming;8.7
+Toliara;16.9
+Christchurch;25.0
+Ankara;2.8
+Gagnoa;22.5
+Antsiranana;21.8
+La Paz;5.8
+Ghanzi;15.1
+Mek'ele;34.0
+Alexandra;2.6
+Maun;39.4
+Reykjavík;-3.0
+Santo Domingo;15.3
+Sochi;1.1
+Batumi;23.9
+Chittagong;26.0
+Palm Springs;21.4
+Ottawa;5.7
+Bangui;29.1
+Praia;21.1
+Fianarantsoa;34.1
+Nicosia;37.5
+Wrocław;21.1
+Cabo San Lucas;23.8
+Wau;34.7
+Batumi;18.8
+Cabo San Lucas;37.9
+Tabriz;10.3
+Novosibirsk;34.9
+Yinchuan;-3.7
+Anadyr;-4.6
+Cairo;26.4
+Suwałki;8.2
+Manila;30.3
+Perth;25.6
+Jos;14.3
+San Salvador;16.7
+Parakou;48.0
+Vientiane;26.4
+Kabul;2.7
+Jayapura;12.9
+Sydney;13.3
+Copenhagen;-4.6
+Marseille;14.5
+Bangkok;26.6
+Douala;26.0
+Detroit;4.0
+Belgrade;13.8
+Columbus;20.3
+Salt Lake City;7.2
+Lodwar;32.4
+Marrakesh;15.9
+Kyoto;8.0
+N'Djamena;30.9
+Ségou;25.4
+Asmara;35.7
+Seoul;13.2
+Guangzhou;28.7
+Baghdad;9.5
+Toamasina;20.5
+Minsk;12.1
+Brazzaville;24.5
+Pittsburgh;15.7
+Winnipeg;-10.9
+Seville;27.1
+Kunming;17.4
+Tampa;38.6
+Burnie;6.0
+Ghanzi;1.7
+Hanoi;28.0
+Mahajanga;10.7
+Malabo;36.1
+Jerusalem;21.0
+Maputo;28.5
+Lahore;27.5
+Wellington;8.1
+Kunming;32.2
+Kyiv;0.7
+Naha;26.1
+Harbin;-6.4
+Monaco;23.3
+Napier;22.1
+Niigata;17.0
+Bratislava;9.1
+St. John's;-4.4
+İzmir;-1.7
+Montreal;-1.1
+Ho Chi Minh City;11.1
+Vaduz;16.5
+Jacksonville;19.9
+Irkutsk;-21.5
+Jerusalem;35.0
+Tamanrasset;15.1
+Minneapolis;11.0
+El Paso;16.8
+Surabaya;30.0
+Parakou;32.0
+Ho Chi Minh City;25.9
+Nairobi;6.2
+Gjoa Haven;-12.1
+New Orleans;40.9
+Kumasi;18.1
+Luxembourg City;-3.2
+Gjoa Haven;-3.7
+Sokoto;21.0
+Lake Havasu City;15.0
+Berlin;24.8
+Asmara;17.9
+Guangzhou;11.2
+Monaco;12.0
+Chișinău;19.0
+Fukuoka;26.5
+Brazzaville;10.7
+Sarajevo;2.4
+Busan;12.1
+Mumbai;27.8
+Yaoundé;20.3
+Cracow;-5.2
+Guatemala City;19.0
+Brisbane;15.3
+Dhaka;26.6
+San Jose;20.4
+Lodwar;20.5
+Napoli;20.4
+Kabul;34.7
+Kyiv;4.2
+Surabaya;29.0
+Gangtok;-7.9
+Detroit;11.1
+Juba;26.9
+Praia;27.3
+Manila;31.6
+Riyadh;45.6
+Belize City;26.2
+Thiès;25.3
+Singapore;17.0
+Alexandria;13.1
+Hargeisa;24.9
+Vilnius;7.6
+Seoul;23.4
+Ljubljana;12.0
+Fairbanks;6.3
+Suwałki;9.0
+Tampa;28.0
+Fresno;29.8
+Singapore;10.8
+Tegucigalpa;28.9
+Chongqing;8.3
+Moscow;16.5
+Nassau;31.4
+Edmonton;11.5
+Phnom Penh;37.5
+Rangpur;42.6
+Thiès;17.7
+Mumbai;18.5
+Yinchuan;-4.9
+Bata;14.1
+Pittsburgh;34.3
+Tbilisi;14.4
+Lviv;11.7
+Gagnoa;38.5
+Hamburg;22.8
+Halifax;13.5
+Atlanta;9.4
+Canberra;7.7
+Bucharest;36.1
+Thessaloniki;21.6
+Boston;10.6
+Bridgetown;28.0
+Thessaloniki;10.0
+Ngaoundéré;5.6
+Barcelona;18.1
+Ho Chi Minh City;13.2
+Brussels;16.0
+Nashville;-6.9
+Louisville;13.4
+San Jose;22.5
+Mogadishu;23.1
+Portland (OR);-7.0
+Sacramento;35.1
+Ankara;9.6
+Brussels;-0.6
+Lusaka;18.9
+Hong Kong;16.9
+Yaoundé;13.4
+Kansas City;23.8
+Marrakesh;10.7
+Marseille;7.9
+Thiès;28.5
+Paris;29.4
+Erbil;21.1
+Tucson;28.8
+Algiers;27.8
+Toluca;1.1
+Veracruz;21.0
+Halifax;-1.9
+Tegucigalpa;21.1
+Mango;36.7
+Tabora;33.2
+Brussels;25.1
+Atlanta;8.9
+Cape Town;31.0
+St. John's;5.9
+Johannesburg;23.4
+New Delhi;21.2
+Hanga Roa;23.8
+Tirana;1.3
+Honolulu;41.7
+Wau;20.8
+Garissa;29.5
+Burnie;12.7
+Kuwait City;12.9
+Andorra la Vella;18.4
+Kano;38.0
+Reggane;20.5
+Bergen;28.9
+Bangui;21.9
+Tamale;36.3
+Melbourne;20.2
+La Paz;11.7
+Los Angeles;5.9
+Gagnoa;15.9
+Guadalajara;23.1
+Singapore;32.6
+Lake Tekapo;11.4
+Port Moresby;24.3
+Cairns;37.7
+Tallinn;13.7
+Dunedin;-8.6
+Almaty;5.2
+Kuwait City;31.1
+Erzurum;8.6
+Dar es Salaam;27.5
+Mek'ele;27.0
+Bridgetown;32.6
+Palembang;10.9
+City of San Marino;11.1
+Vienna;-2.1
+Moscow;9.5
+Pyongyang;17.5
+Nouakchott;19.0
+Cotonou;24.4
+Karonga;11.5
+Hamilton;21.2
+Palermo;21.6
+Zürich;16.6
+Malé;36.2
+Wellington;30.0
+Hargeisa;26.7
+Hong Kong;23.7
+Louisville;20.1
+Canberra;11.4
+Split;19.9
+Winnipeg;16.7
+Ghanzi;24.0
+Petropavlovsk-Kamchatsky;6.1
+Bridgetown;26.1
+Auckland;8.3
+Dallas;30.5
+Istanbul;24.4
+Gjoa Haven;-1.2
+Napoli;27.9
+Tirana;30.1
+Lake Havasu City;22.2
+Birao;29.5
+Miami;24.0
+Valencia;4.2
+Tallinn;7.4
+Mumbai;14.8
+Moscow;21.3
+Memphis;11.3
+Palmerston North;17.6
+Kingston;24.9
+Jakarta;14.3
+Dublin;7.4
+Bratislava;-5.6
+Gaborone;45.3
+Denver;32.8
+Shanghai;14.1
+Sokoto;35.3
+Kunming;9.7
+Medan;28.5
+Canberra;10.3
+Veracruz;27.2
+Baku;24.4
+Garissa;22.9
+Canberra;12.0
+Beirut;38.0
+Whitehorse;19.4
+Mexico City;21.1
+Ürümqi;9.8
+Phoenix;9.1
+Berlin;13.0
+Lhasa;6.4
+Pointe-Noire;20.5
+Adelaide;13.2
+Da Lat;25.7
+Livingstone;20.8
+Saskatoon;-1.6
+Mek'ele;27.9
+N'Djamena;35.6
+Halifax;3.2
+Adelaide;10.8
+Andorra la Vella;20.9
+Ifrane;4.1
+Erzurum;-2.0
+Tijuana;22.3
+Kinshasa;26.1
+Skopje;3.9
+Lubumbashi;18.1
+Atlanta;16.6
+Changsha;8.0
+Chișinău;11.6
+Sacramento;23.0
+Boise;1.5
+Dikson;-12.3
+Riga;5.9
+Makassar;18.7
+Tallinn;9.5
+Belgrade;18.3
+Willemstad;13.1
+Beirut;3.1
+Fairbanks;-22.4
+Berlin;-1.2
+Sacramento;22.6
+Yerevan;11.5
+Prague;11.8
+Alexandra;15.8
+Alexandra;27.9
+Medan;27.2
+Valencia;19.9
+Antsiranana;24.5
+Naha;26.6
+Vladivostok;6.0
+Nouakchott;36.1
+Damascus;29.2
+La Paz;30.3
+Split;7.2
+Bloemfontein;9.7
+Luanda;20.4
+Suwałki;21.0
+Nassau;16.4
+Tel Aviv;6.8
+Dhaka;18.9
+Zagreb;20.5
+Cracow;2.2
+Dikson;-10.1
+Jacksonville;31.6
+Suva;34.6
+Johannesburg;28.6
+Bloemfontein;6.4
+Khartoum;25.4
+Toliara;28.2
+Bouaké;39.9
+Riga;-1.7
+St. John's;5.6
+Hanga Roa;6.6
+Dikson;-9.1
+Oslo;8.1
+Warsaw;1.6
+Tunis;5.9
+Portland (OR);34.5
+Astana;-1.6
+Valletta;9.3
+Split;20.4
+Kunming;10.9
+Melbourne;7.6
+Seattle;9.2
+Louisville;-6.3
+Belgrade;11.0
+Tallinn;11.5
+Guatemala City;20.7
+Oranjestad;20.7
+Atlanta;20.7
+Whitehorse;-7.7
+Helsinki;9.6
+Copenhagen;9.5
+New York City;18.7
+Tbilisi;-3.9
+Charlotte;1.9
+Perth;28.3
+Kandi;31.0
+El Paso;14.1
+Arkhangelsk;0.2
+San Antonio;25.2
+Colombo;12.4
+Rangpur;45.0
+Chiang Mai;33.4
+Winnipeg;12.6
+Hamilton;26.5
+San Antonio;7.9
+Sochi;-4.9
+Medan;24.8
+Philadelphia;24.6
+Mandalay;22.3
+Kuopio;-10.5
+Port Moresby;31.8
+Kampala;16.8
+Detroit;16.5
+Hanga Roa;28.6
+Tampa;30.7
+Arkhangelsk;5.8
+Palembang;14.7
+Vientiane;22.2
+Ljubljana;32.9
+Saint-Pierre;13.7
+Birao;31.9
+Ngaoundéré;28.5
+Lomé;12.1
+Minneapolis;-7.2
+Tashkent;15.3
+Ouagadougou;43.0
+Aden;28.4
+Dubai;18.7
+Brisbane;25.0
+Nouadhibou;28.3
+Toliara;8.8
+Prague;-3.5
+Salt Lake City;8.2
+Yerevan;7.2
+Colombo;46.7
+Garoua;29.7
+Douala;32.0
+Pontianak;23.0
+Dhaka;5.3
+Copenhagen;9.3
+Ashgabat;23.3
+Edinburgh;13.0
+Mandalay;45.0
+Fianarantsoa;4.7
+Marseille;-2.6
+Bangui;34.4
+Toronto;8.5
+Nouadhibou;22.2
+Christchurch;9.9
+London;9.2
+Bujumbura;6.4
+Mzuzu;16.0
+Skopje;19.6
+Ndola;19.1
+Riga;-0.8
+Medan;31.2
+Sofia;3.1
+Las Vegas;22.4
+Lhasa;-9.5
+Petropavlovsk-Kamchatsky;-19.3
+Indianapolis;16.1
+Dolisie;47.2
+Oranjestad;36.6
+Ndola;15.6
+Wrocław;21.0
+City of San Marino;11.7
+Kumasi;32.4
+Arkhangelsk;0.6
+Conakry;26.2
+Upington;6.7
+Bulawayo;10.1
+Memphis;10.6
+Rostov-on-Don;6.3
+Bamako;34.4
+Tamanrasset;25.6
+Tabriz;24.8
+Mexico City;23.5
+Los Angeles;15.7
+Dubai;17.5
+Palembang;17.5
+Yakutsk;-11.0
+Alexandra;14.3
+Parakou;27.3
+San Jose;21.4
+Wellington;-0.3
+Nouakchott;23.8
+Split;7.3
+Johannesburg;11.7
+Fairbanks;-8.0
+Nashville;22.9
+Cairo;24.8
+Tashkent;20.7
+Villahermosa;19.4
+Port Moresby;13.4
+Juba;38.3
+Conakry;16.9
+Dodoma;29.0
+Los Angeles;12.4
+Denpasar;11.7
+Brazzaville;15.4
+Novosibirsk;6.7
+Las Vegas;29.6
+San Francisco;10.8
+Malabo;24.9
+Anchorage;-8.8
+Hamilton;10.5
+St. John's;12.8
+Maputo;32.7
+Kunming;12.4
+Conakry;25.7
+Perth;30.1
+Colombo;28.7
+Taipei;27.4
+Djibouti;20.8
+Guatemala City;7.0
+Beijing;13.6
+Cape Town;8.3
+Indianapolis;19.9
+Podgorica;6.8
+Bosaso;20.1
+Erzurum;12.3
+Douala;20.0
+Seville;9.9
+Bissau;41.6
+Fianarantsoa;22.1
+Riyadh;20.9
+Bratislava;4.5
+Port Sudan;24.3
+Jayapura;22.7
+Indianapolis;0.8
+Tampa;22.2
+Hargeisa;32.4
+Ankara;34.7
+Thessaloniki;21.6
+Mek'ele;27.1
+New Orleans;30.1
+Harare;40.0
+Minsk;1.2
+Yakutsk;-12.9
+Djibouti;30.5
+Villahermosa;36.9
+Birao;22.6
+Panama City;36.8
+Damascus;33.2
+Las Vegas;14.7
+Hamburg;5.5
+Nicosia;2.6
+Kingston;20.6
+Mahajanga;30.3
+Napoli;18.0
+Birao;31.1
+Kuopio;-8.6
+Darwin;29.4
+Nicosia;17.3
+Astana;-2.7
+Accra;29.7
+Mango;6.9
+Hobart;24.4
+Fresno;24.1
+Erzurum;19.0
+Wrocław;29.8
+Ashgabat;8.8
+Mexico City;36.5
+Abidjan;19.0
+Colombo;55.7
+Ifrane;-8.3
+Changsha;25.1
+Panama City;29.2
+Dushanbe;26.0
+Zagreb;13.9
+Gagnoa;18.5
+Tabora;27.9
+Honiara;15.5
+Kingston;10.5
+Seoul;19.0
+Mombasa;33.1
+Lake Havasu City;27.7
+Hobart;22.1
+Yerevan;-1.1
+Rangpur;25.7
+Yellowknife;-0.9
+Roseau;28.5
+Montreal;12.5
+Ulaanbaatar;-17.6
+La Paz;24.0
+Harbin;2.7
+Havana;14.0
+Bamako;32.3
+Kyiv;4.3
+Adelaide;15.2
+City of San Marino;6.8
+Marrakesh;27.2
+Singapore;11.6
+Rangpur;26.6
+Lubumbashi;48.1
+Zanzibar City;38.3
+Ouahigouya;39.8
+Dubai;28.2
+Mzuzu;10.0
+Beirut;26.2
+Moscow;2.8
+Harbin;14.6
+Houston;7.9
+Guadalajara;16.5
+La Paz;52.5
+Jacksonville;8.0
+Rome;18.1
+Bratislava;13.0
+Minsk;-6.8
+Pittsburgh;7.1
+Las Vegas;19.3
+Edmonton;-4.4
+Dili;18.8
+Cotonou;18.9
+Belize City;23.9
+Batumi;10.1
+Chicago;6.4
+Denpasar;39.0
+Mek'ele;49.0
+Alexandra;-0.2
+Palembang;27.9
+Villahermosa;11.1
+Reggane;33.3
+Guangzhou;37.0
+Oulu;3.8
+Shanghai;1.3
+City of San Marino;19.7
+Lahore;21.3
+Upington;21.3
+Bordeaux;9.4
+Niamey;36.5
+Bishkek;-0.7
+Sana'a;-2.2
+Havana;22.2
+Yellowknife;14.8
+Vladivostok;-1.9
+Tabora;15.9
+Palermo;21.4
+Pittsburgh;14.4
+Tamanrasset;33.3
+Luanda;32.0
+Launceston;16.2
+Karonga;17.4
+Niigata;27.9
+Kankan;24.8
+Lisbon;28.1
+Tashkent;-7.9
+Tamanrasset;15.8
+Bamako;38.4
+Lake Tekapo;17.4
+Ghanzi;17.3
+Kolkata;14.0
+Bloemfontein;9.4
+Tamanrasset;31.5
+Murmansk;10.2
+Austin;14.1
+Whitehorse;15.6
+Maun;27.3
+City of San Marino;11.3
+Lake Havasu City;23.4
+Kuwait City;30.7
+Warsaw;6.0
+Brussels;13.9
+Mogadishu;14.3
+Madrid;27.9
+Bosaso;31.1
+Conakry;33.9
+Dili;10.3
+Launceston;13.3
+Conakry;22.8
+Parakou;25.0
+Denpasar;33.4
+Douala;14.4
+Kunming;14.8
+Lahore;9.7
+George Town;20.2
+Anadyr;-13.7
+Kano;21.1
+Managua;34.9
+Saint Petersburg;9.9
+Darwin;-2.3
+Cracow;11.5
+Port Vila;22.2
+Budapest;13.2
+Ashgabat;41.5
+El Paso;16.0
+Karachi;17.0
+San José;23.0
+Mombasa;42.9
+Irkutsk;9.4
+Oulu;17.9
+Columbus;12.0
+San Jose;25.3
+Calgary;25.6
+Edinburgh;17.4
+Garissa;19.1
+Pittsburgh;12.0
+Helsinki;3.5
+Kolkata;22.7
+Tabora;26.8
+Cracow;3.4
+Vaduz;-8.7
+Hat Yai;28.7
+Charlotte;19.0
+Athens;17.5
+Petropavlovsk-Kamchatsky;-2.4
+Makurdi;51.4
+Milan;21.5
+Havana;38.8
+Hong Kong;38.9
+Lake Tekapo;12.2
+Oslo;6.7
+Riyadh;24.9
+Barcelona;4.8
+Amsterdam;18.4
+Tehran;19.6
+Mahajanga;12.9
+Oulu;1.0
+St. Louis;19.2
+Mumbai;20.5
+Madrid;25.4
+Batumi;-1.0
+Malé;15.9
+Malabo;22.8
+Chișinău;-7.0
+Chihuahua;12.6
+Aden;22.4
+Dakar;20.7
+Djibouti;28.3
+Astana;15.2
+Makurdi;32.9
+Chihuahua;14.7
+Monterrey;32.2
+Gangtok;10.8
+Nakhon Ratchasima;41.0
+Yangon;35.1
+Mahajanga;10.4
+Sacramento;19.3
+Vaduz;25.0
+Ouahigouya;22.2
+Ouarzazate;6.5
+Abéché;2.8
+Bergen;10.3
+Pointe-Noire;16.4
+Mumbai;18.1
+Denver;6.5
+Bratislava;10.7
+Tabora;36.5
+Oulu;-7.0
+Aden;13.0
+Antsiranana;24.9
+Tampa;30.8
+Pyongyang;8.9
+Hamilton;6.4
+Bloemfontein;18.7
+Ouahigouya;22.6
+Blantyre;22.2
+Kumasi;33.6
+Ségou;52.1
+Zanzibar City;34.6
+Milan;12.3
+Kinshasa;14.6
+Dushanbe;1.1
+Petropavlovsk-Kamchatsky;-0.8
+Xi'an;4.2
+Yaoundé;26.8
+Dubai;26.0
+Tokyo;15.1
+Bangkok;40.0
+Saskatoon;-4.5
+Mumbai;30.0
+Tirana;19.2
+Baltimore;11.7
+Yinchuan;15.6
+Tallinn;0.8
+Omaha;11.8
+Manama;41.3
+Philadelphia;7.0
+Kyiv;-5.6
+Wau;26.8
+Halifax;5.7
+Kathmandu;30.1
+Copenhagen;11.3
+La Paz;15.7
+Zürich;14.6
+Vladivostok;16.5
+Makurdi;8.5
+Sacramento;23.0
+Reggane;16.5
+Tokyo;9.3
+Anchorage;-6.3
+Boston;17.4
+Changsha;18.3
+Ouarzazate;-0.7
+Tel Aviv;9.7
+Durban;20.3
+Lubumbashi;10.1
+Naha;9.6
+Tamanrasset;31.5
+Montreal;17.8
+Gabès;10.3
+Alice Springs;21.1
+Upington;29.0
+Chiang Mai;19.4
+Manama;17.9
+Berlin;3.6
+Da Nang;7.0
+Kano;23.1
+Niigata;28.0
+Cabo San Lucas;31.0
+Bangkok;24.6
+Pretoria;7.2
+Libreville;32.5
+Kano;13.7
+Colombo;34.4
+Bloemfontein;19.0
+Ankara;29.9
+Bridgetown;40.7
+Adelaide;23.5
+Lake Tekapo;12.1
+Iqaluit;-8.8
+Oulu;6.5
+Palmerston North;13.9
+San Diego;28.0
+Beirut;4.5
+Albuquerque;14.8
+Sarajevo;13.1
+Ljubljana;14.7
+Barcelona;25.3
+Kolkata;35.0
+Kingston;22.0
+Thiès;19.3
+Havana;5.9
+Karonga;8.9
+Reggane;29.8
+Entebbe;37.7
+Entebbe;32.2
+Mombasa;44.0
+Abéché;41.5
+Ottawa;-11.5
+Ségou;35.1
+City of San Marino;-6.3
+Tbilisi;12.5
+Tampa;28.0
+Flores,  Petén;18.0
+Tamanrasset;9.7
+Hiroshima;2.0
+San Diego;32.2
+Marseille;14.3
+St. Louis;11.1
+Changsha;20.4
+Ifrane;16.9
+Perth;-4.7
+Bata;21.0
+Miami;6.0
+Seattle;14.0
+San Diego;30.0
+Reggane;22.5
+Belgrade;10.4
+Dampier;12.8
+N'Djamena;23.6
+Ifrane;4.3
+Tijuana;2.8
+Detroit;-7.8
+Rome;17.4
+Dushanbe;9.8
+New York City;3.3
+Kinshasa;38.3
+Philadelphia;22.1
+Bulawayo;31.3
+Bilbao;6.8
+Wellington;3.3
+Christchurch;1.8
+Toluca;12.7
+Omaha;1.4
+Murmansk;10.3
+Virginia Beach;8.1
+Vancouver;-11.3
+Bangkok;26.8
+El Paso;24.1
+Beijing;34.5
+Frankfurt;6.3
+Denpasar;12.5
+Tirana;12.1
+Denpasar;7.6
+Bishkek;2.8
+Mzuzu;14.0
+Thiès;37.6
+Bangui;24.9
+Yellowknife;-9.1
+Tamale;34.4
+Sana'a;24.2
+Barcelona;3.4
+Lubumbashi;7.8
+Pyongyang;9.9
+Gabès;21.4
+Los Angeles;23.8
+Yinchuan;25.4
+N'Djamena;24.6
+Tripoli;23.5
+Ahvaz;16.2
+Sydney;20.6
+Bujumbura;20.5
+Medan;23.6
+Cotonou;31.7
+Kandi;24.4
+Mexicali;31.9
+Malé;40.8
+Kumasi;20.0
+Malabo;37.2
+Damascus;5.0
+Asmara;-2.2
+Bucharest;24.1
+Kankan;30.9
+Detroit;25.7
+Dampier;35.0
+Sana'a;2.9
+Medan;23.7
+Split;17.2
+Marseille;11.5
+Montreal;1.7
+Pretoria;25.1
+Harare;23.4
+Odesa;0.7
+Cotonou;-0.1
+Sokoto;26.0
+Riga;6.6
+Honolulu;28.5
+Accra;23.2
+Fresno;16.2
+Hamilton;23.4
+Honiara;12.2
+Baghdad;27.0
+Sofia;13.8
+Denver;28.1
+Luanda;20.4
+Sofia;17.2
+El Paso;23.5
+Tabriz;13.8
+Blantyre;25.6
+Atlanta;24.7
+Guatemala City;22.2
+Pyongyang;-2.5
+Riga;-10.5
+Hong Kong;14.9
+Palembang;17.6
+San Salvador;17.1
+La Paz;22.3
+Madrid;28.0
+St. John's;6.2
+Fairbanks;-12.1
+Virginia Beach;14.6
+N'Djamena;36.8
+Porto;17.5
+Saskatoon;-3.3
+Suwałki;-12.0
+Montreal;3.1
+Valletta;-5.8
+Kolkata;34.1
+Fairbanks;-11.2
+Lake Tekapo;0.1
+Amsterdam;1.6
+Ndola;11.4
+Saskatoon;11.6
+Saint Petersburg;2.7
+Phnom Penh;24.4
+Bergen;-10.0
+Rostov-on-Don;21.4
+Houston;26.7
+Arkhangelsk;-17.4
+Hamilton;25.2
+Canberra;11.6
+Austin;16.5
+Fianarantsoa;14.0
+Tokyo;15.6
+Houston;11.9
+Chișinău;21.9
+Dunedin;-12.6
+Louisville;26.4
+Thessaloniki;29.3
+Paris;29.4
+Washington, D.C.;17.6
+Niamey;23.4
+Bujumbura;7.1
+Dili;18.9
+Kinshasa;11.7
+Whitehorse;-18.9
+Stockholm;1.2
+Ouarzazate;17.9
+Portland (OR);-4.1
+Dampier;35.6
+Damascus;18.9
+Mexico City;8.5
+Aden;30.6
+Alexandria;19.0
+Tripoli;7.0
+San Diego;15.2
+Brisbane;37.4
+Arkhangelsk;1.7
+Bissau;27.4
+Tel Aviv;17.7
+Melbourne;13.6
+Canberra;15.5
+La Paz;29.8
+Omaha;1.7
+Brussels;4.2
+Chicago;11.8
+Virginia Beach;14.3
+Tashkent;28.5
+Pittsburgh;29.9
+Nouadhibou;28.1
+Harbin;-6.8
+Manila;29.4
+Lubumbashi;13.9
+Stockholm;3.0
+Murmansk;4.3
+Indianapolis;9.9
+Milan;1.9
+Hamburg;3.2
+Kandi;30.6
+Pittsburgh;25.5
+Dhaka;31.4
+Phnom Penh;32.1
+Mahajanga;26.1
+Alexandra;13.5
+Blantyre;13.8
+Odesa;14.6
+Ho Chi Minh City;33.9
+Bangkok;48.0
+Kabul;14.4
+Bata;30.9
+Tokyo;-6.3
+Nakhon Ratchasima;29.7
+Honiara;21.3
+Sofia;19.9
+Kabul;19.4
+Moscow;9.9
+Vancouver;-1.6
+Mek'ele;21.2
+Jacksonville;27.9
+Mango;43.8
+Palembang;5.1
+Monaco;-0.5
+Rabat;12.2
+Kabul;24.8
+Birao;8.7
+Riga;1.1
+Manila;14.9
+Wrocław;13.5
+Ankara;13.9
+Ottawa;6.9
+Chittagong;30.3
+Ahvaz;20.6
+Bordeaux;18.0
+Livingstone;29.5
+Detroit;11.4
+Bouaké;31.5
+Nuuk;1.1
+Kuopio;10.9
+Cabo San Lucas;18.7
+Batumi;4.4
+Damascus;14.2
+Bratislava;14.9
+Reykjavík;17.0
+New Delhi;23.5
+Valletta;4.8
+La Ceiba;32.2
+Abha;15.0
+Bamako;13.5
+Port Vila;14.1
+Xi'an;10.0
+Yinchuan;2.4
+Andorra la Vella;13.0
+Copenhagen;19.8
+Budapest;2.3
+Washington, D.C.;17.4
+Alexandra;11.2
+Pointe-Noire;35.2
+Christchurch;4.7
+Auckland;17.8
+Alice Springs;27.6
+Almaty;-4.3
+Tijuana;3.9
+Brussels;2.4
+Hamburg;9.1
+Fianarantsoa;22.3
+Dublin;-4.3
+Willemstad;15.0
+Changsha;33.2
+Medan;16.2
+Luanda;24.8
+Asmara;16.3
+Lake Tekapo;3.2
+Fukuoka;18.0
+Podgorica;25.8
+Douala;26.8
+Manama;22.0
+Valletta;29.0
+Livingstone;24.2
+Kandi;48.5
+Canberra;24.1
+Lyon;9.2
+Alice Springs;35.5
+Tegucigalpa;16.7
+Lake Tekapo;29.2
+Brazzaville;13.5
+Riga;-6.6
+Makassar;1.1
+Sapporo;-3.3
+Port Vila;38.0
+Miami;30.0
+Marrakesh;10.1
+Parakou;16.5
+Surabaya;30.5
+Riyadh;17.8
+Louisville;4.8
+Lodwar;47.9
+Taipei;29.6
+Ho Chi Minh City;29.8
+Managua;40.4
+Veracruz;39.4
+Gabès;10.3
+Hobart;27.5
+Port Moresby;33.0
+Auckland;25.6
+Mogadishu;31.5
+Paris;6.5
+Bata;6.8
+Benghazi;-9.0
+Hargeisa;20.1
+Gangtok;31.7
+Xi'an;29.1
+Ottawa;25.7
+Cabo San Lucas;25.7
+Dunedin;-0.3
+Conakry;23.1
+Zagreb;18.6
+Mahajanga;16.1
+Sana'a;12.1
+Lusaka;5.0
+Cabo San Lucas;28.5
+Melbourne;19.6
+Vancouver;0.5
+Riyadh;16.1
+Valletta;29.7
+Thessaloniki;30.8
+Fianarantsoa;25.6
+La Paz;3.1
+Johannesburg;24.1
+Brussels;21.3
+Indianapolis;26.2
+Detroit;-2.7
+Oslo;18.4
+Sochi;17.8
+Fairbanks;-23.0
+Livingstone;32.7
+Boston;9.7
+Ulaanbaatar;-17.4
+Managua;28.3
+Abha;17.6
+Algiers;13.5
+İzmir;19.8
+Dampier;42.8
+Gagnoa;16.9
+Dili;32.5
+Thessaloniki;19.9
+Chihuahua;27.9
+Astana;9.5
+Bangui;25.1
+Khartoum;25.9
+Kinshasa;18.7
+Makurdi;4.1
+Panama City;30.7
+Ifrane;5.4
+Cracow;-12.2
+Saskatoon;7.7
+Palm Springs;36.3
+Naha;17.7
+Melbourne;10.8
+Ulaanbaatar;4.3
+Honolulu;15.8
+Barcelona;25.9
+Indianapolis;18.1
+Amsterdam;1.8
+Memphis;4.7
+Detroit;-2.2
+Port Sudan;25.4
+Maun;20.6
+Yangon;25.3
+Abidjan;20.0
+Pontianak;26.9
+Oranjestad;37.7
+Louisville;25.2
+Bucharest;1.6
+Seville;3.8
+Barcelona;22.0
+Vladivostok;6.5
+Kuopio;-13.1
+Willemstad;35.1
+San José;38.9
+Birao;23.5
+Kampala;25.7
+Beirut;13.4
+Taipei;20.7
+Colombo;35.0
+Upington;9.2
+Dublin;1.6
+Kunming;13.9
+Dolisie;21.0
+Houston;29.8
+Ghanzi;19.1
+Malé;27.6
+Bilbao;31.8
+Miami;38.0
+Niigata;4.2
+Zagreb;0.3
+Hamburg;5.4
+Tamale;18.4
+Philadelphia;23.2
+Calgary;-0.9
+Ouarzazate;29.0
+Saskatoon;0.2
+Livingstone;17.5
+Budapest;5.5
+Mandalay;27.6
+Heraklion;25.9
+Beirut;27.2
+Alice Springs;33.3
+San Francisco;14.1
+N'Djamena;40.8
+Tegucigalpa;27.1
+Edmonton;-0.7
+Moncton;14.0
+Bloemfontein;20.2
+Gangtok;15.4
+Abidjan;0.1
+Toamasina;7.6
+Oulu;-14.3
+Cairo;22.3
+Salt Lake City;15.4
+Sapporo;17.7
+Barcelona;-0.5
+Dodoma;13.1
+Lomé;19.8
+Mzuzu;9.5
+Mogadishu;24.3
+Istanbul;7.3
+Benghazi;13.6
+Medan;7.5
+Charlotte;4.3
+Fianarantsoa;4.6
+Jayapura;42.2
+Guatemala City;12.7
+Hargeisa;32.9
+Split;22.9
+Ngaoundéré;18.3
+Baku;26.0
+Brisbane;17.6
+Phoenix;23.8
+Honiara;19.8
+Beijing;12.2
+Wellington;17.7
+Detroit;18.4
+Melbourne;16.9
+Managua;48.5
+Riyadh;29.4
+Dikson;-25.9
+Parakou;24.2
+San Juan;23.7
+Dunedin;10.2
+Rabat;-9.6
+Oklahoma City;31.6
+Milwaukee;8.3
+Cairo;22.8
+Napier;24.2
+Manama;6.1
+Taipei;24.2
+Murmansk;1.4
+Lahore;18.4
+Chittagong;29.2
+La Paz;11.9
+Melbourne;4.9
+Dolisie;12.2
+Roseau;36.0
+Milwaukee;2.4
+San José;22.3
+Jerusalem;12.0
+Dunedin;5.2
+Sofia;16.2
+Alexandria;39.4
+Surabaya;18.5
+Canberra;21.0
+Beijing;19.3
+Makassar;15.7
+Bouaké;24.8
+Valletta;25.4
+Mango;26.0
+Dushanbe;12.4
+Columbus;1.1
+Stockholm;4.6
+Busan;22.1
+Nicosia;37.6
+Dunedin;10.8
+Niamey;21.3
+Paris;30.4
+Accra;-0.6
+Cracow;20.5
+Andorra la Vella;24.3
+Budapest;17.6
+Panama City;34.9
+Kano;19.1
+Jayapura;27.2
+Saskatoon;-4.2
+Las Vegas;16.4
+Taipei;25.3
+Budapest;1.9
+Astana;11.9
+Hong Kong;24.8
+Bratislava;0.6
+Ottawa;29.4
+Toliara;30.8
+Abéché;12.8
+Hobart;16.7
+Minneapolis;16.5
+Washington, D.C.;6.2
+Entebbe;38.8
+Valletta;16.6
+Banjul;28.4
+Nuuk;-6.3
+Aden;40.2
+Athens;19.2
+Petropavlovsk-Kamchatsky;-5.8
+Kunming;32.6
+Thessaloniki;11.1
+Palermo;15.6
+Barcelona;2.5
+Maputo;5.7
+Arkhangelsk;-10.9
+Alice Springs;22.1
+Bergen;-6.7
+Valencia;34.0
+Guangzhou;23.3
+Melbourne;24.8
+Benghazi;10.5
+Saskatoon;16.4
+Bloemfontein;14.7
+Havana;30.4
+Minneapolis;8.3
+Lake Havasu City;24.7
+Arkhangelsk;2.3
+Entebbe;21.1
+Napier;3.1
+Addis Ababa;6.3
+Athens;30.9
+Ngaoundéré;11.1
+Lisbon;3.5
+Nashville;20.5
+Hanoi;24.6
+Lahore;25.8
+Willemstad;28.6
+Helsinki;1.8
+Blantyre;28.9
+Kuala Lumpur;45.5
+Helsinki;-0.5
+Monaco;20.9
+Thessaloniki;16.7
+Cape Town;25.2
+La Ceiba;21.6
+Fairbanks;16.6
+Yerevan;12.6
+Hobart;3.7
+Atlanta;17.8
+Sofia;19.8
+Kuopio;-3.4
+Philadelphia;25.4
+Ashgabat;21.8
+Saskatoon;7.6
+Athens;19.8
+Upington;18.9
+Ankara;7.7
+Cabo San Lucas;38.4
+Saint-Pierre;10.1
+Tokyo;16.7
+Kumasi;30.5
+Dolisie;20.6
+Cairo;22.1
+Yaoundé;31.3
+Ürümqi;-0.7
+Baku;4.0
+Tamale;12.6
+Lviv;8.4
+Edinburgh;23.4
+Chicago;-6.6
+Abéché;35.6
+Cabo San Lucas;10.8
+Bulawayo;29.5
+New Delhi;25.9
+Tripoli;25.8
+Gangtok;12.6
+Alexandra;8.8
+Oranjestad;27.6
+Mogadishu;36.9
+Kunming;19.3
+Hobart;-6.3
+Portland (OR);16.2
+Christchurch;-2.1
+Ngaoundéré;34.3
+Chiang Mai;33.6
+Port Moresby;29.5
+Bridgetown;26.2
+Los Angeles;14.2
+Chicago;0.4
+Tampa;25.6
+Chișinău;13.0
+Panama City;44.3
+Bangkok;24.6
+New Delhi;13.7
+Mumbai;8.1
+Nouadhibou;44.7
+Phnom Penh;27.4
+Lviv;-0.6
+Shanghai;13.9
+Taipei;26.0
+Livingstone;20.8
+Helsinki;20.1
+N'Djamena;22.1
+Tunis;33.4
+Nairobi;24.4
+Louisville;0.6
+Bishkek;-0.3
+Lisbon;0.1
+İzmir;30.1
+Palembang;31.1
+Burnie;16.0
+Oslo;8.2
+New Delhi;24.7
+Nouakchott;27.4
+Malé;14.1
+Montreal;12.2
+Yakutsk;4.3
+Ouarzazate;28.2
+San Antonio;8.0
+Tehran;4.5
+New Orleans;24.4
+Port Sudan;27.1
+Fukuoka;30.0
+Zürich;-6.9
+Mek'ele;8.2
+Mumbai;26.7
+Bouaké;28.6
+Mexico City;4.5
+Surabaya;27.1
+Conakry;11.1
+Lake Havasu City;30.6
+Porto;13.9
+Busan;17.4
+Cotonou;22.3
+Vientiane;30.9
+Cracow;-0.2
+Aden;28.3
+Brisbane;40.2
+Nouadhibou;21.7
+Aden;45.7
+Bangui;39.9
+Jakarta;29.4
+St. Louis;7.2
+Perth;32.6
+Colombo;18.9
+Aden;49.5
+Kyoto;5.2
+Winnipeg;-1.2
+Saskatoon;-14.7
+Bridgetown;14.1
+Yinchuan;12.4
+Brazzaville;43.0
+Edmonton;1.6
+Fianarantsoa;17.8
+Batumi;27.3
+Zanzibar City;19.4
+Mek'ele;14.5
+Kuwait City;34.9
+Bucharest;5.8
+Niigata;17.2
+Miami;24.2
+Novosibirsk;0.0
+Ghanzi;22.2
+Ngaoundéré;29.9
+Marseille;24.7
+Blantyre;13.6
+Chișinău;11.8
+Omaha;22.3
+Belgrade;41.8
+Guangzhou;29.6
+Fairbanks;6.2
+Damascus;16.6
+Las Palmas de Gran Canaria;29.6
+Auckland;7.4
+Bridgetown;26.4
+Djibouti;32.7
+Toronto;4.6
+Karachi;7.5
+Kunming;25.6
+Cabo San Lucas;21.4
+Makurdi;18.8
+Astana;27.1
+Belize City;22.1
+Bangui;41.0
+Tampa;21.7
+Oranjestad;23.9
+Gjoa Haven;-32.3
+George Town;29.9
+Garoua;31.0
+Perth;33.5
+Valletta;10.9
+Bamako;32.3
+Columbus;7.2
+Dampier;35.5
+Pontianak;31.5
+Dublin;31.4
+Pittsburgh;1.6
+Cairns;22.0
+Ngaoundéré;24.3
+Toronto;7.9
+Los Angeles;19.0
+Kankan;2.0
+Andorra la Vella;3.3
+Valletta;31.8
+Tel Aviv;43.9
+Johannesburg;23.4
+New Orleans;18.7
+Tampa;19.5
+Melbourne;25.2
+Canberra;21.4
+Nashville;7.9
+Batumi;12.0
+Abéché;33.3
+Tripoli;17.4
+Dakar;23.5
+Lodwar;20.9
+Changsha;24.8
+El Paso;20.1
+Lusaka;9.5
+Kuopio;-1.8
+New Delhi;17.7
+Canberra;24.2
+San Salvador;32.0
+Ouahigouya;46.9
+Athens;14.2
+Rangpur;38.2
+Lubumbashi;17.2
+Lake Havasu City;8.2
+Naha;16.3
+Hiroshima;15.5
+Oulu;-1.5
+Tampa;31.0
+Da Lat;19.8
+Riga;17.5
+Hanoi;22.7
+Abidjan;22.6
+Dushanbe;9.8
+Fairbanks;7.4
+Seattle;9.9
+Benghazi;13.4
+George Town;34.2
+Houston;34.5
+George Town;50.8
+Dolisie;-3.8
+Harare;25.2
+Port Moresby;24.1
+Kunming;26.5
+Dublin;0.9
+Hiroshima;8.7
+Malé;27.4
+Asmara;-3.9
+Kathmandu;23.0
+Aden;12.7
+Maputo;29.4
+Saskatoon;10.3
+Kuwait City;43.7
+Calgary;2.9
+Hamburg;-6.7
+Stockholm;9.2
+Shanghai;1.1
+Abidjan;23.1
+Lodwar;34.1
+Darwin;6.1
+Kinshasa;36.6
+Miami;9.0
+Zanzibar City;40.6
+Harbin;-8.9
+Riyadh;25.8
+Irkutsk;9.9
+Tromsø;3.3
+Manama;32.4
+Houston;1.1
+Suva;17.1
+Luanda;13.2
+Christchurch;11.5
+Mombasa;24.2
+Baghdad;5.6
+Harbin;9.9
+Lake Tekapo;-13.7
+Odesa;7.8
+Albuquerque;14.5
+Cairo;7.5
+Makurdi;25.3
+Busan;16.9
+Ghanzi;12.1
+Salt Lake City;28.9
+Ankara;8.1
+Valletta;19.9
+Maputo;43.0
+Hiroshima;19.0
